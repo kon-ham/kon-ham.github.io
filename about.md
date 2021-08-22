@@ -3,27 +3,36 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<!-- <p class="message">
+Hi, Kon here! Are you trying to get a hold of me? contact@konkham.com
+</p> -->
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+# My name is Kon Ham.
+This is where I dump everything I find interesting. You'll also find loads of personal thoughts on business, marketing, life, movies, books and general self-improvement. 
 
-There are currently two themes built on Poole:
+# About me:
+I am a software developer, United States veteran, and a proud high-school dropout. (Ask me how I feel about the public school system!)
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+Both my undergraduate and graduate degrees are in education: **B.A Early Childhood Education, M.Ed. Instructional Design**. I'm one semester into obtaining my MBA but I may not finish.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+The skills I'm currently utilizing are: **Rails, PostgreSQL, JavaScript, HTML, CSS, CI, Heroku and Liquid**
 
-## Setup
+I’ve also recently obtained national and state accreditation as an emergency medical technician basic (**NREMT EMT-B**) and am looking for opportunities to volunteer my time in my local community. 
 
-Some fun facts about the setup of this project include:
+Please let me know if you have any leads.
 
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
+Because my background and experience is varied, I have a wide range of experiences that might be useful to you.  
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Be advised: I admit that such experience, because it is so varied, may lack lots of depth.
 
-Thanks for reading!
+My hope is that at least one post on this site contributes to adding value to your life so that your time here is not wasted.
+
+# Contact Me
+My email is: [contact@konkham.com](mailto:contact@konkham.com)  
+Email not working? Try Gmail instead: [info.konham@gmail.com](mailto:info.konham@gmail.com)  
+My Github is: [github.com/kon-ham](github.com/kon-ham)  
+My LinkedIn is: [linkedin.com/in/kon-ham](https://www.linkedin.com/in/kon-ham)
+
+Hope to be in touch with you soon. 
+
+\- Kon

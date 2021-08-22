@@ -4,7 +4,7 @@
  <title>Kon Ham</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-08-22T09:11:17-04:00</updated>
+ <updated>2021-08-22T14:08:50-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Introduction</title>
-   <link href="http://localhost:4000/2020/04/04/introduction/"/>
+   <link href="http://localhost:4000/jekyll/poole/2020/04/04/introduction/"/>
    <updated>2020-04-04T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2020/04/04/introduction</id>
+   <id>http://localhost:4000/jekyll/poole/2020/04/04/introduction</id>
    <content type="html">&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel’s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll’s loyal butler.&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -63,9 +63,9 @@
  
  <entry>
    <title>Options</title>
-   <link href="http://localhost:4000/2020/04/03/options/"/>
+   <link href="http://localhost:4000/jekyll/2020/04/03/options/"/>
    <updated>2020-04-03T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2020/04/03/options</id>
+   <id>http://localhost:4000/jekyll/2020/04/03/options</id>
    <content type="html">&lt;p&gt;With Poole as a baseline theme for Jekyll, there aren’t many options available out of the box. Basic light and dark mode support is included. Colors are also provided for your own customization, while other Poole themes build on this to create more unique looks.&lt;/p&gt;
 
 &lt;ul id=&quot;markdown-toc&quot;&gt;
@@ -234,9 +234,9 @@
  
  <entry>
    <title>Example content</title>
-   <link href="http://localhost:4000/2020/04/02/example-content/"/>
+   <link href="http://localhost:4000/jekyll/2020/04/02/example-content/"/>
    <updated>2020-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2020/04/02/example-content</id>
+   <id>http://localhost:4000/jekyll/2020/04/02/example-content</id>
    <content type="html">&lt;p class=&quot;message&quot;&gt;&lt;strong&gt;Howdy!&lt;/strong&gt; This is an example blog post that shows several types of HTML content supported in this theme.&lt;/p&gt;
 
 &lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
@@ -420,9 +420,9 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://localhost:4000/2020/03/01/whats-jekyll/"/>
+   <link href="http://localhost:4000/jekyll/2020/03/01/whats-jekyll/"/>
    <updated>2020-03-01T00:00:00-05:00</updated>
-   <id>http://localhost:4000/2020/03/01/whats-jekyll</id>
+   <id>http://localhost:4000/jekyll/2020/03/01/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
