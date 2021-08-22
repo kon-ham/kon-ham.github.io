@@ -1,0 +1,409 @@
+I"YN
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Introduction&lt;/a&gt;
+&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel’s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll’s loyal butler.&lt;/p&gt;
+</code></pre></div></div>
+
+<hr />
+
+<p>Poole is the butler for <a href="http://jekyllrb.com">Jekyll</a>, the static site generator. It’s designed and developed by <a href="https://twitter.com/mdo">@mdo</a> to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.</p>
+
+<p>This demo site was last updated August 22, 2021.</p>
+
+<p>There are currently two themes built on Poole:</p>
+
+<ul>
+  <li><a href="http://hyde.getpoole.com">Hyde</a></li>
+  <li><a href="http://lanyon.getpoole.com">Lanyon</a></li>
+</ul>
+
+<p>Learn more and contribute on <a href="">GitHub</a>.</p>
+
+<h2 id="whats-included">What’s included</h2>
+
+<p>Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it like this one, includes the following:</p>
+
+<ul>
+  <li>Complete Jekyll setup included (layouts, config, <a href="/404.html">404</a>, <a href="/atom.xml">RSS feed</a>, posts, <a href="/archive">archive page</a>, and <a href="/about">example page</a>)</li>
+  <li>Mobile friendly design and development</li>
+  <li>Easily scalable text and component sizing with <code class="highlighter-rouge">rem</code> units in the CSS</li>
+  <li>Support for a wide gamut of HTML elements</li>
+  <li>Related posts (time-based, because Jekyll) below each post</li>
+  <li>Syntax highlighting, courtesy Jekyll’s built-in support for Rouge</li>
+</ul>
+
+<p>Additional features are available in individual themes.</p>
+
+<h2 id="browser-support">Browser support</h2>
+
+<p>Poole and its themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), Firefox, and Edge.</p>
+
+<h2 id="download">Download</h2>
+
+<p>These themes are developed on and hosted with GitHub. Head to the <a href="">GitHub repository</a> for downloads, bug reports, and features requests.</p>
+
+<p>Thanks!</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;time datetime="2020-04-04T00:00:00-04:00" class="post-date"&gt;04 Apr 2020&lt;/time&gt;
+
+Options&lt;/a&gt;
+&lt;p&gt;With Poole as a baseline theme for Jekyll, there aren’t many options available out of the box. Basic light and dark mode support is included. Colors are also provided for your own customization, while other Poole themes build on this to create more unique looks.&lt;/p&gt;
+</code></pre></div></div>
+
+<ul id="markdown-toc">
+  <li><a href="#dark-mode" id="markdown-toc-dark-mode">Dark mode</a></li>
+  <li><a href="#creating-themes" id="markdown-toc-creating-themes">Creating themes</a></li>
+  <li><a href="#colors" id="markdown-toc-colors">Colors</a></li>
+  <li><a href="#gray-colors" id="markdown-toc-gray-colors">Gray colors</a></li>
+  <li><a href="#google-analytics" id="markdown-toc-google-analytics">Google Analytics</a></li>
+</ul>
+
+<h2 id="dark-mode">Dark mode</h2>
+
+<p><strong>Dark mode is enabled automatically</strong> via CSS media query—you’ll find the source code for this in the <code class="highlighter-rouge">_sass/_variables.scss</code> stylesheet. If you’re familiar with CSS custom properties, you can also use this method to build your own color schemes.</p>
+
+<p><a href="https://markdotto.com/2018/11/05/css-dark-mode/">Read more about using CSS dark mode</a> via media queries like this:</p>
+
+<div class="language-scss highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Example media query to detect dark mode</span>
+<span class="k">@media</span> <span class="p">(</span><span class="n">prefers-color-scheme</span><span class="o">:</span> <span class="n">dark</span><span class="p">)</span> <span class="p">{</span>
+  <span class="c1">// ...</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<h2 id="creating-themes">Creating themes</h2>
+
+<p>If you want to make your own color schemes, modify the CSS variables in the <code class="highlighter-rouge">_sass/_variables.scss</code> stylesheet with a scoped data attribute or class name.</p>
+
+<p>For example, below we’ve created the beginnings of a blue theme:</p>
+
+<div class="language-scss highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Example blue theme</span>
+<span class="o">[</span><span class="nt">data-theme</span><span class="o">=</span><span class="s2">"blue"</span><span class="o">]</span> <span class="p">{</span>
+  <span class="na">--body-bg</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="no">blue</span><span class="p">);</span>
+  <span class="na">--body-color</span><span class="p">:</span> <span class="mh">#fff</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>Then, apply the theme by adding <code class="highlighter-rouge">data-theme="blue"</code> to the <code class="highlighter-rouge"><span class="nt">&lt;html&gt;</span></code> element.</p>
+
+<h2 id="colors">Colors</h2>
+
+<p>Change your site styles by modifying the source code with these CSS custom properties. Poole’s colors come from the <a href="https://yeun.github.io/open-color/">Open Color project</a>.</p>
+
+<dl class="colors">
+  <dt style="background-color: #fa5252;"></dt>
+  <dd>
+    <strong>var(--red)</strong><br />
+    #fa5252
+  </dd>
+  <dt style="background-color: #e64980;"></dt>
+  <dd>
+    <strong>var(--pink)</strong><br />
+    #e64980
+  </dd>
+  <dt style="background-color: #be4bdb;"></dt>
+  <dd>
+    <strong>var(--grape)</strong><br />
+    #be4bdb
+  </dd>
+  <dt style="background-color: #7950f2;"></dt>
+  <dd>
+    <strong>var(--purple)</strong><br />
+    #7950f2
+  </dd>
+  <dt style="background-color: #4c6ef5;"></dt>
+  <dd>
+    <strong>var(--indigo)</strong><br />
+    #4c6ef5
+  </dd>
+  <dt style="background-color: #228be6;"></dt>
+  <dd>
+    <strong>var(--blue)</strong><br />
+    #228be6
+  </dd>
+  <dt style="background-color: #15aabf;"></dt>
+  <dd>
+    <strong>var(--cyan)</strong><br />
+    #15aabf
+  </dd>
+  <dt style="background-color: #12b886;"></dt>
+  <dd>
+    <strong>var(--teal)</strong><br />
+    #12b886
+  </dd>
+  <dt style="background-color: #40c057;"></dt>
+  <dd>
+    <strong>var(--green)</strong><br />
+    #40c057
+  </dd>
+  <dt style="background-color: #fab005;"></dt>
+  <dd>
+    <strong>var(--yellow)</strong><br />
+    #fab005
+  </dd>
+  <dt style="background-color: #fd7e14;"></dt>
+  <dd>
+    <strong>var(--orange)</strong><br />
+    #fd7e14
+  </dd>
+</dl>
+
+<h2 id="gray-colors">Gray colors</h2>
+
+<p>There are also ten grayscale colors to choose from.</p>
+
+<dl class="colors">
+  <dt style="background-color: #f8f9fa;"></dt>
+  <dd>
+    <strong>var(--gray-000)</strong><br />
+    #f8f9fa
+  </dd>
+  <dt style="background-color: #f1f3f5;"></dt>
+  <dd>
+    <strong>var(--gray-100)</strong><br />
+    #f1f3f5
+  </dd>
+  <dt style="background-color: #e9ecef;"></dt>
+  <dd>
+    <strong>var(--gray-200)</strong><br />
+    #e9ecef
+  </dd>
+  <dt style="background-color: #dee2e6;"></dt>
+  <dd>
+    <strong>var(--gray-300)</strong><br />
+    #dee2e6
+  </dd>
+  <dt style="background-color: #ced4da;"></dt>
+  <dd>
+    <strong>var(--gray-400)</strong><br />
+    #ced4da
+  </dd>
+  <dt style="background-color: #adb5bd;"></dt>
+  <dd>
+    <strong>var(--gray-500)</strong><br />
+    #adb5bd
+  </dd>
+  <dt style="background-color: #868e96;"></dt>
+  <dd>
+    <strong>var(--gray-600)</strong><br />
+    #868e96
+  </dd>
+  <dt style="background-color: #495057;"></dt>
+  <dd>
+    <strong>var(--gray-700)</strong><br />
+    #495057
+  </dd>
+  <dt style="background-color: #343a40;"></dt>
+  <dd>
+    <strong>var(--gray-800)</strong><br />
+    #343a40
+  </dd>
+  <dt style="background-color: #212529;"></dt>
+  <dd>
+    <strong>var(--gray-900)</strong><br />
+    #212529
+  </dd>
+</dl>
+
+<h2 id="google-analytics">Google Analytics</h2>
+
+<p>Specify <code class="highlighter-rouge">ga_analytics</code> in your <code class="highlighter-rouge">_config.yml</code> and restart the server to add Google Analytics tracking code.</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Google Analytics example</span>
+<span class="ss">ga_analytics: </span><span class="no">UA</span><span class="o">-</span><span class="mo">000000</span><span class="o">-</span><span class="mi">0</span>
+</code></pre></div></div>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;time datetime="2020-04-03T00:00:00-04:00" class="post-date"&gt;03 Apr 2020&lt;/time&gt;
+
+Example content&lt;/a&gt;
+&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href="#"&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+</code></pre></div></div>
+
+<blockquote>
+  <p>Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+</blockquote>
+
+<p>Etiam porta <strong>sem malesuada magna</strong> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
+
+<h2 id="inline-html-elements">Inline HTML elements</h2>
+
+<p>HTML defines a long list of available inline tags, a complete list of which can be found on the <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">Mozilla Developer Network</a>.</p>
+
+<ul>
+  <li><strong>To bold text</strong>, use <code class="highlighter-rouge">&lt;strong&gt;</code>.</li>
+  <li><em>To italicize text</em>, use <code class="highlighter-rouge">&lt;em&gt;</code>.</li>
+  <li><mark>To highlight</mark>, use <code class="highlighter-rouge">&lt;mark&gt;</code>.</li>
+  <li>Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use <code class="highlighter-rouge">&lt;abbr&gt;</code>, with an optional <code class="highlighter-rouge">title</code> attribute for the full phrase.</li>
+  <li>Citations, like <cite>— Mark Otto</cite>, should use <code class="highlighter-rouge">&lt;cite&gt;</code>.</li>
+  <li><del>Deleted</del> text should use <code class="highlighter-rouge">&lt;del&gt;</code> and <ins>inserted</ins> text should use <code class="highlighter-rouge">&lt;ins&gt;</code>.</li>
+  <li>Superscript <sup>text</sup> uses <code class="highlighter-rouge">&lt;sup&gt;</code> and subscript <sub>text</sub> uses <code class="highlighter-rouge">&lt;sub&gt;</code>.</li>
+</ul>
+
+<p>Most of these elements are styled by browsers with few modifications on our part.</p>
+
+<h2 id="footnotes">Footnotes</h2>
+
+<p>Footnotes are supported as part of the Markdown syntax. Here’s one in action. Clicking this number<sup id="fnref:fn-sample_footnote"><a href="#fn:fn-sample_footnote" class="footnote">1</a></sup> will lead you to a footnote. The syntax looks like:</p>
+
+<figure class="highlight"><pre><code class="language-text" data-lang="text">Clicking this number[^fn-sample_footnote]</code></pre></figure>
+
+<p>Each footnote needs the <code class="highlighter-rouge">^fn-</code> prefix and a unique ID to be referenced for the footnoted content. The syntax for that list looks something like this:</p>
+
+<figure class="highlight"><pre><code class="language-text" data-lang="text">[^fn-sample_footnote]: Handy! Now click the return link to go back.</code></pre></figure>
+
+<p>You can place the footnoted content wherever you like. Markdown parsers should properly place it at the bottom of the post.</p>
+
+<h2 id="heading">Heading</h2>
+
+<p>Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
+
+<h3 id="code">Code</h3>
+
+<p>Inline code is available with the <code class="highlighter-rouge">&lt;code&gt;</code> element. Snippets of multiple lines of code are supported through Rouge. Longer lines will automatically scroll horizontally when needed. You may also use code fencing (triple backticks) for rendering code.</p>
+
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="c1">// Example can be run directly in your JavaScript console</span>
+
+<span class="c1">// Create a function that takes two arguments and returns the sum of those arguments</span>
+<span class="kd">var</span> <span class="nx">adder</span> <span class="o">=</span> <span class="k">new</span> <span class="nb">Function</span><span class="p">(</span><span class="dl">"</span><span class="s2">a</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">b</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">return a + b</span><span class="dl">"</span><span class="p">);</span>
+
+<span class="c1">// Call the function</span>
+<span class="nx">adder</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">6</span><span class="p">);</span>
+<span class="c1">// &gt; 8</span></code></pre></figure>
+
+<p>You may also optionally show code snippets with line numbers. Add <code class="highlighter-rouge">linenos</code> to the Rouge tags.</p>
+
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+</pre></td><td class="code"><pre><span class="c1">// Example can be run directly in your JavaScript console</span>
+
+<span class="c1">// Create a function that takes two arguments and returns the sum of those arguments</span>
+<span class="kd">var</span> <span class="nx">adder</span> <span class="o">=</span> <span class="k">new</span> <span class="nb">Function</span><span class="p">(</span><span class="dl">"</span><span class="s2">a</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">b</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">return a + b</span><span class="dl">"</span><span class="p">);</span>
+
+<span class="c1">// Call the function</span>
+<span class="nx">adder</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">6</span><span class="p">);</span>
+<span class="c1">// &gt; 8</span>
+</pre></td></tr></tbody></table></code></pre></figure>
+
+<p>Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.</p>
+
+<h3 id="gists-via-github-pages">Gists via GitHub Pages</h3>
+
+<p>Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.</p>
+
+<noscript><pre>400: Invalid request</pre></noscript>
+<script src="https://gist.github.com/13f94b734a4ddb132735.js?file=gist.md"> </script>
+
+<p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper.</p>
+
+<h3 id="lists">Lists</h3>
+
+<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+
+<ul>
+  <li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+  <li>Donec id elit non mi porta gravida at eget metus.</li>
+  <li>Nulla vitae elit libero, a pharetra augue.</li>
+</ul>
+
+<p>Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.</p>
+
+<ol>
+  <li>Vestibulum id ligula porta felis euismod semper.</li>
+  <li>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</li>
+  <li>Maecenas sed diam eget risus varius blandit sit amet non magna.</li>
+</ol>
+
+<p>Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.</p>
+
+<dl>
+  <dt>HyperText Markup Language (HTML)</dt>
+  <dd>The language used to describe and define the content of a Web page</dd>
+
+  <dt>Cascading Style Sheets (CSS)</dt>
+  <dd>Used to describe the appearance of Web content</dd>
+
+  <dt>JavaScript (JS)</dt>
+  <dd>The programming language used to build advanced Web sites and applications</dd>
+</dl>
+
+<p>Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
+
+<h3 id="images">Images</h3>
+
+<p>Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.</p>
+
+<p><img src="http://placehold.it/800x400" alt="placeholder" title="Large example image" />
+<img src="http://placehold.it/400x200" alt="placeholder" title="Medium example image" />
+<img src="http://placehold.it/200x200" alt="placeholder" title="Small example image" /></p>
+
+<h3 id="tables">Tables</h3>
+
+<p>Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Upvotes</th>
+      <th>Downvotes</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td>Totals</td>
+      <td>21</td>
+      <td>23</td>
+    </tr>
+  </tfoot>
+  <tbody>
+    <tr>
+      <td>Alice</td>
+      <td>10</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td>Bob</td>
+      <td>4</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Charlie</td>
+      <td>7</td>
+      <td>9</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
+
+<hr />
+
+<p>Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a></p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:fn-sample_footnote">
+      <p>Handy! Now click the return link to go back. <a href="#fnref:fn-sample_footnote" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;time datetime="2020-04-02T00:00:00-04:00" class="post-date"&gt;02 Apr 2020&lt;/time&gt;
+
+What's Jekyll?&lt;/a&gt;
+&lt;p&gt;&lt;a href="https://jekyllrb.com"&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href="https://github.com/jekyll/jekyll/blob/master/README.markdown"&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
+</code></pre></div></div>
+
+<blockquote>
+  <p>Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.</p>
+</blockquote>
+
+<p>It’s an immensely useful tool. Find out more by <a href="https://github.com/jekyll/jekyll">visiting the project on GitHub</a>.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;time datetime="2020-03-01T00:00:00-05:00" class="post-date"&gt;01 Mar 2020&lt;/time&gt;
+</code></pre></div></div>
+:ET

@@ -2,32 +2,28 @@
 layout: default
 title: Home
 ---
+<h1>Hi! Kon here.</h1>
+<p>Use the top right panel to navigate through the site.</p><hr>
+<h2>Recent Posts:</h2>
 
-<div class="posts">
-    {% for post in paginator.posts %}
-    <article class="post">
-        <h1 class="post-title">
-            <a href="{{ post.url | relative_url }}">
-                {{ post.title }}
-            </a>
-        </h1>
-
+<ol>
+    {% for post in site.posts limit: 5 %}
+    <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        {{ post.content | truncatewords: 30 }}
         <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-
-        {{ post.content }}
-    </article>
+    </li>
     {% endfor %}
-</div>
+</ol><hr>
 
-<div class="pagination">
-    {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older</a>
-    {% else %}
-    <span class="pagination-item older">Older</span>
-    {% endif %}
-    {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: relative_url }}">Newer</a>
-    {% else %}
-    <span class="pagination-item newer">Newer</span>
-    {% endif %}
-</div>
+<h2>In Other News:</h2>
+<p>As of August 22, 2021:</p>
+<p class="message">
+    <strong>I'm looking to join a great team.</strong><br>
+    Know of any junior-mid level openings? Here's my <a href="https://github.com/kon-ham/kon-ham.github.io/blob/main/resume.pdf">resume.</a>
+</p><hr>
+
+<h2>Looking For Me?</h2>
+<p>My email is: <a href="mailto:contact@konkham.com">contact@konkham.com</a> or <a href="mailto:info.konham@gmail.com">info.konham@gmail.com</a></p>
+<p>My Github is: <a href="github.com/kon-ham">github.com/kon-ham</a></p>
+<p>My LinkedIn is: <a href="linkedin.com/in/kon-ham">linkedin.com/in/kon-ham</a></p><hr>

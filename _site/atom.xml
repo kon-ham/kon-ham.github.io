@@ -4,7 +4,7 @@
  <title>Kon Ham</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-08-22T14:08:50-04:00</updated>
+ <updated>2021-08-22T16:36:57-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -237,9 +237,7 @@
    <link href="http://localhost:4000/jekyll/2020/04/02/example-content/"/>
    <updated>2020-04-02T00:00:00-04:00</updated>
    <id>http://localhost:4000/jekyll/2020/04/02/example-content</id>
-   <content type="html">&lt;p class=&quot;message&quot;&gt;&lt;strong&gt;Howdy!&lt;/strong&gt; This is an example blog post that shows several types of HTML content supported in this theme.&lt;/p&gt;
-
-&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
