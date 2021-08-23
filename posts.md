@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Posts (By Category)
+title: Posts
 ---
 
 {% assign sorted_cats = site.categories | sort %}
