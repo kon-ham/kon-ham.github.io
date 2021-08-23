@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PSY389 Cross-Cultural Psychology (On Observations of my own life compared to a colleague's)'
+title: PSY389 Cross-Cultural Psychology (On Observations of my own life compared to a colleague's)
 categories: [JFKU Final Projects]
 ---
 Introduction  
@@ -26,8 +26,8 @@ Between myself and my counterpart I found that there were more similarities than
   
 References  
 The Buddhist Centre. (2018). What is Buddhism? | The Buddhist Centre. Retrieved from https://thebuddhistcentre.com/buddhism  
-Choi,&nbsp;Y., Tan,&nbsp;K.&nbsp;P., Hiong,&nbsp;Y.&nbsp;M., & Pekelnicky,&nbsp;D.&nbsp;D. (2014). Race-Ethnicity and Culture in the Family and Youth Outcomes: Test of a Path Model with Korean American Youth and Parents. Race and Social Problems, 6(1).  
-Matsumoto,&nbsp;D.&nbsp;R., & Juang,&nbsp;L.&nbsp;P. (2017). Culture and psychology.  
-Min,&nbsp;P.&nbsp;G. (2013). Koreans in North America: Their twenty-first century experiences. Lanham: Lexington Books.  
-Tang,&nbsp;M., & Russ,&nbsp;K. (2007). Understanding and Facilitating Career Development of People of Appalachian Culture: An Integrated Approach. The Career Development Quarterly, 56(1), 34-46. doi:10.1002/j.2161-0045.2007.tb00018.x  
-Willima,&nbsp;S.&nbsp;I. (1999). Doing Business in the Deep South: A Guide for Internationals. S.A.M. Advanced Management Journal, 64(4).
+Choi, Y., Tan, K. P., Hiong, Y. M., & Pekelnicky, D. D. (2014). Race-Ethnicity and Culture in the Family and Youth Outcomes: Test of a Path Model with Korean American Youth and Parents. Race and Social Problems, 6(1).  
+Matsumoto, D. R., & Juang, L. P. (2017). Culture and psychology.  
+Min, P. G. (2013). Koreans in North America: Their twenty-first century experiences. Lanham: Lexington Books.  
+Tang, M., & Russ, K. (2007). Understanding and Facilitating Career Development of People of Appalachian Culture: An Integrated Approach. The Career Development Quarterly, 56(1), 34-46. doi:10.1002/j.2161-0045.2007.tb00018.x  
+Willima, S. I. (1999). Doing Business in the Deep South: A Guide for Internationals. S.A.M. Advanced Management Journal, 64(4).

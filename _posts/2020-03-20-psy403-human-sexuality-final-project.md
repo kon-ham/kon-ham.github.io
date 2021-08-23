@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PSY403 Human Sexuality Final Project (On Tumblr's ban on pornography)'
+title: PSY403 Human Sexuality Final Project (On Tumblr's ban on pornography)
 categories: [JFKU Final Projects]
 ---
 Kon Ham  
@@ -31,6 +31,6 @@ I believe that L.G.B.T.Q identity has become a much more pressing topic today. F
 
   
 References  
-Coleman,&nbsp;T. (2014). Amy B. Jordan and Daniel Romer (eds.): Media and the Well-being of Children and Adolescents. Journal of Youth and Adolescence, 43(12), 2083-2087. doi:10.1007/s10964-014-0208-6  
-McKee,&nbsp;A. (2010). Does pornography harm young people? Australian Journal of Communication, 37(1), 17-36. Retrieved from http://ncc1701.libprox.jfku.edu:8080/login?url=https://search.proquest.com/docview/883651489?accountid=25307  
-Powell,&nbsp;J. (2018, December 7). Opinion | The Problem With Banning Pornography on Tumblr. Retrieved from https://www.nytimes.com/2018/12/06/opinion/tumblr-adult-content-pornography-ban.html
+Coleman, T. (2014). Amy B. Jordan and Daniel Romer (eds.): Media and the Well-being of Children and Adolescents. Journal of Youth and Adolescence, 43(12), 2083-2087. doi:10.1007/s10964-014-0208-6  
+McKee, A. (2010). Does pornography harm young people? Australian Journal of Communication, 37(1), 17-36. Retrieved from http://ncc1701.libprox.jfku.edu:8080/login?url=https://search.proquest.com/docview/883651489?accountid=25307  
+Powell, J. (2018, December 7). Opinion | The Problem With Banning Pornography on Tumblr. Retrieved from https://www.nytimes.com/2018/12/06/opinion/tumblr-adult-content-pornography-ban.html
