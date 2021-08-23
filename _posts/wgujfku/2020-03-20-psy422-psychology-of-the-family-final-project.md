@@ -1,6 +1,6 @@
 ---
-title: PSY422 Psychology of the Family Final Project (A primer on love and family for teens)
 layout: post
+title: PSY422 Psychology of the Family Final Project (A primer on love and family for teens)
 categories: [JFKU Final Projects]
 ---
 Family Skills Training  

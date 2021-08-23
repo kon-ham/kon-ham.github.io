@@ -1,6 +1,6 @@
 ---
-title: CIS101 Computer Literacy Final Project (Benefits of hypothetical printing company to switch to software as a service (SaaS) model)
 layout: post
+title: CIS101 Computer Literacy Final Project (Benefits of hypothetical printing company to switch to software as a service (SaaS) model)
 categories: [JFKU Final Projects]
 ---
 System Background and Functionality  

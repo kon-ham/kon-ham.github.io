@@ -1,6 +1,6 @@
 ---
-title: JQT2 Issues in Measurement and Evaluation (Justification of lesson plan proposal to teach formative and summative evaluation to teachers)
 layout: post
+title: JQT2 Issues in Measurement and Evaluation (Justification of lesson plan proposal to teach formative and summative evaluation to teachers)
 categories: [WGU Final Projects]
 ---
 JQT2 Task Assessment  

@@ -1,6 +1,6 @@
 ---
-title: JRT2 Evaluation Methodology and Instrumentation Task 2 (I consider the effectiveness of The Robinson Curriculum and Appropriateness to my given context)
 layout: post
+title: JRT2 Evaluation Methodology and Instrumentation Task 2 (I consider the effectiveness of The Robinson Curriculum and Appropriateness to my given context)
 categories: [WGU Final Projects]
 ---
 Task 2

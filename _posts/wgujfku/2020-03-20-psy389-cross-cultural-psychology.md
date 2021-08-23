@@ -1,6 +1,6 @@
 ---
-title: 'PSY389 Cross-Cultural Psychology (On Observations of my own life compared to a colleague's)'
 layout: post
+title: 'PSY389 Cross-Cultural Psychology (On Observations of my own life compared to a colleague's)'
 categories: [JFKU Final Projects]
 ---
 Introduction  

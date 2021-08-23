@@ -1,6 +1,6 @@
 ---
-title: C226 Research Design and Analysis Task 1 (Creation of data collection tool to determine relationship of parental involvement and childhood success; Likert Scale)
 layout: post
+title: C226 Research Design and Analysis Task 1 (Creation of data collection tool to determine relationship of parental involvement and childhood success; Likert Scale)
 categories: [WGU Final Projects]
 ---
 BFP2: Task 1  

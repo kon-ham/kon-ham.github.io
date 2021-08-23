@@ -1,6 +1,6 @@
 ---
-title: C226 Research and Design Analysis (Analysis of study of microteaching and anxiety)
 layout: post
+title: C226 Research and Design Analysis (Analysis of study of microteaching and anxiety)
 categories: [WGU Final Projects]
 ---
 BFP2: Task 2  

@@ -1,6 +1,6 @@
 ---
-title: JOT2 Issues in Instructional Design (Learning environment analysis)
 layout: post
+title: JOT2 Issues in Instructional Design (Learning environment analysis)
 categories: [WGU Final Projects]
 ---
 JOT2 Task 1  

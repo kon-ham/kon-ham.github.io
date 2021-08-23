@@ -1,6 +1,6 @@
 ---
-title: PSY355 Child Growth and Development Final Project (Vygotsky vs. Piaget)
 layout: post
+title: PSY355 Child Growth and Development Final Project (Vygotsky vs. Piaget)
 categories: [JFKU Final Projects]
 ---
 “Developmental psychology is a scientific approach which aims to explain growth, change, and consistency through the lifespan. Developmental psychology looks at how thinking, feeling, and behavior change throughout a person’s life.” (Mcleod, 2012) This theory of developmental psychology mostly builds on theories related to a person’s childhood, as “this is the period during an individual’s lifespan when the most change occurs.” (Mcleod, 2012) The theories developed by researchers like Vygotsky, Piaget, and many others point to the fundamental purpose of the theories of developmental psychology – that is, the relationship of people and environment and that “humans seek meaningful interactions with the environment and construct knowledge of themselves and the world around them through these interactions.” (Lutz & Huitt, 2004) And since mentioned previously that the majority of theories of developmental psychology focus on the importance of childhood and the many changes that occur during this period, (Mcleod, 2012) it is important to understand another factor related to developmental psychology &#8211; that children grow up to be adults that function in a society and sharing that society with other human beings.  

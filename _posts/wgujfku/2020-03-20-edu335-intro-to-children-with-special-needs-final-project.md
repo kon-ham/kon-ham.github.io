@@ -1,6 +1,6 @@
 ---
-title: EDU335 Intro to Children with Special Needs Final Project (Cerebral palsy and therapy methods)
 layout: post
+title: EDU335 Intro to Children with Special Needs Final Project (Cerebral palsy and therapy methods)
 categories: [JFKU Final Projects]
 ---
 Describe the Types of Characteristics That Lead to a Professional Diagnosis  

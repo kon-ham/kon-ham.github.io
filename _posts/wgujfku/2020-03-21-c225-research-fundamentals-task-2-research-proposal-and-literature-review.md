@@ -1,6 +1,6 @@
 ---
-title: C225 Research Fundamentals Task 2 (Research proposal and literature review)
 layout: post
+title: C225 Research Fundamentals Task 2 (Research proposal and literature review)
 categories: [WGU Final Projects]
 ---
 BEP2: Task 2

@@ -1,6 +1,6 @@
 ---
-title: M.Ed Capstone Prospectus (Exploring whether teaching a class on servant leadership causes statistical changes in sample population)
 layout: post
+title: M.Ed Capstone Prospectus (Exploring whether teaching a class on servant leadership causes statistical changes in sample population)
 categories: [WGU Final Projects]
 ---
 Research Prospectus  

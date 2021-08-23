@@ -1,6 +1,6 @@
 ---
-title: PSY411 Abnormal Psychology Final Project (Hypothetical observation of 12-year-old, anxiety, and CBT)
 layout: post
+title: PSY411 Abnormal Psychology Final Project (Hypothetical observation of 12-year-old, anxiety, and CBT)
 categories: [JFKU Final Projects]
 ---
 A  

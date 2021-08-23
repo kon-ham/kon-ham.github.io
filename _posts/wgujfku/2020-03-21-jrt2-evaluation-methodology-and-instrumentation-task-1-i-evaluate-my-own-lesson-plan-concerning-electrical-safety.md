@@ -1,6 +1,6 @@
 ---
-title: JRT2 Evaluation Methodology and Instrumentation Task 1 (I evaluate my own lesson plan concerning electrical safety)
 layout: post
+title: JRT2 Evaluation Methodology and Instrumentation Task 1 (I evaluate my own lesson plan concerning electrical safety)
 categories: [WGU Final Projects]
 ---
 Task 1

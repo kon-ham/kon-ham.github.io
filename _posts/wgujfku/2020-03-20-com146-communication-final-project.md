@@ -1,6 +1,6 @@
 ---
-title: COM146 Communication (Powerpoint transcript on hypothetical situation where I try to convince my boss to allow me to telecommute. Relevant to Coronavirus threat in 2021)
 layout: post
+title: COM146 Communication (Powerpoint transcript on hypothetical situation where I try to convince my boss to allow me to telecommute. Relevant to Coronavirus threat in 2021)
 categories: [JFKU Final Projects]
 ---
 Youtube Link to Video: https://youtu.be/U4jzbKAQ5fc  

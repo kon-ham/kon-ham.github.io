@@ -1,6 +1,6 @@
 ---
-title: M.Ed Capstone Final Project
 layout: post
+title: M.Ed Capstone Final Project
 categories: [WGU Final Projects]
 ---
 <https://www.dropbox.com/s/l60olpy3f4i77n3/Capstone%20Template.docx?dl=0>

@@ -1,6 +1,6 @@
 ---
-title: EDU445 Advancing the Profession Final Project 2 (My letter to preschool Teachers on professional goal setting)
 layout: post
+title: EDU445 Advancing the Profession Final Project 2 (My letter to preschool Teachers on professional goal setting)
 categories: [JFKU Final Projects]
 ---
 Educate the Preschool Teachers on Professional Goal Setting  

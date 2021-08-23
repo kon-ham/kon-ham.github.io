@@ -1,6 +1,6 @@
 ---
-title: PSY476 Counseling Final Project (On Harry Potter)
 layout: post
+title: PSY476 Counseling Final Project (On Harry Potter)
 categories: [JFKU Final Projects]
 ---
 Kon Ham  

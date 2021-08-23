@@ -1,6 +1,6 @@
 ---
-title: JPT2 Instructional Design Production (Lessonp plan with electrical safety)
 layout: post
+title: JPT2 Instructional Design Production (Lessonp plan with electrical safety)
 categories: [WGU Final Projects]
 ---
 JPT2  

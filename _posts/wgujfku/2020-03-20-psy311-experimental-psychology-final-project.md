@@ -1,6 +1,6 @@
 ---
-title: PSY311 Experimental Psychology Final Project (The validity of online learning amidst coronavirus shutdown, or how we yold you so)
 layout: post
+title: PSY311 Experimental Psychology Final Project (The validity of online learning amidst coronavirus shutdown, or how we yold you so)
 categories: [JFKU Final Projects]
 ---
 The Future Need for Online Learning  

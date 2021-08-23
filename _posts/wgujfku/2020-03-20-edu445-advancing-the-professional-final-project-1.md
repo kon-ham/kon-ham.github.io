@@ -1,6 +1,6 @@
 ---
-title: EDU445 Advancing the Profession Final Project 1 (I explore advocacy roles)
 layout: post
+title: EDU445 Advancing the Profession Final Project 1 (I explore advocacy roles)
 categories: [JFKU Final Projects]
 ---
 Kon Ham  

@@ -1,6 +1,6 @@
 ---
-title: M.Ed Capstone IRB Request for Approval (Exploring whether teaching a class on servant leadership causes statistical changes in sample population)
 layout: post
+title: M.Ed Capstone IRB Request for Approval (Exploring whether teaching a class on servant leadership causes statistical changes in sample population)
 categories: [WGU Final Projects]
 ---
 Western Governors University  

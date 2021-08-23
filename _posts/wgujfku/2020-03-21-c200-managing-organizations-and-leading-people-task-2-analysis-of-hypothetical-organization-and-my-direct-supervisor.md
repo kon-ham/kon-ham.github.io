@@ -1,6 +1,6 @@
 ---
-title: C200 Managing Organizations and Leading People Task 2 (Analysis of hypothetical organization and my direct supervisor)
 layout: post
+title: C200 Managing Organizations and Leading People Task 2 (Analysis of hypothetical organization and my direct supervisor)
 categories: [WGU Final Projects]
 ---
 Organization Description

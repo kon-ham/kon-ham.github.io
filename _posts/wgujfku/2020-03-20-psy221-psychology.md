@@ -1,6 +1,6 @@
 ---
-title: PSY221 Psychology Final Project (On David Rockefeller's wealth; did his past influence his future?)
 layout: post
+title: PSY221 Psychology Final Project (On David Rockefeller's wealth; did his past influence his future?)
 categories: [JFKU Final Projects]
 ---
 What would your adult life look like when you grow up roller-skating down Fifth Avenue while your limousine drives behind you in case you get tired? What if your grandfather was in fact, the richest man in modern history? What kind of an adult would you turn out to be? Does being born into wealth turn you into a snob? Or does merely being born into the American elite only have to do with your last name? And if you never need to worry about food, clothing, or where to work, and merely having the prestige of one of the most famous last names in the entire world, are you more likely to be self-actualized?  

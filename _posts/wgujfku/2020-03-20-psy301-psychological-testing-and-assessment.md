@@ -1,6 +1,6 @@
 ---
-title: PSY301 Psychological Testing and Assessment Final Project (My recommendation of the Fagan Infant Intelligence Test)
 layout: post
+title: PSY301 Psychological Testing and Assessment Final Project (My recommendation of the Fagan Infant Intelligence Test)
 categories: [JFKU Final Projects]
 ---
 Psychological tests can be fun. Those taking these tests can gain insights into an aspect of one’s personality that may have never been discovered if it were not for these tests. Or maybe the taking of a personality test can help you become more concrete on the personality traits you already have. It is the potential insight gained into a human being that makes a psychological test that much more important to humanity. But because of how important a test can be to someone, it is important to define and organize these tests into what they actually measure and how they are measured. These tests must also follow a guideline of ethics.

@@ -1,6 +1,6 @@
 ---
-title: EDU365 Teaching Young Children in a Diverse Society Final Project (Hypothetical assessments of observations of young yhildren from diverse backgrounds)
 layout: post
+title: EDU365 Teaching Young Children in a Diverse Society Final Project (Hypothetical assessments of observations of young yhildren from diverse backgrounds)
 categories: [JFKU Final Projects]
 ---
 A  

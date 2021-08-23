@@ -1,6 +1,6 @@
 ---
-title: PSY421 Social Psychology Final Project (On Toy Story and Social Groups)
 layout: post
+title: PSY421 Social Psychology Final Project (On Toy Story and Social Groups)
 categories: [JFKU Final Projects]
 ---
 Scenes That Accurately Represent Social Psychology I  

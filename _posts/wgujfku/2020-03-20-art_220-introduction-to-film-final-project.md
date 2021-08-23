@@ -1,6 +1,6 @@
 ---
-title: ART220 Introduction to Film Final Project (Analysis of 'The Godfather')
 layout: post
+title: ART220 Introduction to Film Final Project (Analysis of 'The Godfather')
 categories: [JFKU Final Projects]
 ---
 We are introduced to the Corleone family through a wedding. It is the wedding of Connie Corleone, daughter of Vito Corleone. Vito Corleone is the Don, or head executive of the Corleone crime family. Through the wedding we are introduced to multiple family characters and associates of the family. We also see people entering into the office of Don Vito Corleone to make requests of him. It is a Sicilian tradition to fulfill requests on the day of his daughter’s wedding. Here we see the dynamic of the power that Don Corleone wields. All requests are fulfilled.  

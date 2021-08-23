@@ -1,6 +1,6 @@
 ---
-title: 'EDU425 Adminstration I: Program Management Final Project (Organizational framework of hypothetical child care center)'
 layout: post
+title: 'EDU425 Adminstration I: Program Management Final Project (Organizational framework of hypothetical child care center)'
 categories: [JFKU Final Projects]
 ---
 Organizational Framework &#8211; Vision Statement  

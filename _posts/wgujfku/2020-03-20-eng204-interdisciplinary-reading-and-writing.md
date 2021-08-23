@@ -1,6 +1,6 @@
 ---
-title: ENG204 Interdisciplinary Reading and Writing Final Project (The role of the manager in the light of human action and the age of information. Not happy with this paper.)
 layout: post
+title: ENG204 Interdisciplinary Reading and Writing Final Project (The role of the manager in the light of human action and the age of information. Not happy with this paper.)
 categories: [JFKU Final Projects]
 ---
 Those in business management must factor in the element of human action when structuring change in policies or organization in the business. In order to understand the impact of human action upon those in the business management world, it is first important to define what a manager is. According to Mises, a manager is “a junior partner of the entrepreneur, as it were, no matter what the contractual and financial terms of his employment are.” (Mises, 2009) Mises makes a strong distinction between the entrepreneur and the manager. Here in “Human Action”, entrepreneurs predict future market trends by allocating capital towards those market trends in the hopes of profit. The entrepreneur, according to Mises, controls the factors of production. (Mises, 2009)  

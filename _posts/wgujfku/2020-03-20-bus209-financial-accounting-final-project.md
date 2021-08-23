@@ -1,6 +1,6 @@
 ---
-title: BUS209 Financial Accounting Final Project (Terrible accounting analysis of hypothetical company. Fire me!)
 layout: post
+title: BUS209 Financial Accounting Final Project (Terrible accounting analysis of hypothetical company. Fire me!)
 categories: [JFKU Final Projects]
 ---
 Table of Contents and Report Objective:  

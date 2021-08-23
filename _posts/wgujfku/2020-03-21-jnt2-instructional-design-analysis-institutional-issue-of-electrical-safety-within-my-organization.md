@@ -1,6 +1,6 @@
 ---
-title: JNT2 Instructional Design Analysis (Institutional issue of electrical safety within my organization, including quiz and survey)
 layout: post
+title: JNT2 Instructional Design Analysis (Institutional issue of electrical safety within my organization, including quiz and survey)
 categories: [WGU Final Projects]
 ---
 Kon Ham  

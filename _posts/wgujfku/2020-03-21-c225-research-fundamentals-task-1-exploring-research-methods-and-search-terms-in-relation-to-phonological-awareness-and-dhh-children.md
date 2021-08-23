@@ -1,6 +1,6 @@
 ---
-title: C225 Research Fundamentals Task 1 (Exploring research methods and search terms in relation to phonological awareness and DHH children)
 layout: post
+title: C225 Research Fundamentals Task 1 (Exploring research methods and search terms in relation to phonological awareness and DHH children)
 categories: [WGU Final Projects]
 ---
 BEP2: Task 1

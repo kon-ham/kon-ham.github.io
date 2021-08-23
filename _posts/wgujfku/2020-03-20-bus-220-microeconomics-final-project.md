@@ -1,6 +1,6 @@
 ---
-title: BUS220 Microeconomics Final Project (Netflix analysis and further suggestions. Relevant as of 20MAR20. I recommend and predict that Netflix will implement &#8220;social viewings&#8221; of movies in order to differentiate itself from other streaming services)
 layout: post
+title: BUS220 Microeconomics Final Project (Netflix analysis and further suggestions. Relevant as of 20MAR20. I recommend and predict that Netflix will implement &#8220;social viewings&#8221; of movies in order to differentiate itself from other streaming services)
 categories: [JFKU Final Projects]
 ---
   Netflix is a company founded by Reed Hastings in 1999. The company originally  

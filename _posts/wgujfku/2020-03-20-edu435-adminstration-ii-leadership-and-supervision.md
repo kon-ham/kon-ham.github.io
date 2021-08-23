@@ -1,6 +1,6 @@
 ---
-title: 'EDU435 Adminstration II: Leadership and Supervision Final Project (A hypothetical leader of introduction to new employees of my day care center)'
 layout: post
+title: 'EDU435 Adminstration II: Leadership and Supervision Final Project (A hypothetical leader of introduction to new employees of my day care center)'
 categories: [JFKU Final Projects]
 ---
 Kon Ham  

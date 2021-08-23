@@ -1,6 +1,6 @@
 ---
-title: PSY321 Statistics for Behavioral Sciences (Relationship on social media vs. GPA)
 layout: post
+title: PSY321 Statistics for Behavioral Sciences (Relationship on social media vs. GPA)
 categories: [JFKU Final Projects]
 ---
 Introduction  

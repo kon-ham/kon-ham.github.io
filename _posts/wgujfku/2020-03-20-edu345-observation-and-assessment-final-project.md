@@ -1,6 +1,6 @@
 ---
-title: EDU345 Observation and Assessment Final Project (Hypothetical Portfolio of Young Child directed to Parents)
 layout: post
+title: EDU345 Observation and Assessment Final Project (Hypothetical Portfolio of Young Child directed to Parents)
 categories: [JFKU Final Projects]
 ---
 Portfolio of Observation and Assessment for  

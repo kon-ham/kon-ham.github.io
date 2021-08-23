@@ -1,6 +1,6 @@
 ---
-title: 'PSY403 Human Sexuality Final Project (On Tumblr's ban on pornography)'
 layout: post
+title: 'PSY403 Human Sexuality Final Project (On Tumblr's ban on pornography)'
 categories: [JFKU Final Projects]
 ---
 Kon Ham  

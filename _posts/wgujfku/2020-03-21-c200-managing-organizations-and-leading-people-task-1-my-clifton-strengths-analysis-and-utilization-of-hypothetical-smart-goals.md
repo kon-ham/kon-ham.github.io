@@ -1,6 +1,6 @@
 ---
-title: C200 Managing Organizations and Leading People Task 1 (My clifton strengths analysis and utilization of hypothetical SMART goals)
 layout: post
+title: C200 Managing Organizations and Leading People Task 1 (My clifton strengths analysis and utilization of hypothetical SMART goals)
 categories: [WGU Final Projects]
 ---
 Clifton Categorical Strengths  
