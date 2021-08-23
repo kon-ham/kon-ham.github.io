@@ -4,7 +4,7 @@
  <title>Kon Ham</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-08-22T16:36:57-04:00</updated>
+ <updated>2021-08-22T20:50:38-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -13,10 +13,37 @@
 
  
  <entry>
+   <title>The Future of School and Society</title>
+   <link href="http://localhost:4000/schooling/society/education/2021/07/09/future-of-school-and-society/"/>
+   <updated>2021-07-09T00:00:00-04:00</updated>
+   <id>http://localhost:4000/schooling/society/education/2021/07/09/future-of-school-and-society</id>
+   <content type="html">&lt;p&gt;A child can finish a K-12 curriculum through Khan Academy for $0.00. It will probably take 4-8 years, depending on innate aptitude and assuming the average student.&lt;/p&gt;
+
+&lt;p&gt;You are making a mistake if you believe that more schooling will result in competitive populations for the 21st century.&lt;/p&gt;
+
+&lt;p&gt;In the future we will have young people finish a basic education in 4-6 years and will have the rest of their free-time to develop meaningful experiences that will blossom one day into solving many of our great problems.&lt;/p&gt;
+
+&lt;p&gt;Many of them will become the next great explorers, entrepreneurs, writers, singers, dancers, artists…&lt;/p&gt;
+
+&lt;p&gt;Some of those young people will at 12-14 begin collegiate level academics. We will have a new generation of scientists and engineers that think asymmetrically and creatively because we as a society don’t funnel our young people into brick and mortar schools that encourage only one way of thinking.&lt;/p&gt;
+
+&lt;p&gt;Many of the great crises we face now will slip away into the dark because we unleash the power of common ingenuity of regular people that are given an opportunity to dream big. (BTW, public schooling discourages dreaming big)&lt;/p&gt;
+
+&lt;p&gt;The greatest gift we can give our young people and the next generation is the gift of greater and increased opportunity.&lt;/p&gt;
+
+&lt;p&gt;We can do this by savagely trimming away the fat that is the total number of years children and young people spend in school.&lt;/p&gt;
+
+&lt;p&gt;It’s common for young people to graduate even college without a clue of what they want to do to contribute to our world.&lt;/p&gt;
+
+&lt;p&gt;Why should we blame them? We stick them in white cinderblock buildings for over 15,000 hours.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Introduction</title>
-   <link href="http://localhost:4000/jekyll/poole/2020/04/04/introduction/"/>
+   <link href="http://localhost:4000/jekyll/2020/04/04/introduction/"/>
    <updated>2020-04-04T00:00:00-04:00</updated>
-   <id>http://localhost:4000/jekyll/poole/2020/04/04/introduction</id>
+   <id>http://localhost:4000/jekyll/2020/04/04/introduction</id>
    <content type="html">&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel’s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll’s loyal butler.&lt;/p&gt;
 
 &lt;hr /&gt;
