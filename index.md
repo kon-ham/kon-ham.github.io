@@ -1,0 +1,51 @@
+---
+layout: default
+title: Home
+---
+
+# Hi! Kon here.
+
+Use the top right panel to navigate through the site.
+
+---
+
+## Announcements:
+
+<p  class="message">
+
+<strong>I'm looking to join a great team.</strong><br>
+Know of any junior-mid level openings? Here's my <a
+href="https://github.com/kon-ham/kon-ham.github.io/blob/main/resume.pdf">resume.</a>
+</p>
+
+---
+
+## My Latest Coding Projects:
+
+ - **Find My City** is a city finding web application that allows users to search and sort cities by criteria they find most important. Get scores for major cities. Save your favorite cities.  
+
+	 - Link to the front-end Github repository:  [here](https://github.com/NoahZinter/find_my_city_fe).  
+     - Link to the back-end Github repository:  [here](https://github.com/NoahZinter/find_my_city_be).
+     - Link to the live site:    [here](https://helpmefindmycity.herokuapp.com).  
+     
+ - **Sweater Weather** is an API-only application. Find weather data for the city you are traveling to. Know what the weather will be like whether you arrive three hours later or three days later.  
+
+	- Link to the Github repository: [here](https://github.com/kon-ham/sweater_weather).
+
+## My Recent Posts:
+<ul>
+  {% for post in site.posts limit: 5 %}
+  <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+        <!-- {{ post.content | truncatewords: 30 }} -->
+        <!-- <time  datetime="{{ post.date | date_to_xmlschema }}"  class="post-date">{{ post.date | date_to_string }}</time> -->
+  </li>
+  {% endfor %}
+</ul>
+
+
+
+## Contact Information:
+My email is: [contact@konkham.com](mailto:contact@konkham.com) or [info.konham@gmail.com](mailto:info.konham@gmail.com)  
+My Github is: [github.com/kon-ham](github.com/kon-ham)  
+My LinkedIn is: [linkedin.com/in/kon-ham](linkedin.com/in/kon-ham)  
