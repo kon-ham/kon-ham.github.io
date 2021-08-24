@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Excerpts from Carol Dweck's Mindset'
+title: Excerpts from Carol Dweck's Mindset
 categories: [Carol Dweck]
 ---
 <blockquote class="wp-block-quote">
