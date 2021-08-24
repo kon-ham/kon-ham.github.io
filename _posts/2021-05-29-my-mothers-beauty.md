@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My Mother's Beauty'
+title: The Beauty of My Mother
 categories: [Mom, Suicide, Family, Love, Immigrants]
 ---
 I am in need of a vehicle. 
