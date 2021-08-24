@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Movie Review: Seaspiracy (2021) and my thoughts on &#8216;sustainability&#8217;'
+title: 'Movie Review: Seaspiracy (2021) and my thoughts on sustainability'
 categories: [Seaspiracy, Food, Environment]
 ---
 https://www.imdb.com/title/tt14152756/  
