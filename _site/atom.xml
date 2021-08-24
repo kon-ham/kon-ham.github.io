@@ -3,9 +3,9 @@
 
  <title>Kon Ham</title>
  <link href="/atom.xml" rel="self"/>
- <link href="https://getpoole.com/"/>
- <updated>2021-08-23T16:11:00-04:00</updated>
- <id>https://getpoole.com</id>
+ <link href="http://localhost:4000/"/>
+ <updated>2021-08-24T13:47:03-04:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>LinkedIn Posts pt. 5</title>
-   <link href="https://getpoole.com/pessimism/outlook/boundaries/trust/discernment/2021/07/09/linkedin-posts-pt-5/"/>
+   <link href="http://localhost:4000/pessimism/outlook/boundaries/trust/discernment/2021/07/09/linkedin-posts-pt-5/"/>
    <updated>2021-07-09T00:00:00-04:00</updated>
-   <id>https://getpoole.com/pessimism/outlook/boundaries/trust/discernment/2021/07/09/linkedin-posts-pt-5</id>
+   <id>http://localhost:4000/pessimism/outlook/boundaries/trust/discernment/2021/07/09/linkedin-posts-pt-5</id>
    <content type="html">&lt;p&gt;The biggest cost of a pessimistic outlook is that you are likely to convince yourself that there is no reason to leave behind a legacy.&lt;/p&gt;
 
 &lt;p&gt;A pessimistic civilization no longer builds and grows because, well – you don’t polish brass on a sinking ship.&lt;/p&gt;
@@ -59,9 +59,9 @@ It is possible to drown someone with too much support. Sometimes it’s best giv
  
  <entry>
    <title>The Future of School and Society</title>
-   <link href="https://getpoole.com/schooling/society/education/2021/07/09/future-of-school-and-society/"/>
+   <link href="http://localhost:4000/schooling/society/education/2021/07/09/future-of-school-and-society/"/>
    <updated>2021-07-09T00:00:00-04:00</updated>
-   <id>https://getpoole.com/schooling/society/education/2021/07/09/future-of-school-and-society</id>
+   <id>http://localhost:4000/schooling/society/education/2021/07/09/future-of-school-and-society</id>
    <content type="html">&lt;p&gt;A child can finish a K-12 curriculum through Khan Academy for $0.00. It will probably take 4-8 years, depending on innate aptitude and assuming the average student.&lt;/p&gt;
 
 &lt;p&gt;You are making a mistake if you believe that more schooling will result in competitive populations for the 21st century.&lt;/p&gt;
@@ -86,9 +86,9 @@ It is possible to drown someone with too much support. Sometimes it’s best giv
  
  <entry>
    <title>Thoughts As A Fresh EMT-B Grad</title>
-   <link href="https://getpoole.com/emt-b/drowning/drinking/holiday/guns/safety/4th%20of%20july/2021/07/07/thoughts-as-a-fresh-emt-grad/"/>
+   <link href="http://localhost:4000/emt-b/drowning/drinking/holiday/guns/safety/4th%20of%20july/2021/07/07/thoughts-as-a-fresh-emt-grad/"/>
    <updated>2021-07-07T00:00:00-04:00</updated>
-   <id>https://getpoole.com/emt-b/drowning/drinking/holiday/guns/safety/4th%20of%20july/2021/07/07/thoughts-as-a-fresh-emt-grad</id>
+   <id>http://localhost:4000/emt-b/drowning/drinking/holiday/guns/safety/4th%20of%20july/2021/07/07/thoughts-as-a-fresh-emt-grad</id>
    <content type="html">&lt;p&gt;By the time I graduated EMT school, I learned there was a million and one ways to die.&lt;/p&gt;
 
 &lt;p&gt;Here are a few tips from an EMT newbie that might save your life or the life of a loved one.&lt;/p&gt;
@@ -117,9 +117,9 @@ It is possible to drown someone with too much support. Sometimes it’s best giv
  
  <entry>
    <title>LinkedIn Posts pt. 4</title>
-   <link href="https://getpoole.com/writing/patience/forgiveness/rest/worklife%20balance/boundaries/joel%20salatin/michael%20c.%20pollan/omnivore's%20dilemma/creative%20desert/linkedin/travel/story%20telling/dating%20sites/danny%20trejo/honesty/salesmanship/illiteracy/advocacy/income%20share%20agreements/hyundai/advertising/2021/07/07/linkedin-posts-pt-4/"/>
+   <link href="http://localhost:4000/writing/patience/forgiveness/rest/worklife%20balance/boundaries/joel%20salatin/michael%20c.%20pollan/omnivore's%20dilemma/creative%20desert/linkedin/travel/story%20telling/dating%20sites/danny%20trejo/honesty/salesmanship/illiteracy/advocacy/income%20share%20agreements/hyundai/advertising/2021/07/07/linkedin-posts-pt-4/"/>
    <updated>2021-07-07T00:00:00-04:00</updated>
-   <id>https://getpoole.com/writing/patience/forgiveness/rest/worklife%20balance/boundaries/joel%20salatin/michael%20c.%20pollan/omnivore's%20dilemma/creative%20desert/linkedin/travel/story%20telling/dating%20sites/danny%20trejo/honesty/salesmanship/illiteracy/advocacy/income%20share%20agreements/hyundai/advertising/2021/07/07/linkedin-posts-pt-4</id>
+   <id>http://localhost:4000/writing/patience/forgiveness/rest/worklife%20balance/boundaries/joel%20salatin/michael%20c.%20pollan/omnivore's%20dilemma/creative%20desert/linkedin/travel/story%20telling/dating%20sites/danny%20trejo/honesty/salesmanship/illiteracy/advocacy/income%20share%20agreements/hyundai/advertising/2021/07/07/linkedin-posts-pt-4</id>
    <content type="html">&lt;p&gt;I see a lot of posts from people that say they are open to work.&lt;/p&gt;
 
 &lt;p&gt;Yet they hardly post anything else.&lt;/p&gt;
@@ -319,9 +319,9 @@ It is possible to drown someone with too much support. Sometimes it’s best giv
  
  <entry>
    <title>LinkedIn Posts pt. 3</title>
-   <link href="https://getpoole.com/unique%20service%20proposition/honesty/monetization/guitar/linkedin/ideas/terrible%20ideas/human%20experience/us%20army/predictions/technology/personal%20branding/storytelling/human%20value/2021/07/07/linkedin-posts-pt-3/"/>
+   <link href="http://localhost:4000/unique%20service%20proposition/honesty/monetization/guitar/linkedin/ideas/terrible%20ideas/human%20experience/us%20army/predictions/technology/personal%20branding/storytelling/human%20value/2021/07/07/linkedin-posts-pt-3/"/>
    <updated>2021-07-07T00:00:00-04:00</updated>
-   <id>https://getpoole.com/unique%20service%20proposition/honesty/monetization/guitar/linkedin/ideas/terrible%20ideas/human%20experience/us%20army/predictions/technology/personal%20branding/storytelling/human%20value/2021/07/07/linkedin-posts-pt-3</id>
+   <id>http://localhost:4000/unique%20service%20proposition/honesty/monetization/guitar/linkedin/ideas/terrible%20ideas/human%20experience/us%20army/predictions/technology/personal%20branding/storytelling/human%20value/2021/07/07/linkedin-posts-pt-3</id>
    <content type="html">&lt;p&gt;I can’t help but feel most people just want plain honesty these days.&lt;/p&gt;
 
 &lt;p&gt;I think honesty in our work, with others, and in our own personal lives leads to great things. I’m working on this myself. It is not easy. But a good thing to strive for.&lt;/p&gt;
@@ -422,9 +422,9 @@ It is possible to drown someone with too much support. Sometimes it’s best giv
  
  <entry>
    <title>LinkedIn Posts pt. 2</title>
-   <link href="https://getpoole.com/linkedin/power/clep/education/schooling/millennials/careers/homes/moving/boundaries/positive%20intent/human%20resources/writing/user%20experience/2021/07/07/linkedin-posts-pt-2/"/>
+   <link href="http://localhost:4000/linkedin/power/clep/education/schooling/millennials/careers/homes/moving/boundaries/positive%20intent/human%20resources/writing/user%20experience/2021/07/07/linkedin-posts-pt-2/"/>
    <updated>2021-07-07T00:00:00-04:00</updated>
-   <id>https://getpoole.com/linkedin/power/clep/education/schooling/millennials/careers/homes/moving/boundaries/positive%20intent/human%20resources/writing/user%20experience/2021/07/07/linkedin-posts-pt-2</id>
+   <id>http://localhost:4000/linkedin/power/clep/education/schooling/millennials/careers/homes/moving/boundaries/positive%20intent/human%20resources/writing/user%20experience/2021/07/07/linkedin-posts-pt-2</id>
    <content type="html">&lt;p&gt;I’ve taken jabs at LinkedIn because I’ve felt that the overall platform encouraged low quality (I feel like the quality of the content is sterile and all the same), but then I was reminded that LinkedIn is an advertising platform first and a professional rolodex second.&lt;/p&gt;
 
 &lt;p&gt;Everyone else is just along for the ride.&lt;/p&gt;
@@ -514,9 +514,9 @@ It is possible to drown someone with too much support. Sometimes it’s best giv
  
  <entry>
    <title>LinkedIn Posts pt. 1</title>
-   <link href="https://getpoole.com/bob%20ross/america/generalist/specialist/marketing/a/b%20split%20test/subscription%20model/work%20from%20home/smile/lighten%20up/personal%20growth/horses/cars/advertising%20platforms/2021/07/07/linkedin-posts-pt-1/"/>
+   <link href="http://localhost:4000/bob%20ross/america/generalist/specialist/marketing/a/b%20split%20test/subscription%20model/work%20from%20home/smile/lighten%20up/personal%20growth/horses/cars/advertising%20platforms/2021/07/07/linkedin-posts-pt-1/"/>
    <updated>2021-07-07T00:00:00-04:00</updated>
-   <id>https://getpoole.com/bob%20ross/america/generalist/specialist/marketing/a/b%20split%20test/subscription%20model/work%20from%20home/smile/lighten%20up/personal%20growth/horses/cars/advertising%20platforms/2021/07/07/linkedin-posts-pt-1</id>
+   <id>http://localhost:4000/bob%20ross/america/generalist/specialist/marketing/a/b%20split%20test/subscription%20model/work%20from%20home/smile/lighten%20up/personal%20growth/horses/cars/advertising%20platforms/2021/07/07/linkedin-posts-pt-1</id>
    <content type="html">&lt;p&gt;An easy answer for those that have to answer the question “Describe America”&lt;/p&gt;
 
 &lt;p&gt;One answer is Bob Ross.&lt;/p&gt;
@@ -606,10 +606,995 @@ It is possible to drown someone with too much support. Sometimes it’s best giv
  </entry>
  
  <entry>
+   <title>Hope All is Well</title>
+   <link href="http://localhost:4000/relationships/2021/07/05/hope-all-is-well/"/>
+   <updated>2021-07-05T00:00:00-04:00</updated>
+   <id>http://localhost:4000/relationships/2021/07/05/hope-all-is-well</id>
+   <content type="html">&lt;p&gt;People aren’t meant for broken relationships. None of us are. We are made to be loved and to love others.&lt;/p&gt;
+
+&lt;p&gt;Human life is really so precious, so resilient but also I come to feel that human life is fragile.Wounds can heal but scars remain.&lt;/p&gt;
+
+&lt;p&gt;At least for now. One day, maybe we’ll live in a world where even scars can be wiped away clean.&lt;/p&gt;
+
+&lt;p&gt;All it takes is really, just a few nasty words and now your perception is colored a certain way permanently.&lt;/p&gt;
+
+&lt;p&gt;We’re not supposed to be using conversation to hurt people, but rather to build them up. And sometimes, we use the lack of conversation to also help encourage others.&lt;/p&gt;
+
+&lt;p&gt;I think about times I’ve said nasty things to others, and I think also about the other forgotten times I’ve said nasty things to others.&lt;/p&gt;
+
+&lt;p&gt;We don’t have to do that!&lt;/p&gt;
+
+&lt;p&gt;We can use our words carefully, possibly if we remember how fragile life can be.&lt;/p&gt;
+
+&lt;p&gt;On the flipside, sometimes we must use our words to be courageous. Don’t be afraid of saying something that needs to be said.&lt;/p&gt;
+
+&lt;p&gt;Takes some wisdom to know when to learn between the two.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Future</title>
+   <link href="http://localhost:4000/future/nostalgia/2021/06/17/the-future/"/>
+   <updated>2021-06-17T00:00:00-04:00</updated>
+   <id>http://localhost:4000/future/nostalgia/2021/06/17/the-future</id>
+   <content type="html">&lt;p&gt;In the near future, the companies that will innovate and trail blaze will be the companies that can take our current ideals, morals, and values and improve upon them.&lt;/p&gt;
+
+&lt;p&gt;In such a world, we don’t look at the past with a sense of nostalgia but rather a sense of understanding and humility.&lt;/p&gt;
+
+&lt;p&gt;Nostalgia is for a culture that has lost its way, no longer innovating but rather looking at the past for answers.&lt;/p&gt;
+
+&lt;p&gt;Our hope lies in the future and the answers are for those that can look forward into the future.&lt;/p&gt;
+
+&lt;p&gt;It is easy to take a look at the current landscape and grow pessimistic or cynical. In fact, this is the natural way. But we must be strong and courageous and be willing to put in the hard work to propel ourselves into the future.&lt;/p&gt;
+
+&lt;p&gt;The world is rife with problems – these problems can be solved and the future can be a place we can look forward to.&lt;/p&gt;
+
+&lt;p&gt;In the mean time, until such companies exist, it is up to us as individuals to decide that every day is an opportunity to grow and improve and to engage in healthy discourse.&lt;/p&gt;
+
+&lt;p&gt;I look forward to being in such a world with you all.&lt;/p&gt;
+
+&lt;p&gt;Here’s to a beautiful future looking forwards.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>An Open Letter to Mr. Morris Jenkins</title>
+   <link href="http://localhost:4000/morris%20jenkins/advertising/marketing/unique%20service%20proposition/2021/06/05/an-open-letter-to-mr-morris-jenkins/"/>
+   <updated>2021-06-05T00:00:00-04:00</updated>
+   <id>http://localhost:4000/morris%20jenkins/advertising/marketing/unique%20service%20proposition/2021/06/05/an-open-letter-to-mr-morris-jenkins</id>
+   <content type="html">&lt;p&gt;Dear Mr. Jenkins,&lt;/p&gt;
+
+&lt;p&gt;In advertising there is a saying – ‘lead with the benefits’.&lt;/p&gt;
+
+&lt;p&gt;A customer does not care what you tell your employees or what you tell others. In fact, they don’t care about you at all until it comes down to what you can do for your customers.&lt;/p&gt;
+
+&lt;p&gt;Instead of leading with “Mr. Jenkins told me…”, I think the better approach is “Mr. Jenkins guarantees…”, though I think still this is not the ideal headlines – I would in fact remove your name from the headline completely. &lt;/p&gt;
+
+&lt;p&gt;I applaud your advertising drive, but the advertisements could afford to be tweaked and you are likely throwing away money by failing to lead with the benefits. &lt;/p&gt;
+
+&lt;p&gt;How sure are you that the “Mr. Jenkins told me…” headline actually converts potential buyers to real customers?&lt;/p&gt;
+
+&lt;p&gt;While I think it makes for entertainment having your employees dance and sing in a 30 second ad, there is no headline to grasp your audience’s attention and there is no definitive call to action. I am an HVAC ignoramus – how do I know that your services being “gently” applied to my air conditioning units have any sort of real benefit to me, except that it should be obvious that you treat my personal belongings with care? I can’t even understand what your employees are singing – there is too much going on.&lt;/p&gt;
+
+&lt;p&gt;Just some food for thought.&lt;/p&gt;
+
+&lt;p&gt;Very respectfully,&lt;/p&gt;
+
+&lt;p&gt;Kon Ham&lt;/p&gt;
+
+&lt;p&gt;Video in question: &lt;a href=&quot;https://www.youtube.com/watch?v=HjDSamktplo&quot;&gt;https://www.youtube.com/watch?v=HjDSamktplo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A few takeaways:&lt;/p&gt;
+
+&lt;p&gt;Jingles and chimes (sort of) work for large companies that have a solid foothold in a customer’s mind. Examples of this include Coca Cola and McDonald’s.&lt;/p&gt;
+
+&lt;p&gt;This sort of advertisement does not work for a regional brand.&lt;/p&gt;
+
+&lt;p&gt;Every day a person that once knew about your services dies and every day a new person that knows nothing about your services is born into this world. This is why you must always generate new leads.&lt;/p&gt;
+
+&lt;p&gt;Sales is the driving life-blood of any company.&lt;/p&gt;
+
+&lt;p&gt;You must always, always lead with the benefits. What separates your company’s services from the multitude of other businesses that exist and are competing for the attention of your potential customer?&lt;/p&gt;
+
+&lt;p&gt;Once you have led with the benefits, you must then provide a call to action. The above advertisement does not include a call to action. A call to action can be as simple as “CALL NOW for a free consultation.”&lt;/p&gt;
+
+&lt;p&gt;My suggestion to Mr. Morris Jenkins is this:&lt;/p&gt;
+
+&lt;p&gt;Produce a 10 part mini series on Youtube that gives tips and tricks to save money on heating and air conditioning bills. This 10 part series will provide useful information to your customer on how they can save money by absorbing information you are providing to them (for free).&lt;/p&gt;
+
+&lt;p&gt;This will accomplish a few things. First, you establish in the mind of your customer that you are an authority on the subject. Secondly, you establish trust and rapport because you are providing a free informational service that helps them to save money. Any person that helps save me money is a new friend to me.&lt;/p&gt;
+
+&lt;p&gt;Finally, the 10 part series can help channel potential new customers into your sales team. At the end of this series you provide a call to action that encourages your potential customer to call your sales associates for a free consultation.&lt;/p&gt;
+
+&lt;p&gt;Mr. Jenkins, you are throwing away money by advertising on YouTube among other advertising channels without introducing a clear and concise headline that separates you from your other competitors. You only have a few seconds to grab the attention of your potential customer. Do not waste that opportunity by failing to grab their attention.&lt;/p&gt;
+
+&lt;p&gt;Finally,&lt;/p&gt;
+
+&lt;p&gt;A person that calls your sales associate after watching a 10 part mini-series on saving HVAC costs is already pre-qualified to be sold to. This means that you have a motivated and serious buyer, as they’ve already spend their time watching a 10-part series on saving monthly HVAC bills.&lt;/p&gt;
+
+&lt;p&gt;This makes for selling your services a whole lot easier on your sales associates. They will have an easier time selling your services.&lt;/p&gt;
+
+&lt;p&gt;Finally, creating a 10 part series on YouTube is an example of a high return on investment. If you were to include information that is timeless, relevant, and practical, you will always have free advertising on YouTube that has a nearly endless audience. This will enable you to further establish yourself as an authority on this subject and will only help you to grow your business to your desires.&lt;/p&gt;
+
+&lt;p&gt;I hope you the best, Mr. Jenkins.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sometimes [Poetry]</title>
+   <link href="http://localhost:4000/poetry/2021/05/29/sometimes/"/>
+   <updated>2021-05-29T00:00:00-04:00</updated>
+   <id>http://localhost:4000/poetry/2021/05/29/sometimes</id>
+   <content type="html">&lt;p class=&quot;has-text-align-center&quot;&gt;
+  Sometimes I see a glimpse of you
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  as a shadow slips through my hands,
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  and I pray you would be strong,
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  with resilience and compassion written on your face
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  A mark on your forehead
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  to take you through all trials and pain.
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  Know that hope must be held on to
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  and that rest must be had
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  under the shade of the eagle&amp;#8217;s wings
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  And when you&amp;#8217;ve strengthened your grip
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  from suffering made strong
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  And your tears wiped from your eyes
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  On that day
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  I too will then rest
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Beauty of My Mother</title>
+   <link href="http://localhost:4000/mom/suicide/family/love/immigrants/2021/05/29/my-mothers-beauty/"/>
+   <updated>2021-05-29T00:00:00-04:00</updated>
+   <id>http://localhost:4000/mom/suicide/family/love/immigrants/2021/05/29/my-mothers-beauty</id>
+   <content type="html">&lt;p&gt;I am in need of a vehicle.&lt;/p&gt;
+
+&lt;p&gt;Well, at this point, it’s more or less “would be nice to have” rather than an immediate need.&lt;/p&gt;
+
+&lt;p&gt;So I’m looking around for trucks, exploring financing and payment options and I’m sharing this with my Mom.&lt;/p&gt;
+
+&lt;p&gt;One thing leads to another and we get on the conversation of life.&lt;/p&gt;
+
+&lt;p&gt;I admit to her that this past year has been incredibly difficult for me, mentally, spiritually, and physically.&lt;/p&gt;
+
+&lt;p&gt;I know she knows that I have been struggling with my life, though overall I have been relatively productive – the seeds of my work are planted, now I must water and wait.&lt;/p&gt;
+
+&lt;p&gt;My Mom tells me that she too has had a difficult year.&lt;/p&gt;
+
+&lt;p&gt;In fact, she tells me the past few years, in fact, decades, had been incredibly hard for her.&lt;/p&gt;
+
+&lt;p&gt;She tells me she has considered suicide at points in her life.&lt;/p&gt;
+
+&lt;p&gt;She tells me the only thing that has kept her going was her determination to see her children live a better life than what she has and will have had.&lt;/p&gt;
+
+&lt;p&gt;Naturally this broke my heart. I wiped tears from my eyes and I gave her a kiss, and I thanked her for living for my sake.&lt;/p&gt;
+
+&lt;p&gt;This is the beauty of not only just my mom, but my father. Not only just my mother and father, but to the mothers and fathers everywhere that worked for the betterment of their children.&lt;/p&gt;
+
+&lt;p&gt;I do not believe life is only for the sake of our own pleasure.&lt;/p&gt;
+
+&lt;p&gt;My mother and father lived incredibly difficult lives in the United States as immigrants. I am always humbled to see that they’ve continued to stick it out. I know of many other immigrants that return to their home country because of the immense difficulties in the immigrant life.&lt;/p&gt;
+
+&lt;p&gt;My father tells me of a time when his friend returned back to Korea after being shot in the stomach – this friend had been operating a convenience store in St. Louis and was a victim of an attempted robbery and attempted murder.&lt;/p&gt;
+
+&lt;p&gt;Another story of a friend of ours that committed suicide after his wife had left him – nobody knew until the apartment began to smell and neighbors called the property management.&lt;/p&gt;
+
+&lt;p&gt;I do not think my parents have necessarily a happy marital life. I believe that were it not the immense struggles they had experienced, my parents would have divorced some time ago. I also believe that were it not for my mother, her beautiful traits of steadfastness and ability to endure, my father would have collapsed physically, spiritually, and mentally.&lt;/p&gt;
+
+&lt;p&gt;I’m aware that for some or many Americans, the objective of a marriage is for happiness and love. I think this is a wonderful thing to aspire to. To add to this, I think that the marriage should act as a protective shield around the brutal realities of reality.&lt;/p&gt;
+
+&lt;p&gt;My mother is a beautiful woman. Yet I know that I’ve abused her beauty by being careless with her. I’ve spoken roughly to her, I’ve taken advantage of her kindness.&lt;/p&gt;
+
+&lt;p&gt;Yet, she endures and continues to love me and continues to always, the next day, start over with me.&lt;/p&gt;
+
+&lt;p&gt;What a beautiful woman.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tradition and Evil</title>
+   <link href="http://localhost:4000/harry%20potter/tradition/medieval%20age/2021/05/12/tradition-and-evil/"/>
+   <updated>2021-05-12T00:00:00-04:00</updated>
+   <id>http://localhost:4000/harry%20potter/tradition/medieval%20age/2021/05/12/tradition-and-evil</id>
+   <content type="html">&lt;p&gt;I find myself wondering what life would be like if our current society was more of a traditionalist society. For all of the criticisms of the Middle Ages, nobody will argue that the inhabitants of that time period ever wondered existentialist questions such as “who am I?” or “what is the purpose and meaning of life?”.&lt;/p&gt;
+
+&lt;p&gt;It could be said, that because the Middle Ages was marked by brutality and short life expectancy that such inhabitants were never offered such an opportunity to consider such questions.&lt;/p&gt;
+
+&lt;p&gt;I don’t think so.&lt;/p&gt;
+
+&lt;p&gt;Life was short during those periods, but the vast majority of people in the Middle Ages worked far less than we do as modern society. They had plenty of time (relatively speaking), to consider existential questions.&lt;/p&gt;
+
+&lt;p&gt;However, they probably didn’t.&lt;/p&gt;
+
+&lt;p&gt;The questions of existentialism is unique to our age, and possibly, unique to other societies that are facing identity crises.&lt;/p&gt;
+
+&lt;p&gt;I think traditionalist societies have much we could learn from. Most importantly, how do we create happy and fulfilled people?&lt;/p&gt;
+
+&lt;p&gt;I think the biggest obstacle to happiness and fulfillment is in the paradox of freedom of identity. How do we know who we are in an endless sea of options?&lt;/p&gt;
+
+&lt;p&gt;Watching Harry Potter, I can’t help but wonder if the reason why Harry Potter was so successful as a series is that the magical world is filled with &lt;em&gt;tradition&lt;/em&gt;. Hogwarts is a school anyone would want to attend. In this magical world, people are &lt;em&gt;content&lt;/em&gt;. People have a place and identity. In our world, we have no identity but the freedom to choose our identity.&lt;/p&gt;
+
+&lt;p&gt;I think my biggest question for those waning for a more traditionalist society is this: how do traditionalist societies deal with the concept of evil? How do we punish those violate the rules or boundaries?&lt;/p&gt;
+
+&lt;p&gt;When I think of a traditionalist society, I think of happiness, but I don’t know what such a society would do in correct injustice and punishing evil-doers.&lt;/p&gt;
+
+&lt;p&gt;That’s all I have today.&lt;/p&gt;
+
+&lt;p&gt;I encourage you to dream with me about a world where people have solid identities, fulfilled lives, and deep and satisfying purpose that drives people through life and death.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Another Thought about Harry Potter</title>
+   <link href="http://localhost:4000/harry%20potter/2021/05/12/another-thought-about-harry-potter/"/>
+   <updated>2021-05-12T00:00:00-04:00</updated>
+   <id>http://localhost:4000/harry%20potter/2021/05/12/another-thought-about-harry-potter</id>
+   <content type="html">&lt;p&gt;Notice how clueless and blind Muggles are. Wizardry and witchcraft are happening all around them and yet Muggles walk around blind so busy with their lives.&lt;/p&gt;
+
+&lt;p&gt;I think this is a mark of our civilization. We have eyes but we cannot see what is right in front of us.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Community Online?</title>
+   <link href="http://localhost:4000/community/2021/05/11/community-online/"/>
+   <updated>2021-05-11T00:00:00-04:00</updated>
+   <id>http://localhost:4000/community/2021/05/11/community-online</id>
+   <content type="html">&lt;p&gt;It can’t be done. You cannot have a community online. At best, it is a filler until you have a community in person. It is in person that a person can draw strength from others. It is in person that the full human experience is had when it comes to sharing and caring for others.&lt;/p&gt;
+
+&lt;p&gt;The internet makes it too easy for people to disconnect and for people to stop talking to each other. In real life, relationships are usually messier – you can’t as simply ghost on someone. In fact, the ghosting terminology comes from an act done with an online presence.&lt;/p&gt;
+
+&lt;p&gt;I hope that our interactions online are not training us to becoming spiritual murderers – we are too easily tempted to insult a stranger on the internet, to call him or her an idiot and to think nothing of it. And then when we dislike someone we simply choose not to speak with him or her.&lt;/p&gt;
+
+&lt;p&gt;I don’t think this is right at all. With in person interactions, it is not as easy to be rid of someone. And I do think it is a good thing that one is forced to sometimes (emphasis on sometimes) interact with people we do not like.&lt;/p&gt;
+
+&lt;p&gt;I’ve spent the majority of my adult life navigating social spheres on the internet. The majority of those spheres are now dead, either from people migrating to others or from a lack of interest. Discord channels are notorious for breaking down and collapsing due to drama.&lt;/p&gt;
+
+&lt;p&gt;Have people always been this contentious with others? Or have we as a society forgotten the skills of learning to deal with others, sometimes those others being people that we do not like at all.&lt;/p&gt;
+
+&lt;p&gt;Being on lockdown, it has been for me a slow starvation of human contact. I think it’s good for people to be stuck together. Family is a good example. Family, despite the sort of neglect and abuse people can experience inside of them, should still be considered the de facto standard for human relationships.&lt;/p&gt;
+
+&lt;p&gt;I look forward to being able to meet with people again, and I hope you all do too, even though meeting people can be a hard thing.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>For Men that are Looking: Women and Choice</title>
+   <link href="http://localhost:4000/dating/2021/04/01/for-men-that-are-looking-women-and-choice/"/>
+   <updated>2021-04-01T00:00:00-04:00</updated>
+   <id>http://localhost:4000/dating/2021/04/01/for-men-that-are-looking-women-and-choice</id>
+   <content type="html">&lt;p&gt;I should preface this post with a very important point: I have not been in a committed relationship for nearly a decade, so as this post is an advice post, I suggest you take into consideration my background before you think about taking my advice.&lt;/p&gt;
+
+&lt;p&gt;Here it is:&lt;/p&gt;
+
+&lt;p&gt;I think the biggest mistake that men can make is to try to choose a woman.&lt;/p&gt;
+
+&lt;p&gt;While I think men should be on the lookout for a woman with desirable traits (whatever those traits are) and I think it’s important for men to know what they want, I don’t think that a man should do the choosing.&lt;/p&gt;
+
+&lt;p&gt;In fact, I think that for the majority of men, they were never in a position of being able to choose. They just happened to be at the right place and at the right time, &lt;em&gt;and the woman chose&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s not just that women choose and men are chosen, and it’s not just about being in the right place and the right time.&lt;/p&gt;
+
+&lt;p&gt;It’s also about the idea that &lt;em&gt;not everyone will like you&lt;/em&gt;, and that’s OK.&lt;/p&gt;
+
+&lt;p&gt;Attraction, like power, is not static, but it is dynamic and in a constant state of flux. Concerning your level of attraction to someone, sometimes you’ll be right on point. Sometimes you’ll miss the mark and it really will be out of your locus of control.&lt;/p&gt;
+
+&lt;p&gt;So here’s my advice: be open to chaos and the unpredictability of the attraction spectrum. You win some, you lose some. Try to manage and minimize your losses.&lt;/p&gt;
+
+&lt;p&gt;If you’ve been pining for the attention of a woman and she has not reciprocated, you need to move on. Now. Yesterday. Delete her from your mind from ever being a possibility. It’s also probably not a good idea to remain her “friend” anymore, mostly because you’ve probably already ruined that avenue already. Be cordial. Be respectful. Laugh and enjoy your time with her. But move on. She has not chosen you.&lt;/p&gt;
+
+&lt;p&gt;Continue to make progress as your own person and know that you can at a certain point, be at the right place and right time to be chosen. Increase your likelihood of this happening by getting out by doing something spontaneous, while at the same time strengthening the routines in your life that bring you positive gain.&lt;/p&gt;
+
+&lt;p&gt;The best thing about being chosen is that it is ultimately the path of least resistance. She chose you because she thinks you’re the bees knees. You’re rad, she thinks. She likes you because you’re you, and this means you don’t have to fake being some guy. You can just continue to be you and continue to improve who you are as a person.&lt;/p&gt;
+
+&lt;p&gt;This perspective also takes a lot of pressure off of you about trying to impress a woman. Blabber on about your fascination about mycology and why the &lt;em&gt;kingdom animalia&lt;/em&gt; needs a fifth kingdom to account for fungi.&lt;/p&gt;
+
+&lt;p&gt;Good luck!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Netflix and Tarantino's Hateful 8; A short Review and thoughts on Justice</title>
+   <link href="http://localhost:4000/hateful%208/movie%20reviews/2021/03/29/netflix-and-tarantinos-hateful-8-a-short-review-and-thoughts-on-justice/"/>
+   <updated>2021-03-29T00:00:00-04:00</updated>
+   <id>http://localhost:4000/hateful%208/movie%20reviews/2021/03/29/netflix-and-tarantinos-hateful-8-a-short-review-and-thoughts-on-justice</id>
+   <content type="html">&lt;p&gt;The series is long. It’s absolutely a tour de force in the celebration of gore, violence, and hate. I finished it, despite the derogatory words eventually becoming tiresome to me.&lt;/p&gt;
+
+&lt;p&gt;I did have a thought on justice, though.&lt;/p&gt;
+
+&lt;p&gt;Ms. Demergue eventually does hang, but she hangs by Captain Mannix, who was to be the sheriff of the town of Red Rock where Ms. Demergue was to hang.&lt;/p&gt;
+
+&lt;p&gt;Though Mannix had not completed his ceremonies to be sworn in as a sheriff, he was appointed as “sheriff-to-be” by law or ordinance.&lt;/p&gt;
+
+&lt;p&gt;Ms. Demergue was a diabolical woman. However, it would have been wrong to have enacted mob justice by killing her on the spot. Justice must be carried out by mandated authorities. When we have a rule-of-mob law, anarchy and injustice reigns.&lt;/p&gt;
+
+&lt;p&gt;There must be order in this world, and in better times, those authorities placed above us must carry out justice, or all of society suffers.&lt;/p&gt;
+
+&lt;p&gt;Ms. Demergue did hang and it was done appropriately by Capt. Mannix.&lt;/p&gt;
+
+&lt;p&gt;Even in a blood soaked room with corpses strewn about – order, structure, and even justice can be had, if we are willing to do things the right way.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Movie Review: Seaspiracy (2021) and my thoughts on sustainability</title>
+   <link href="http://localhost:4000/seaspiracy/food/environment/2021/03/27/movie-review-seaspiracy-2021-and-my-thoughts-on-sustainability/"/>
+   <updated>2021-03-27T00:00:00-04:00</updated>
+   <id>http://localhost:4000/seaspiracy/food/environment/2021/03/27/movie-review-seaspiracy-2021-and-my-thoughts-on-sustainability</id>
+   <content type="html">&lt;p&gt;https://www.imdb.com/title/tt14152756/&lt;br /&gt;
+This documentary has broken my heart. It is also a very good documentary.&lt;/p&gt;
+
+&lt;p&gt;I’m beginning to think that there is no such thing as sustainability.&lt;/p&gt;
+
+&lt;p&gt;As populations begin to grow, there is no capability in which man can continually consume at the same rate without consequences.&lt;/p&gt;
+
+&lt;p&gt;When we eat meat, we must acknowledge the fact that in order for us to eat, a thing gave up its life for us. The modern industrial complex that gives us such wonderful blessings such as cheap meat has also been in some ways, a spendthrift to us. It has become an industry that is out of control. We as humans have forgotten to be watchful of the things given to us to be responsible for.&lt;/p&gt;
+
+&lt;p&gt;I don’t know what the answers are, but I think that at the very minimum, today, when we begin to eat, we also take a moment to sit, be thankful, and acknowledge that sacrifices were made so that we could enjoy our meal.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>It's the Simple Thangs</title>
+   <link href="http://localhost:4000/covid-19/thankfulness/life/death/2021/03/21/its-the-simple-thangs/"/>
+   <updated>2021-03-21T00:00:00-04:00</updated>
+   <id>http://localhost:4000/covid-19/thankfulness/life/death/2021/03/21/its-the-simple-thangs</id>
+   <content type="html">&lt;p&gt;My parent’s PPP loan came in yesterday. To celebrate, my mom went to Aldi’s and purchased some sweets and cheese.&lt;/p&gt;
+
+&lt;p&gt;And though our dinner was simple, we had a little bit of wine together with the family along with those sweets and cheese.&lt;/p&gt;
+
+&lt;p&gt;And we had a great meal.&lt;/p&gt;
+
+&lt;p&gt;Pre-COVID my parents and I used to argue about where to go out for dinner. I’d complain that my dad always wanted to go to a Chinese buffet. My parents would complain about my complaining because they’d argue that the best value for going out was to go to a Chinese buffet. (In particular, they enjoy crawfish, snow crab and the eventual ice cream at the end of the meal.)&lt;/p&gt;
+
+&lt;p&gt;But now, we don’t go out for dinner anymore.&lt;/p&gt;
+
+&lt;p&gt;We stay inside, and sometimes, we will go to COSTCO to buy appetizer dishes you’d sometimes order at a restaurant.&lt;/p&gt;
+
+&lt;p&gt;But tonight, there was a feeling of gratitude and a bit of tiredness. (We had just spent the day doing some yardwork)&lt;/p&gt;
+
+&lt;p&gt;Tonight, we were grateful to be able to eat a meal together, enjoy simple luxuries, and to be able to spend time together.&lt;/p&gt;
+
+&lt;p&gt;My question for you today is this: What can you do to enjoy the simple things in life?&lt;/p&gt;
+
+&lt;p&gt;Our life has become immensely more complicated because of COVID. In some ways, it’s become more streamline. But it doesn’t hurt to look back at where you once came from (from nothingness) to now being able to enjoy a sweet and delicious piece of cake or pie and to share that moment together with loved ones.&lt;/p&gt;
+
+&lt;p&gt;One day you will die. One day your health will fail you.&lt;/p&gt;
+
+&lt;p&gt;In light of that, though I don’t necessarily argue that you should eat drink and be merry for tomorrow is uncertain, I argue instead that you should be thankful for the small things in your life. If you have health, be thankful you have health. If you do not have health but are able to still read this message, be thankful you have life and yet still time to be able to make the best of things.&lt;/p&gt;
+
+&lt;p&gt;Today, make the choice to be thankful. Maybe get you an ice cream cone with a loved one. Maybe go out and get you a manicure or whatever. Maybe cuddle up in bed and read a nice book.&lt;/p&gt;
+
+&lt;p&gt;Today, make the choice to be thankful.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>In this time of isolation, be thankful</title>
+   <link href="http://localhost:4000/thankfulness/death/2021/03/18/in-this-time-of-isolation-be-thankful/"/>
+   <updated>2021-03-18T00:00:00-04:00</updated>
+   <id>http://localhost:4000/thankfulness/death/2021/03/18/in-this-time-of-isolation-be-thankful</id>
+   <content type="html">&lt;p&gt;I think the natural tendency as you get older is to know of people that have died. Looking back I know of people that have had their life taken away unexpectedly and even while in the midst of trying to have a little fun.&lt;/p&gt;
+
+&lt;p&gt;A few years ago, in my local university, a young girl had been run over after falling out of a party bus. Her parents will never get to know what it was like to see their daughter grow older – to make bad choices and to make good choices. And all she was wanting to do for the night was to have a little fun.&lt;/p&gt;
+
+&lt;p&gt;Another friend (who was around 17 at the time), was run over by a teen driver. That driver fled the scene and turned himself in the next day. I can’t imagine the guilt that person experienced in that very long night.&lt;/p&gt;
+
+&lt;p&gt;Without going on and on about graphic stories of abrupt death, I want to focus on this main point: these are not easy times for any of us. Sure, some of us are greatly taking advantage of these times to reassess what is important to them and to, for example, make a career change if necessary, in order to make the best use of this time of what is essentially purgatory. But for many more of us, these are hard times.&lt;/p&gt;
+
+&lt;p&gt;We’re all trapped inside of our houses. We go outside and unfortunately, it is just not the same as it used to be years ago.&lt;/p&gt;
+
+&lt;p&gt;How quickly things have changed.&lt;/p&gt;
+
+&lt;p&gt;Yet, we must look toward the future. We must be thankful for what we have now, and we must use the time we have now, despite the situation, to make the best of our situation and to ask ourselves ‘&lt;em&gt;what can I learn from this situation and how can I best turn this situation into a win-win situation for me?&lt;/em&gt;‘&lt;/p&gt;
+
+&lt;p&gt;Life is short and sometimes death in all its impersonal nature will end your short trip on this planet quicker than you had planned. Because of this, we must always try our best to make the best of every minute of our lives to being productive, to being thankful, and even to really resting and enjoying the time we have.&lt;/p&gt;
+
+&lt;p&gt;So, cherish the time you have now. Engage in some self-care. Treat yourself. Plan for the future. Make the hard changes you’ve been putting off.&lt;/p&gt;
+
+&lt;p&gt;The future is coming, so get ready to board the train when it comes, because the future waits for noone!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Problem With Chik-Fil-A Sauce</title>
+   <link href="http://localhost:4000/chik-fil-a/half%20backed%20thoughts/teamwork/2021/03/16/the-problem-with-chik-fil-a-sauce/"/>
+   <updated>2021-03-16T00:00:00-04:00</updated>
+   <id>http://localhost:4000/chik-fil-a/half%20backed%20thoughts/teamwork/2021/03/16/the-problem-with-chik-fil-a-sauce</id>
+   <content type="html">&lt;p&gt;Here’s the thing. I love Chik-fil-a. They’re good. Customer service is good. Food quality is good. I’ve never had a bad experience with Chik-fil-a, minus the long lines I’d have to wait.&lt;/p&gt;
+
+&lt;p&gt;But here’s the &lt;em&gt;other&lt;/em&gt; thing. Chik-fil-a sauce is too good. In fact, it’s too good, it overpowers everything else.&lt;/p&gt;
+
+&lt;p&gt;Try dipping a celery stick in Chik-fil-a sauce. All you taste is sauce. Try dipping the same celery stick in bufffalo-sauce. It’s different. It’s &lt;em&gt;complementary&lt;/em&gt;. There’s a reason why ranch sauce is King (or Queen) when it comes to dipping veggies that nobody likes. Ranch, though yes, mostly overpowering, is &lt;em&gt;complementary.&lt;/em&gt; It’s not overpowering. (Though, I’m sure some would argue that ranch sauce is also, overpowering.) But never mind the culinary opinions.&lt;/p&gt;
+
+&lt;p&gt;My question, within the framework of leadership is – are you overpowering others with the awesomeness of your sauce? Or are you complimenting the strengths of others with the complementary taste of your sauce?&lt;/p&gt;
+
+&lt;p&gt;Are you so eager to express the subtle hints of your flavors that you’re overpowering the meal as a whole? Or are you complementary, adding surprises to each bite, as a person explores the meal and not the flavors in and of themselves?&lt;/p&gt;
+
+&lt;p&gt;Some days call for Chik-fil-a sauce. Some days call for complimentary sauce. Like beef au jus sauce, for example.&lt;/p&gt;
+
+&lt;p&gt;There’s a difference!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Exploring HTML, CSS, and PostgreSQL</title>
+   <link href="http://localhost:4000/tutorials/tech/2021/03/15/exploring-html-css-and-postgresql/"/>
+   <updated>2021-03-15T00:00:00-04:00</updated>
+   <id>http://localhost:4000/tutorials/tech/2021/03/15/exploring-html-css-and-postgresql</id>
+   <content type="html">&lt;p&gt;I’m going through a very basic introduction into PostgreSQL, HTML, and CSS. I thought it might benefit someone to post my gist on questions and reflections on these technologies.&lt;/p&gt;
+
+&lt;p&gt;To read them, &lt;a href=&quot;https://gist.github.com/ignored-comment/33ea2a3cfb23270db7af27c4574a264a#file-mod2intermission_work-md&quot;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>After Winter</title>
+   <link href="http://localhost:4000/poetry/2021/03/15/after-winter/"/>
+   <updated>2021-03-15T00:00:00-04:00</updated>
+   <id>http://localhost:4000/poetry/2021/03/15/after-winter</id>
+   <content type="html">&lt;p class=&quot;has-text-align-center&quot;&gt;
+  After all the dark and clammy nights
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  Rosy and warm to keep the elements at bay
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  Now, already, in such a short amount of time
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  The flowers bloom to start
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  they announce for all the world to see
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  yet another season
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Enumerables and Demeter</title>
+   <link href="http://localhost:4000/ruby/tech/tutorials/enumerables/law%20of%20demeter/2021/02/22/enumerables-and-demeter/"/>
+   <updated>2021-02-22T00:00:00-05:00</updated>
+   <id>http://localhost:4000/ruby/tech/tutorials/enumerables/law%20of%20demeter/2021/02/22/enumerables-and-demeter</id>
+   <content type="html">&lt;p&gt;I’ve created two Github repositories – both of which are free for you to explore and, if you want, to contribute to.&lt;/p&gt;
+
+&lt;p&gt;The first is called Breaking Demeter. The law of Demeter states that you should not have two uniquely defined methods called on each other. Doing so is redundant and it can get confusing for another developer combing through your code. Of course, while the law is more of a guideline for readability and general methodology, (if you are breaking Demeter consider asking yourself if you need a helper method) there are general exceptions and sometimes the best solution can be to ignore the law completely.&lt;/p&gt;
+
+&lt;p&gt;This exercise, however, breaks the law of Demeter in order to teach you to select and navigate through nested classes and collections.&lt;/p&gt;
+
+&lt;p&gt;You can find the Breaking Demeter exercise here: &lt;a href=&quot;https://github.com/ignored-comment/breaking_demeter&quot;&gt;https://github.com/ignored-comment/breaking_demeter&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Enumerables repository is to help you explore through enumerables through a series of short and easy tests. If you’ve been grinding through Leetcode or Exercism, these tests will probably be a waste of time for you. If, however, you want a &lt;em&gt;gentle introduction&lt;/em&gt; to enumerables, then this is for you. For now, you have enumerables practices for &lt;code class=&quot;highlighter-rouge&quot;&gt;find_all&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;any&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;map&lt;/code&gt;. I will continue to update the repository with more as time passes.&lt;/p&gt;
+
+&lt;p&gt;And, I should say, the biggest advantage of engaging in something like my Enumerables exercise is that you might write your own tests for an enumerable you’ve been wanting to explore. This will deepen your knowledge. See the &lt;code class=&quot;highlighter-rouge&quot;&gt;README.md&lt;/code&gt; for more information.&lt;/p&gt;
+
+&lt;p&gt;You can find the Enumerable exercise here: &lt;a href=&quot;https://github.com/ignored-comment/enumerables&quot;&gt;https://github.com/ignored-comment/enumerables&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hope you enjoy!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Some Thoughts On Mindset; Peter de Jager</title>
+   <link href="http://localhost:4000/mindset/peter%20de%20jager/carol%20dweck/2021/02/01/mindset/"/>
+   <updated>2021-02-01T00:00:00-05:00</updated>
+   <id>http://localhost:4000/mindset/peter%20de%20jager/carol%20dweck/2021/02/01/mindset</id>
+   <content type="html">&lt;p&gt;The word mindset – in what ways are you set in your mind? What concepts about life and your identity have become crystalized to you?&lt;/p&gt;
+
+&lt;p&gt;I often hear someone say, “oh, I’m not good at math” and I wonder, says who?&lt;/p&gt;
+
+&lt;p&gt;Math is as natural to a human being, in that basic mathematical understanding is capable for any human being on the planet. Everyday we do math – most people are just not aware of doing it.&lt;/p&gt;
+
+&lt;p&gt;Perhaps you take milk with your coffee. You probably have a certain preference, a ratio, of how much milk to coffee you like. You might not be thinking of a very specific ratio, but you’re practicing math when you pour your ideal amount of milk into your coffee.&lt;/p&gt;
+
+&lt;p&gt;Your car tells you that you’re low on gas. You’ve done this before, so you tell yourself that you can afford to go home tonight and that tomorrow morning you’ll refill the tank. You can make estimations of future probability based on current data.&lt;/p&gt;
+
+&lt;p&gt;I was listening to a podcast from Peter de Jager. It is called &lt;a href=&quot;https://podcasts.apple.com/us/podcast/truth-picks/id1503232604&quot;&gt;Truth Picks.&lt;/a&gt; I believe the episode was #003, “It isn’t that they can’t see the solution.”&lt;/p&gt;
+
+&lt;p&gt;Peter makes a very good point about children.&lt;/p&gt;
+
+&lt;p&gt;Children ask questions. All of the time.&lt;/p&gt;
+
+&lt;p&gt;Many of them seem silly to us as adults. “Why is water wet?”&lt;/p&gt;
+
+&lt;p&gt;As adults we’ve crystallized our concept of what water is. To us, wetness is simply an attribute of the physical object known as water. To simply ask &lt;em&gt;why&lt;/em&gt; water is wet seems like a silly thing to ask.&lt;/p&gt;
+
+&lt;p&gt;But it’s in asking these questions, the challenging of assumptions, that can be valuable to our future as problem solvers. There are so many potential possibilities of improvement in our lives simply by asking seemingly “dumb” questions.&lt;/p&gt;
+
+&lt;p&gt;In terms of your mindset, ask yourself, “&lt;em&gt;why&lt;/em&gt; am I bad at math?” Perhaps you tell yourself “because I never engaged in fruitful practice of math.” Perhaps you tell yourself “because my teacher told me so”.&lt;/p&gt;
+
+&lt;p&gt;Everyday people go about their lives as run into some kind of problem that occurs regularly. The coffee in the mug while driving tends to spill over while driving down a bumpy road. How long did it take before someone thought to make a cover for the coffee mug?&lt;/p&gt;
+
+&lt;p&gt;How long did it take people to figure out bread can be sliced? Once we figured out sliced bread was pretty useful, then came along &lt;em&gt;sandwiches&lt;/em&gt;, a beautiful invention.&lt;/p&gt;
+
+&lt;p&gt;In light of this discussion, I encourage you all to ask yourself dumb questions and, to follow up with that dumb question with a good answer.&lt;/p&gt;
+
+&lt;p&gt;Who knows, maybe you’ll be the person that eventually discovers the next sliced bread.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>In Darkness and Death [Poetry]</title>
+   <link href="http://localhost:4000/poetry/2021/02/01/in-darkness-and-death/"/>
+   <updated>2021-02-01T00:00:00-05:00</updated>
+   <id>http://localhost:4000/poetry/2021/02/01/in-darkness-and-death</id>
+   <content type="html">&lt;p class=&quot;has-text-align-center&quot;&gt;
+  You will leave behind
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  Your treasures and collections
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  But love conquers all
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Onwards [Poetry]</title>
+   <link href="http://localhost:4000/poetry/2021/02/01/3196-2/"/>
+   <updated>2021-02-01T00:00:00-05:00</updated>
+   <id>http://localhost:4000/poetry/2021/02/01/3196-2</id>
+   <content type="html">&lt;p class=&quot;has-text-align-center&quot;&gt;
+  The world is full of pain and suffering
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  Everyday humanity aches and throbs
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  Our suffering points direction to our future home
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  As we cope and bear our crippled walk
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  Hope gives us respite, a cool shade from the blistering sun
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  So for today I&amp;#8217;ll smile a little more and laugh a little louder
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  Today I&amp;#8217;ll set in stone a future better than is today
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  Build for the future generations &amp;#8211; laughs and smiles from the past
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Rest and Comfort [Poetry]</title>
+   <link href="http://localhost:4000/poetry/2021/01/19/rest-and-comfort/"/>
+   <updated>2021-01-19T00:00:00-05:00</updated>
+   <id>http://localhost:4000/poetry/2021/01/19/rest-and-comfort</id>
+   <content type="html">&lt;p class=&quot;has-text-align-center&quot;&gt;
+  Eat without thanks and drink without peace
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  An empty belly filled nausea and regret
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  Eat with gratefulness and humility
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  Fullness that lasts, not overwhelming
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  Drink with moderation and friendship
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  Lasting memories drip warmly down
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  Remember, even if it was not your own story
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  That once long ago
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  We toiled in bondage
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  Yet now gifted &amp;#8211; a hope for freedom
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  Enjoy thankfully and remember
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How Long? [Poetry]</title>
+   <link href="http://localhost:4000/poetry/2021/01/19/how-long/"/>
+   <updated>2021-01-19T00:00:00-05:00</updated>
+   <id>http://localhost:4000/poetry/2021/01/19/how-long</id>
+   <content type="html">&lt;p class=&quot;has-text-align-center&quot;&gt;
+  How long, my dear friend
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  Repeating so much regret
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  Stand &amp;#8211; You can be free
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Reject Regret [Poetry]</title>
+   <link href="http://localhost:4000/poetry/2021/01/11/reject-regret/"/>
+   <updated>2021-01-11T00:00:00-05:00</updated>
+   <id>http://localhost:4000/poetry/2021/01/11/reject-regret</id>
+   <content type="html">&lt;p class=&quot;has-text-align-center&quot;&gt;
+  For the ones you&amp;#8217;ve lost
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  move on after your last kiss
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  lost in the moment
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Praying for Hope [Poetry]</title>
+   <link href="http://localhost:4000/poetry/2021/01/11/im-back/"/>
+   <updated>2021-01-11T00:00:00-05:00</updated>
+   <id>http://localhost:4000/poetry/2021/01/11/im-back</id>
+   <content type="html">&lt;p class=&quot;has-text-align-center&quot;&gt;
+  When you asked me how,
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  I could only sit and pray
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  desperate for hope.
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Good Night [Poetry]</title>
+   <link href="http://localhost:4000/poetry/2021/01/11/good-night/"/>
+   <updated>2021-01-11T00:00:00-05:00</updated>
+   <id>http://localhost:4000/poetry/2021/01/11/good-night</id>
+   <content type="html">&lt;p class=&quot;has-text-align-center&quot;&gt;
+  In the twilight, a quiet moment &amp;#8211;
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  my footsteps now the loudest creature of the night.
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  The dark and vast velvet of the sky looks down at me
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  without critique, without judgement &amp;#8211;
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  only silence and acceptance.
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>For You [Poetry]</title>
+   <link href="http://localhost:4000/poetry/2021/01/11/for-you/"/>
+   <updated>2021-01-11T00:00:00-05:00</updated>
+   <id>http://localhost:4000/poetry/2021/01/11/for-you</id>
+   <content type="html">&lt;p class=&quot;has-text-align-center&quot;&gt;
+  A nice, quiet place
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  Where you can hide away from
+&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-center&quot;&gt;
+  the pain and headaches
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Food of Sichuan Fuschia Dunlop</title>
+   <link href="http://localhost:4000/fuschia%20dunlop/food/2020/10/10/the-food-of-sichuan-fuschia-dunlop/"/>
+   <updated>2020-10-10T00:00:00-04:00</updated>
+   <id>http://localhost:4000/fuschia%20dunlop/food/2020/10/10/the-food-of-sichuan-fuschia-dunlop</id>
+   <content type="html">&lt;p&gt;Allow me to preface this review by saying that I love spicy food. I am a masochist for it.&lt;/p&gt;
+
+&lt;p&gt;But from my limited experience of Sichuan cuisine, the spice in the food is not overwhelming at all. It is mostly a mild spice that is very sophisticated in its approach to how the spice coats your tongue.&lt;/p&gt;
+
+&lt;p&gt;This spice is often referred to as a certain kind of a zing or tingle. The tingle comes from the Sichuan peppercorns, which are not actually peppercorns at all but are more related to the citrus family.&lt;/p&gt;
+
+&lt;p&gt;I purchased this book because if anything, I want to be a familiar neighbor of Sichuan cuisine. One day I will have to go to Chengdu to learn more. Sichuan cuisine has been unusually closed off to Western appetites in that the ingredients can be difficult to find and because the average Westerner looks for what might be known as American Chinese food, so the demand is simply not there for Sichuan cuisine. Sichuan cuisine could be considered a culinary secret.&lt;/p&gt;
+
+&lt;p&gt;Watching Fuschia talk about her background and her passion for the Sichuan style of cooking has been wonderful. She speaks the language and was the first Westerner to graduate from Sichuan’s most prestigious culinary institute. She knows her stuff not simply because of her enrollment and graduation of an elite culinary school that was once entirely closed off to foreigners, but because it is plain as day how much she loves the culture. She appears to speak fluently the Chinese language.&lt;/p&gt;
+
+&lt;p&gt;The book itself is a beautiful book. I paid $30 for the book. It is probably one of the most beautiful books I own. A reviewer on Amazon said that the book reads like a novel instead of a traditional cookbook. I found this to be true.&lt;/p&gt;
+
+&lt;p&gt;Fuschia mentioned in one of her interviews Chinese cooking in general is very healthy and that the West could learn from its example. I agree. Typically this cuisine is heavy in vegetables and lighter on the meat – yet there is no feeling of lack found in Chinese cuisine that there would be in American if there were not a large chunk of meat on each plate. She calls this sustainable, I call it genius. I don’t care to limit anyone’s desire to eat more meat. More power to you. But for me, if I could, I would like to eat a ratio of 70% vegetables and 30% meat. This is completely possible with Chinese cuisine.&lt;/p&gt;
+
+&lt;p&gt;The directions for each recipe are clear and concise. The words don’t meander about. For ages I tried my best to look for Sichuan cooking – most of the recipes and directions felt esoteric and vague. Not this book. I think this book stands for me the best shot I have at understanding the Sichuan cuisine. Maybe one day I’ll be an authority on such a beautiful palate of flavor and sophistication. Who would have thought from such an old civilization that besides paper and gunpowder that these people would also have pioneered the art of flavor?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Shi zai zhonghuo, wei zai sichuan, or&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;China is the place for food, but Sichuan is the place for flavor”&lt;/em&gt;&lt;figure class=&quot;wp-block-embed-amazon-kindle wp-block-embed is-type-rich is-provider-amazon&quot;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;div class=&quot;wp-block-embed__wrapper&quot;&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;lt;/figure&amp;gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>100 Movies from Prime Worth Watching</title>
+   <link href="http://localhost:4000/100%20prime%20movies%20worth%20watching/movie%20reviews/2020/09/13/100-movies-from-prime-worth-watching/"/>
+   <updated>2020-09-13T00:00:00-04:00</updated>
+   <id>http://localhost:4000/100%20prime%20movies%20worth%20watching/movie%20reviews/2020/09/13/100-movies-from-prime-worth-watching</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.vulture.com/article/best-movies-amazon-prime.html?utm_source=digg&quot;&gt;https://www.vulture.com/article/best-movies-amazon-prime.html?utm_source=digg&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I am in the middle of “Ash is the Purest White”. It is an excellent movie. Perhaps you’ll find a movie worthwhile.&lt;/p&gt;
+
+&lt;p&gt;Signing off.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Excerpts from Carol Dweck's Mindset</title>
+   <link href="http://localhost:4000/carol%20dweck/2020/09/05/excerpts-from-carol-dwecks-mindset/"/>
+   <updated>2020-09-05T00:00:00-04:00</updated>
+   <id>http://localhost:4000/carol%20dweck/2020/09/05/excerpts-from-carol-dwecks-mindset</id>
+   <content type="html">&lt;blockquote class=&quot;wp-block-quote&quot;&gt;
+  &lt;p&gt;
+    &lt;strong&gt;Those with the growth mindset, on the other hand, can acknowledge their partners’ imperfections,&lt;/strong&gt; without assigning blame, and still feel that they have a fulfilling relationship. &lt;strong&gt;They see conflicts as problems of communication, not of personality or character.&lt;/strong&gt; This dynamic holds true as much in romantic partnerships as in friendship and even in people’s relationships with their parents.
+  &lt;/p&gt;
+  
+  &lt;cite&gt;https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/&lt;/cite&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;wp-block-quote&quot;&gt;
+  &lt;p&gt;
+    When people embark on a relationship, they encounter a partner who is different from them, and they haven’t learned how to deal with the differences. In a good relationship, people develop these skills and, as they do, both partners grow and the relationship deepens. &lt;strong&gt;But for this to happen, people need to feel they’re on the same side.&lt;/strong&gt; . . . As an atmosphere of trust developed, they [become] vitally interested in each other’s development.
+  &lt;/p&gt;
+  
+  &lt;cite&gt;https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/&lt;/cite&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;wp-block-quote&quot;&gt;
+  &lt;p&gt;
+    What it all comes down to is that a mindset is an interpretative process that tells us what is going on around us. In the fixed mindset, that process is scored by an internal monologue of constant judging and evaluation, using every piece of information as evidence either for or against such assessments as whether you’re a good person, whether your partner is selfish, or whether you are better than the person next to you. In a growth mindset, on the other hand, the internal monologue is not one of judgment but one of voracious appetite for learning, constantly seeking out the kind of input that you can metabolize into learning and constructive action.
+  &lt;/p&gt;
+  
+  &lt;cite&gt;https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/&lt;/cite&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We need to encourage children when they put effort into things instead of simply telling children that they are smart. We can also apply this concept to our loved ones and peers – stop telling people they are smart – we are simply admonishing one’s fragile ego. Instead we need to be praising others for doing the right thing, especially when it is difficult to do so. We need to praise others for trying difficult things and failing, because failure is where we learn the most. I do not advocate others simply go into debt and bankruptcy in the search of a failure, but failure need not be feared – it must instead be embraced as a natural cause of the progress of one’s self.&lt;/p&gt;
+
+&lt;p&gt;Today, I encourage you to do something that you have been afraid of. Go do something difficult, even if you will fail at it.&lt;/p&gt;
+
+&lt;p&gt;What’s the worst that could happen?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Lesson from 7 Habits of Highly Effective People</title>
+   <link href="http://localhost:4000/7%20habits%20of%20highly%20effective%20people/book%20review/steven%20r.%20covey/2020/08/11/a-lesson-from-7-habits-of-highly-effective-people/"/>
+   <updated>2020-08-11T00:00:00-04:00</updated>
+   <id>http://localhost:4000/7%20habits%20of%20highly%20effective%20people/book%20review/steven%20r.%20covey/2020/08/11/a-lesson-from-7-habits-of-highly-effective-people</id>
+   <content type="html">&lt;p&gt;Stephen R. Covey explains a development in his marriage life: For years he had expressed a frustration with Sandra, his wife, and her obsession with Frigidaire appliances. She was completely illogical with her obsession, preferring it to all other brands, even in the face of objective data that the price of other appliances was lower or that the quality of the other brands being better.&lt;/p&gt;
+
+&lt;p&gt;Fast forward years later Stephen and Sandra happen to develop a shared experience together where they slowly ride around a wooded area in a 4×4. There they shared many experiences and feelings. They were in tune with each other as they began to accept each other for who they were. Sometimes, the pain of past trauma and experiences would become too great and they would stop sharing for the day.&lt;/p&gt;
+
+&lt;p&gt;One day they eventually come across the topic of the Frigidaire. Ends up, Sandra’s father was an appliance wholesaler. After work, Sandra’s father would come home and Sandra would massage her father’s feet while her father opened up to her about the privates of the business, his insecurities and worries. Sandra grew up to cherish these times because of that openness. During an especially rough period in his business, Frigidaire was the only brand that would finance the appliances to her father, and many times, while having his feet massaged, Sandra’s father would express gratitude and thankfulness to Frigidaire for essentially saving the business.&lt;/p&gt;
+
+&lt;p&gt;Stephen realizes many things upon this revelation. Of course Sandra is being illogical – Sandra isn’t purchasing Frigidaire on the basis of objective price, quality, and value. She was purchasing loyalty. She was purchasing a bit of her father’s gratitude to Frigidaire.&lt;/p&gt;
+
+&lt;p&gt;The realization between the two was that the issue of the Frigidaire appliance had become an issue of contention in many other ways. In a sort of a ripple effect, one issue had begun to touch into many other issues of their marriage.&lt;/p&gt;
+
+&lt;p&gt;One thing to understand is that the true reason for the Frigidaire obsession would never have surfaced if both Sandra and Stephen hadn’t begun to somehow slip into a state in which both parties were fully willing to sit and understand, putting away their own selfish desire to be understood first.&lt;/p&gt;
+
+&lt;p&gt;So many of us are walking around blind in our relationships. We see what we want to see and assume we are correct. In the language of 7 Habits, we operate in a Win/Lose paradigm.&lt;/p&gt;
+
+&lt;p&gt;Let me encourage you all: How many relationships are you currently allowing to starve because you are not willing to seek to understand before seeking to be understood? An entire orchid of blossoms awaits those of you that are willing to put in hard work into relationships that bloom and blossom as a result of investment of time and ear.&lt;/p&gt;
+
+&lt;p&gt;People act illogically. Duh! Try to understand why – you might be surprised and what you get from it.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>7 Habits of Highly Effective People Review</title>
+   <link href="http://localhost:4000/7%20habits%20of%20highly%20effective%20people/book%20review/steven%20r.%20covey/2020/08/08/7-habits-of-highly-effective-people-review/"/>
+   <updated>2020-08-08T00:00:00-04:00</updated>
+   <id>http://localhost:4000/7%20habits%20of%20highly%20effective%20people/book%20review/steven%20r.%20covey/2020/08/08/7-habits-of-highly-effective-people-review</id>
+   <content type="html">&lt;p&gt;The title of this book is misleading. The majority of people reading this book may hope to glean a quick list of seven principles that they can implement into their lives immediately. You cannot.&lt;/p&gt;
+
+&lt;p&gt;The best way to frame the seven “habits” listed out by Stephen R. Covey is that they are instead seven things most people will never do in their lives. For example, Habit 5: “Seek first to understand, then to be understood.”&lt;/p&gt;
+
+&lt;p&gt;How many of us are actually listening and attempting to empathize with our dear and loved ones? My guess is that the majority of you are not listening at all, but merely waiting for your turn to speak.&lt;/p&gt;
+
+&lt;p&gt;All throughout our lives we are taught to wait before speaking as if merely the act of waiting before speaking was the virtue in itself. The lesson is entirely lost then when you’re not actively listening and non-judgmentally listening to your loved ones.&lt;/p&gt;
+
+&lt;p&gt;Too quick are we to respond with advice or tough love or with well-meaning feelings.&lt;/p&gt;
+
+&lt;p&gt;Too slow (if we ever get there) are we to listen, and accept what was said.&lt;/p&gt;
+
+&lt;p&gt;It takes courage to implement such a mode of listening, because in such a mode Covey says you become receptive and open to impression through this mode of listening. Meaning, an active listening process involves opening yourself up completely to that person’s thoughts and feelings. How terrifying that is for most people. How terrifying that is to me.&lt;/p&gt;
+
+&lt;p&gt;This book is not a list of seven habits. It is a list of seven things most people will never do because they lack the courage to face the world and to be a sincere individual – sincere to ones own self and sincere to the needs of others.&lt;/p&gt;
+
+&lt;p&gt;Understandably most people cannot reach this level – life already has so many pitfalls, concerns, and problems in itself that most people have a hard time keeping their own lives pieced together, let along having genuine unselfish care for others.&lt;/p&gt;
+
+&lt;p&gt;“7 Habits” taunts us with the maddening idea that being true to ourselves and to others, though in the short term costs much more in time and effort, will pay infinitely greater in the long term. It is the ultimate view of the middle-class; to be entirely future oriented in how we navigate ourselves and others.&lt;/p&gt;
+
+&lt;p&gt;This book was frustrating for me to read, and yet had such a blessed hope for the future. I know myself that I’ve failed many times to be a person with genuine desire for others. Simply to try to understand others first is such a giant challenge to me.&lt;/p&gt;
+
+&lt;p&gt;Conclusion: Read this book if you want to know exactly what you are not doing in your life and what the wonderful possibilities could be if you made just one step in the direction of sincerity, compassion, and love.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Benefit of eSports</title>
+   <link href="http://localhost:4000/journal/2020/07/16/a-benefit-of-esports/"/>
+   <updated>2020-07-16T00:00:00-04:00</updated>
+   <id>http://localhost:4000/journal/2020/07/16/a-benefit-of-esports</id>
+   <content type="html">&lt;p&gt;Reference is the video, forget watching the video. The essence of this video is summed up by the comment of a &lt;a href=&quot;https://www.youtube.com/channel/UCw6FJoMnDkltL_EExs1tp5Q&quot;&gt;Jeremiah Cuarteros&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;He says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;these gaming moments teach us important, CRUCIAL LESSONS in life :
+The Fountain Hooks – tells us to think out of the box, utilize unforeseen circumstances to turn the tide and grasp victory
+The Mega Creep Comeback – never EVER freaking give up no matter how grim or hopeless the situation is The Deny – one &amp;gt;small mistake can create disastrous results that will echo up to the future generations.
+The Six Million Dollar Echo Slam – speaking of echo, this teaches us to take advantage of sudden opportunities then ensure &amp;gt;victory by cooperating with others s4’s
+Million Dollar Dream Coils – time is of the essence. hesitate or be slow in response and the chance to get it will get away and be lost forever and you will never have another chance to claim the win
+BuLba and Clockwerk – never underestimate your opponent. your teammtates, or even your self. you dont even know how powerful you are until you rest everything on the line. you are a monster deep inside.
+BELIEVE IN THAT! the play – always, ALWAYS BE PREPARED FOR ANY CIRCUMSTANCE AND EXPECT THE UNEXPECTED. it is better to have trained for things that would probably never happen than never have trained for things that could possibly go wrong.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Creativity means a willingness to try a different approach. Creativity with a solid foundation of skills allows for unexpected opportunity. Creativity without foundational skills is simply throwing things at the wall to see what sticks. Big difference.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tenacity of hope is what makes or breaks battles. A person that is cynical for the future will never be a leader with lasting generational impact.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sometimes as you chip away at your work you will begin to see other opportunities. Most of these opportunities arise as you are working into developing your field. They don’t arise as you sit in bed and ponder all day.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Quoting a Florida real-estate investment expert Jim Napier, “When someone puts a million dollars in your hand, close your hand.” When the going is good, run with it and don’t look back.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The potential for greatness exists in all of us, just waiting to be harvested. The acre of diamonds is in your backyard. Therefore, since the same potential for greatness is in you as it is in others, never underestimate others, as this could be your undoing.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I am typically critical of sports fanaticism. I have no problem with moderate viewing, but most people do not view moderately. Most people view religiously.&lt;/p&gt;
+
+&lt;p&gt;If you can get a lesson from watching a quick sport clip then utilize the takeaway and then, walk away. Don’t waste your time fawning over men and women who will never know you exist.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Movie Review: Diana in Her Own Words</title>
+   <link href="http://localhost:4000/movie%20reviews/princess%20diana/2020/06/29/movie-review-diana-in-her-own-words/"/>
+   <updated>2020-06-29T00:00:00-04:00</updated>
+   <id>http://localhost:4000/movie%20reviews/princess%20diana/2020/06/29/movie-review-diana-in-her-own-words</id>
+   <content type="html">&lt;p&gt;I never would have thought that one documentary about a woman would have clarified to me my role as a man.&lt;/p&gt;
+
+&lt;p&gt;Diana, a women the world saw to be as a beautiful, charming, thoughtful and sometimes shy individual, was a person that grew up in a challenging environment. In her family life as a child she witnessed the trauma of fighting parents, her mother crying, and the sort of alienation a woman would feel typical in her class and role in the society of aristocratic English families.&lt;/p&gt;
+
+&lt;p&gt;We tend to think of these families as having lived a perfect and posh life, one in which worries and cares are washed away as a result of living without worry of money and status. Diana was a woman raised in the elite of the English class yet it would appear to be that problems and trauma exist in both the poor and the elite.&lt;/p&gt;
+
+&lt;p&gt;The biggest tragedy of Diana was that she was a young woman thrust into the public view to be held victim to the predatory claws of the English tabloids and media. She was hounded and hunted for so many reasons yet no reason big enough to justify the trauma inflicted upon her with so many inquiries into her public life.&lt;/p&gt;
+
+&lt;p&gt;My first take away from this documentary is that fame is a curse, not a blessing. It is not worth it to be famous and to be well known. It is better that not a single care is given to you by the media. In American society Americans may tend to look with envy towards the Hollywood associates of movies, producers, and influencers. I encourage you all to consider it a blessing that your name is not associated with merely the fact that you are a well known person.&lt;/p&gt;
+
+&lt;p&gt;Secondly, the elite have the same problems in their lives. The only difference between us and them is that their lives unfold in the drama of a larger estate and bigger toys. The same desire for identity, independence, and purpose exist in both the poor and the rich.&lt;/p&gt;
+
+&lt;p&gt;Thirdly, a massive failure of society, and in this case, Diana’s husband, was the failure to protect Diana. Diana, suffering from physical ailment and mental distress was left alone to fester despite her personal life completely plastered over the headlines. Nobody protected Diana, nobody (except a very select few group of friends) sought to understand her and to encourage her to become her own person.&lt;/p&gt;
+
+&lt;p&gt;Fourthly, men can be just as childish and heartless as any other person in this world. When a man takes a woman for his wife, it is his duty to protect her, to love her, to be vocal in encouragement and quiet in criticism, so that she can flower and bloom into a person that helps her husband to take on the attacks of the world. Her husband, supported by the system of the English monarchy, was utterly incapable of understanding Diana’s woes. He was a man completely lost in his own head and selfish desires.&lt;/p&gt;
+
+&lt;p&gt;My personal takeaway from this documentary is this: I have acted as a complete failure as a man. It is so easy to look at her husband and to condescendingly criticize the man as being selfish, cold, narcissistic, and so on. Yet, Prince Charles is not just a man. He is a man that exists in the potential of all men. We should look at the inaction of Prince Charles and learn from him that we as men might not follow his mistakes. Women are such beautiful creatures and like all people, can be easily hurt and broken.&lt;/p&gt;
+
+&lt;p&gt;I thought to myself is that as I think back at the many times I was cold, heartless, and judgemental to the women I’ve known in my past, I too was a Prince Charles in action.&lt;/p&gt;
+
+&lt;p&gt;Conclusion:&lt;/p&gt;
+
+&lt;p&gt;Fame is a curse. I do not recommend you seek it. Do not be jealous of the elite. They have their own problems. Watch the movie to learn the necessity of man’s role in a woman’s life.&lt;/p&gt;
+
+&lt;p&gt;Here’s to hoping you men grow into men that love their wives, support her, and help her to develop into becoming a woman that stands with you against the onslaught of the world. And together, you both can become victorious.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Diana:_In_Her_Own_Words&quot;&gt;https://en.wikipedia.org/wiki/Diana:_In_Her_Own_Words&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>M.Ed Capstone Final Project</title>
-   <link href="https://getpoole.com/wgu%20final%20projects/2020/06/02/m-ed-capstone-final-project/"/>
+   <link href="http://localhost:4000/wgu%20final%20projects/2020/06/02/m-ed-capstone-final-project/"/>
    <updated>2020-06-02T00:00:00-04:00</updated>
-   <id>https://getpoole.com/wgu%20final%20projects/2020/06/02/m-ed-capstone-final-project</id>
+   <id>http://localhost:4000/wgu%20final%20projects/2020/06/02/m-ed-capstone-final-project</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/l60olpy3f4i77n3/Capstone%20Template.docx?dl=0&quot;&gt;https://www.dropbox.com/s/l60olpy3f4i77n3/Capstone%20Template.docx?dl=0&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Above is the curriculum analysis and research findings.&lt;/p&gt;
@@ -623,17 +1608,51 @@ It is possible to drown someone with too much support. Sometimes it’s best giv
  </entry>
  
  <entry>
-   <title>Introduction</title>
-   <link href="https://getpoole.com/jekyll/2020/04/04/introduction/"/>
+   <title>What Every Body is Saying - Joe Navarro</title>
+   <link href="http://localhost:4000/joe%20navarro/what%20every%20body%20is%20saying/book%20reviews/2020/04/29/what-every-body-is-saying-joe-navarro/"/>
+   <updated>2020-04-29T00:00:00-04:00</updated>
+   <id>http://localhost:4000/joe%20navarro/what%20every%20body%20is%20saying/book%20reviews/2020/04/29/what-every-body-is-saying-joe-navarro</id>
+   <content type="html">&lt;p&gt;Former FBI investigator gives comprehensive list of body language to indicate whether or not a person is comfortable or uncomfortable.&lt;/p&gt;
+
+&lt;p&gt;If you are looking for a way to detect if a person is lying, you’re not going to find it here.&lt;/p&gt;
+
+&lt;p&gt;The near final chapter of the book Joe Navarro himself says even the best authorities on subjects are no better than 50/50 chances of determining if a person is lying or not. So don’t read this book in order to predict who’s lying.&lt;/p&gt;
+
+&lt;p&gt;Essentially, feet are the most honest part of the body and the body becomes less honest as you move up from the feet to the head.&lt;/p&gt;
+
+&lt;p&gt;Your chance of determining if someone is lying is a coin toss.&lt;/p&gt;
+
+&lt;p&gt;But observing the body language is a good start.&lt;/p&gt;
+
+&lt;p&gt;This book is a better looked through the lens of business, communication, and salesmanship.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>This period of instability, Coronavirus, and Looking Ahead to the Future</title>
+   <link href="http://localhost:4000/positivity/future/2020/04/04/this-period-of-instability-coronavirus-and-looking-ahead-to-the-future/"/>
    <updated>2020-04-04T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jekyll/2020/04/04/introduction</id>
+   <id>http://localhost:4000/positivity/future/2020/04/04/this-period-of-instability-coronavirus-and-looking-ahead-to-the-future</id>
+   <content type="html">&lt;p&gt;Now is a great time to be alive, reassess your situation, and think about how you want your situation to be when this blows over in two or three years. Great changes are happening as a result of this, and it is a good time now to ponder upon your situation while you may be in quarantine.&lt;/p&gt;
+
+&lt;p&gt;I encourage you to take the time to relax, sure. Watch some Netflix.&lt;/p&gt;
+
+&lt;p&gt;But you need to think about where you want to be in three years.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Introduction</title>
+   <link href="http://localhost:4000/jekyll/2020/04/04/introduction/"/>
+   <updated>2020-04-04T00:00:00-04:00</updated>
+   <id>http://localhost:4000/jekyll/2020/04/04/introduction</id>
    <content type="html">&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel’s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll’s loyal butler.&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;Poole is the butler for &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, the static site generator. It’s designed and developed by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt; to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.&lt;/p&gt;
 
-&lt;p&gt;This demo site was last updated August 23, 2021.&lt;/p&gt;
+&lt;p&gt;This demo site was last updated August 24, 2021.&lt;/p&gt;
 
 &lt;p&gt;There are currently two themes built on Poole:&lt;/p&gt;
 
@@ -673,9 +1692,9 @@ It is possible to drown someone with too much support. Sometimes it’s best giv
  
  <entry>
    <title>Options</title>
-   <link href="https://getpoole.com/jekyll/2020/04/03/options/"/>
+   <link href="http://localhost:4000/jekyll/2020/04/03/options/"/>
    <updated>2020-04-03T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jekyll/2020/04/03/options</id>
+   <id>http://localhost:4000/jekyll/2020/04/03/options</id>
    <content type="html">&lt;p&gt;With Poole as a baseline theme for Jekyll, there aren’t many options available out of the box. Basic light and dark mode support is included. Colors are also provided for your own customization, while other Poole themes build on this to create more unique looks.&lt;/p&gt;
 
 &lt;ul id=&quot;markdown-toc&quot;&gt;
@@ -844,9 +1863,9 @@ It is possible to drown someone with too much support. Sometimes it’s best giv
  
  <entry>
    <title>Example content</title>
-   <link href="https://getpoole.com/jekyll/2020/04/02/example-content/"/>
+   <link href="http://localhost:4000/jekyll/2020/04/02/example-content/"/>
    <updated>2020-04-02T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jekyll/2020/04/02/example-content</id>
+   <id>http://localhost:4000/jekyll/2020/04/02/example-content</id>
    <content type="html">&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -1027,10 +2046,23 @@ It is possible to drown someone with too much support. Sometimes it’s best giv
  </entry>
  
  <entry>
+   <title>COVID-19 and 1491</title>
+   <link href="http://localhost:4000/charles%20c.%20mann/covid-19/2020/04/01/covid-19-and-1491/"/>
+   <updated>2020-04-01T00:00:00-04:00</updated>
+   <id>http://localhost:4000/charles%20c.%20mann/covid-19/2020/04/01/covid-19-and-1491</id>
+   <content type="html">&lt;p&gt;This video is completely relevant to our predicament today. I hope it gives you as much insight and food for thought as it did for me.&lt;/p&gt;
+
+&lt;p&gt;If you found the video to be of use to you, check out Charles C. Mann’s books: 1491, and 1493.&lt;/p&gt;
+
+&lt;p&gt;Here’s the link: &lt;a href=&quot;https://youtu.be/nhncJH4UFQI&quot;&gt;https://youtu.be/nhncJH4UFQI&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>M.Ed Capstone Prospectus (Exploring whether teaching a class on servant leadership causes statistical changes in sample population)</title>
-   <link href="https://getpoole.com/wgu%20final%20projects/2020/03/21/m-ed-capstone-prospectus-exploring-whether-teaching-a-class-on-servant-leadership-causes-statistical-changes-in-sample-population/"/>
+   <link href="http://localhost:4000/wgu%20final%20projects/2020/03/21/m-ed-capstone-prospectus-exploring-whether-teaching-a-class-on-servant-leadership-causes-statistical-changes-in-sample-population/"/>
    <updated>2020-03-21T00:00:00-04:00</updated>
-   <id>https://getpoole.com/wgu%20final%20projects/2020/03/21/m-ed-capstone-prospectus-exploring-whether-teaching-a-class-on-servant-leadership-causes-statistical-changes-in-sample-population</id>
+   <id>http://localhost:4000/wgu%20final%20projects/2020/03/21/m-ed-capstone-prospectus-exploring-whether-teaching-a-class-on-servant-leadership-causes-statistical-changes-in-sample-population</id>
    <content type="html">&lt;p&gt;Research Prospectus&lt;br /&gt;
 Kon Ham&lt;br /&gt;
 29JUL19&lt;/p&gt;
@@ -1093,9 +2125,9 @@ Sokoll, S. (2014). Servant Leadership and Employee Commitment to a Supervisor. 
  
  <entry>
    <title>M.Ed Capstone IRB Request for Approval (Exploring whether teaching a class on servant leadership causes statistical changes in sample population)</title>
-   <link href="https://getpoole.com/wgu%20final%20projects/2020/03/21/m-ed-capstone-irb-request-for-approval-exploring-whether-teaching-a-class-on-servant-leadership-causes-statistical-changes-in-sample-population/"/>
+   <link href="http://localhost:4000/wgu%20final%20projects/2020/03/21/m-ed-capstone-irb-request-for-approval-exploring-whether-teaching-a-class-on-servant-leadership-causes-statistical-changes-in-sample-population/"/>
    <updated>2020-03-21T00:00:00-04:00</updated>
-   <id>https://getpoole.com/wgu%20final%20projects/2020/03/21/m-ed-capstone-irb-request-for-approval-exploring-whether-teaching-a-class-on-servant-leadership-causes-statistical-changes-in-sample-population</id>
+   <id>http://localhost:4000/wgu%20final%20projects/2020/03/21/m-ed-capstone-irb-request-for-approval-exploring-whether-teaching-a-class-on-servant-leadership-causes-statistical-changes-in-sample-population</id>
    <content type="html">&lt;p&gt;Western Governors University&lt;br /&gt;
 Institutional Review Board&lt;/p&gt;
 
@@ -1140,18 +2172,18 @@ Title of Your Research Proposal: Understanding the Effects of Teaching Servant L
  
  <entry>
    <title>JST2 Evaluation Process and Recommendation (Explanation of Research Analysis of the Robinson Curriculum/Saxon Math and Interpretation of Data)</title>
-   <link href="https://getpoole.com/wgu%20final%20projects/2020/03/21/jst2-evaluation-process-and-recommendation-explanation-of-research-analysis-of-the-robinson-curriculum-saxon-math-and-interpretation-of-data/"/>
+   <link href="http://localhost:4000/wgu%20final%20projects/2020/03/21/jst2-evaluation-process-and-recommendation-explanation-of-research-analysis-of-the-robinson-curriculum-saxon-math-and-interpretation-of-data/"/>
    <updated>2020-03-21T00:00:00-04:00</updated>
-   <id>https://getpoole.com/wgu%20final%20projects/2020/03/21/jst2-evaluation-process-and-recommendation-explanation-of-research-analysis-of-the-robinson-curriculum-saxon-math-and-interpretation-of-data</id>
+   <id>http://localhost:4000/wgu%20final%20projects/2020/03/21/jst2-evaluation-process-and-recommendation-explanation-of-research-analysis-of-the-robinson-curriculum-saxon-math-and-interpretation-of-data</id>
    <content type="html">&lt;p&gt;Powerpoint currently unavailable. Do you need it? Email me at &lt;a href=&quot;mailto:contact@konkham.com&quot;&gt;contact@konkham.com&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>JRT2 Evaluation Methodology and Instrumentation Task 2 (I consider the effectiveness of The Robinson Curriculum and Appropriateness to my given context)</title>
-   <link href="https://getpoole.com/wgu%20final%20projects/2020/03/21/jrt2-evaluation-methodology-and-instrumentation-task-2-i-consider-the-effectiveness-of-the-robinson-curriculum-and-appropriateness-to-my-given-context/"/>
+   <link href="http://localhost:4000/wgu%20final%20projects/2020/03/21/jrt2-evaluation-methodology-and-instrumentation-task-2-i-consider-the-effectiveness-of-the-robinson-curriculum-and-appropriateness-to-my-given-context/"/>
    <updated>2020-03-21T00:00:00-04:00</updated>
-   <id>https://getpoole.com/wgu%20final%20projects/2020/03/21/jrt2-evaluation-methodology-and-instrumentation-task-2-i-consider-the-effectiveness-of-the-robinson-curriculum-and-appropriateness-to-my-given-context</id>
+   <id>http://localhost:4000/wgu%20final%20projects/2020/03/21/jrt2-evaluation-methodology-and-instrumentation-task-2-i-consider-the-effectiveness-of-the-robinson-curriculum-and-appropriateness-to-my-given-context</id>
    <content type="html">&lt;p&gt;Task 2&lt;/p&gt;
 
 &lt;p&gt;JRT2&lt;/p&gt;
@@ -1196,9 +2228,9 @@ Child’s name X/20 X% Yes/No&lt;/p&gt;
  
  <entry>
    <title>JRT2 Evaluation Methodology and Instrumentation Task 1 (I evaluate my own lesson plan concerning electrical safety)</title>
-   <link href="https://getpoole.com/wgu%20final%20projects/2020/03/21/jrt2-evaluation-methodology-and-instrumentation-task-1-i-evaluate-my-own-lesson-plan-concerning-electrical-safety/"/>
+   <link href="http://localhost:4000/wgu%20final%20projects/2020/03/21/jrt2-evaluation-methodology-and-instrumentation-task-1-i-evaluate-my-own-lesson-plan-concerning-electrical-safety/"/>
    <updated>2020-03-21T00:00:00-04:00</updated>
-   <id>https://getpoole.com/wgu%20final%20projects/2020/03/21/jrt2-evaluation-methodology-and-instrumentation-task-1-i-evaluate-my-own-lesson-plan-concerning-electrical-safety</id>
+   <id>http://localhost:4000/wgu%20final%20projects/2020/03/21/jrt2-evaluation-methodology-and-instrumentation-task-1-i-evaluate-my-own-lesson-plan-concerning-electrical-safety</id>
    <content type="html">&lt;p&gt;Task 1&lt;/p&gt;
 
 &lt;p&gt;JRT2&lt;/p&gt;
@@ -1262,9 +2294,9 @@ Strongly Disagree (1) Disagree (2) Slightly Disagree (3) Slightly Agree (4) Stro
  
  <entry>
    <title>JQT2 Issues in Measurement and Evaluation (Justification of lesson plan proposal to teach formative and summative evaluation to teachers)</title>
-   <link href="https://getpoole.com/wgu%20final%20projects/2020/03/21/jqt2-issues-in-measurement-and-evaluation-justification-of-lesson-plan-proposal-to-teach-formative-and-summative-evaluation-to-teachers/"/>
+   <link href="http://localhost:4000/wgu%20final%20projects/2020/03/21/jqt2-issues-in-measurement-and-evaluation-justification-of-lesson-plan-proposal-to-teach-formative-and-summative-evaluation-to-teachers/"/>
    <updated>2020-03-21T00:00:00-04:00</updated>
-   <id>https://getpoole.com/wgu%20final%20projects/2020/03/21/jqt2-issues-in-measurement-and-evaluation-justification-of-lesson-plan-proposal-to-teach-formative-and-summative-evaluation-to-teachers</id>
+   <id>http://localhost:4000/wgu%20final%20projects/2020/03/21/jqt2-issues-in-measurement-and-evaluation-justification-of-lesson-plan-proposal-to-teach-formative-and-summative-evaluation-to-teachers</id>
    <content type="html">&lt;p&gt;JQT2 Task Assessment&lt;br /&gt;
 Kon Ham&lt;br /&gt;
 Student ID: #001160940&lt;br /&gt;
@@ -1309,9 +2341,9 @@ Dick, W., Carey, L., &amp;amp; Carey, J. O. (2009). The Systematic Design o
  
  <entry>
    <title>JPT2 Instructional Design Production (Lessonp plan with electrical safety)</title>
-   <link href="https://getpoole.com/wgu%20final%20projects/2020/03/21/jpt2-instructional-design-production-lesson-plan-with-electrical-safety/"/>
+   <link href="http://localhost:4000/wgu%20final%20projects/2020/03/21/jpt2-instructional-design-production-lesson-plan-with-electrical-safety/"/>
    <updated>2020-03-21T00:00:00-04:00</updated>
-   <id>https://getpoole.com/wgu%20final%20projects/2020/03/21/jpt2-instructional-design-production-lesson-plan-with-electrical-safety</id>
+   <id>http://localhost:4000/wgu%20final%20projects/2020/03/21/jpt2-instructional-design-production-lesson-plan-with-electrical-safety</id>
    <content type="html">&lt;p&gt;JPT2&lt;br /&gt;
 Kon Ham&lt;/p&gt;
 
@@ -1397,18 +2429,18 @@ Holt, C. M., &amp;amp; Mike Holt Enterprises, I. (2011). Mike Holt’s Illus
  
  <entry>
    <title>JOT2 Issues in Instructional Design (Learning theories expanded, Gagne, Teaching for Understanding, Design Theory, in the scope of an institutional problem within my organization)</title>
-   <link href="https://getpoole.com/wgu%20final%20projects/2020/03/21/jot2-issues-in-instructional-design-learning-theories-expanded-gagne-teaching-for-understanding-design-theory-in-the-scope-of-an-institutional-problem-within-my-organization/"/>
+   <link href="http://localhost:4000/wgu%20final%20projects/2020/03/21/jot2-issues-in-instructional-design-learning-theories-expanded-gagne-teaching-for-understanding-design-theory-in-the-scope-of-an-institutional-problem-within-my-organization/"/>
    <updated>2020-03-21T00:00:00-04:00</updated>
-   <id>https://getpoole.com/wgu%20final%20projects/2020/03/21/jot2-issues-in-instructional-design-learning-theories-expanded-gagne-teaching-for-understanding-design-theory-in-the-scope-of-an-institutional-problem-within-my-organization</id>
+   <id>http://localhost:4000/wgu%20final%20projects/2020/03/21/jot2-issues-in-instructional-design-learning-theories-expanded-gagne-teaching-for-understanding-design-theory-in-the-scope-of-an-institutional-problem-within-my-organization</id>
    <content type="html">&lt;p&gt;Powerpoint currently unavailable. Do you need it? Email me at &lt;a href=&quot;mailto:contact@konkham.com&quot;&gt;contact@konkham.com&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>JOT2 Issues in Instructional Design (Learning environment analysis)</title>
-   <link href="https://getpoole.com/wgu%20final%20projects/2020/03/21/jot2-issues-in-instructional-design-learning-environment-analysis/"/>
+   <link href="http://localhost:4000/wgu%20final%20projects/2020/03/21/jot2-issues-in-instructional-design-learning-environment-analysis/"/>
    <updated>2020-03-21T00:00:00-04:00</updated>
-   <id>https://getpoole.com/wgu%20final%20projects/2020/03/21/jot2-issues-in-instructional-design-learning-environment-analysis</id>
+   <id>http://localhost:4000/wgu%20final%20projects/2020/03/21/jot2-issues-in-instructional-design-learning-environment-analysis</id>
    <content type="html">&lt;p&gt;JOT2 Task 1&lt;br /&gt;
 Kon Ham&lt;br /&gt;
 Student ID: #001160940&lt;br /&gt;
@@ -1440,9 +2472,9 @@ The target population will learn basic electrical theory and safety procedures i
  
  <entry>
    <title>JNT2 Instructional Design Analysis (Institutional issue of electrical safety within my organization, including quiz and survey)</title>
-   <link href="https://getpoole.com/wgu%20final%20projects/2020/03/21/jnt2-instructional-design-analysis-institutional-issue-of-electrical-safety-within-my-organization/"/>
+   <link href="http://localhost:4000/wgu%20final%20projects/2020/03/21/jnt2-instructional-design-analysis-institutional-issue-of-electrical-safety-within-my-organization/"/>
    <updated>2020-03-21T00:00:00-04:00</updated>
-   <id>https://getpoole.com/wgu%20final%20projects/2020/03/21/jnt2-instructional-design-analysis-institutional-issue-of-electrical-safety-within-my-organization</id>
+   <id>http://localhost:4000/wgu%20final%20projects/2020/03/21/jnt2-instructional-design-analysis-institutional-issue-of-electrical-safety-within-my-organization</id>
    <content type="html">&lt;p&gt;Kon Ham&lt;br /&gt;
 Student ID: #001160940&lt;br /&gt;
 Program Mentor: Ginny Huckaba&lt;br /&gt;
@@ -1544,9 +2576,9 @@ If you are ready to answer, may we begin?&lt;br /&gt;
  
  <entry>
    <title>C226 Research Design and Analysis Task 1 (Creation of data collection tool to determine relationship of parental involvement and childhood success; Likert Scale)</title>
-   <link href="https://getpoole.com/wgu%20final%20projects/2020/03/21/c226-research-design-and-analysis-task-1-creation-of-data-collection-tool-to-determine-relationship-of-parental-involvement-and-childhood-success-likert-scale/"/>
+   <link href="http://localhost:4000/wgu%20final%20projects/2020/03/21/c226-research-design-and-analysis-task-1-creation-of-data-collection-tool-to-determine-relationship-of-parental-involvement-and-childhood-success-likert-scale/"/>
    <updated>2020-03-21T00:00:00-04:00</updated>
-   <id>https://getpoole.com/wgu%20final%20projects/2020/03/21/c226-research-design-and-analysis-task-1-creation-of-data-collection-tool-to-determine-relationship-of-parental-involvement-and-childhood-success-likert-scale</id>
+   <id>http://localhost:4000/wgu%20final%20projects/2020/03/21/c226-research-design-and-analysis-task-1-creation-of-data-collection-tool-to-determine-relationship-of-parental-involvement-and-childhood-success-likert-scale</id>
    <content type="html">&lt;p&gt;BFP2: Task 1&lt;br /&gt;
 Kon Ham&lt;br /&gt;
 July 2, 2019&lt;/p&gt;
@@ -1617,9 +2649,9 @@ Strongly Disagree Disagree Neutral Agree Strongly Agree&lt;/p&gt;
  
  <entry>
    <title>C226 Research and Design Analysis (Analysis of study of microteaching and anxiety)</title>
-   <link href="https://getpoole.com/wgu%20final%20projects/2020/03/21/c226-research-and-design-analysis-analysis-of-study-of-microteaching-and-anxiety/"/>
+   <link href="http://localhost:4000/wgu%20final%20projects/2020/03/21/c226-research-and-design-analysis-analysis-of-study-of-microteaching-and-anxiety/"/>
    <updated>2020-03-21T00:00:00-04:00</updated>
-   <id>https://getpoole.com/wgu%20final%20projects/2020/03/21/c226-research-and-design-analysis-analysis-of-study-of-microteaching-and-anxiety</id>
+   <id>http://localhost:4000/wgu%20final%20projects/2020/03/21/c226-research-and-design-analysis-analysis-of-study-of-microteaching-and-anxiety</id>
    <content type="html">&lt;p&gt;BFP2: Task 2&lt;br /&gt;
 Kon Ham&lt;br /&gt;
 06JUL19&lt;/p&gt;
@@ -1656,9 +2688,9 @@ Peker, N. (2009). The use of expanded microteaching for reducing pre-service te
  
  <entry>
    <title>C225 Research Fundamentals Task 2 (Research proposal and literature review)</title>
-   <link href="https://getpoole.com/wgu%20final%20projects/2020/03/21/c225-research-fundamentals-task-2-research-proposal-and-literature-review/"/>
+   <link href="http://localhost:4000/wgu%20final%20projects/2020/03/21/c225-research-fundamentals-task-2-research-proposal-and-literature-review/"/>
    <updated>2020-03-21T00:00:00-04:00</updated>
-   <id>https://getpoole.com/wgu%20final%20projects/2020/03/21/c225-research-fundamentals-task-2-research-proposal-and-literature-review</id>
+   <id>http://localhost:4000/wgu%20final%20projects/2020/03/21/c225-research-fundamentals-task-2-research-proposal-and-literature-review</id>
    <content type="html">&lt;p&gt;BEP2: Task 2&lt;/p&gt;
 
 &lt;p&gt;Kon Ham&lt;br /&gt;
@@ -1711,9 +2743,9 @@ Webb, M. L., &amp;amp; Lederberg, A. R. (2012). Measuring Phonological Aware
  
  <entry>
    <title>C225 Research Fundamentals Task 1 (Exploring research methods and search terms in relation to phonological awareness and DHH children)</title>
-   <link href="https://getpoole.com/wgu%20final%20projects/2020/03/21/c225-research-fundamentals-task-1-exploring-research-methods-and-search-terms-in-relation-to-phonological-awareness-and-dhh-children/"/>
+   <link href="http://localhost:4000/wgu%20final%20projects/2020/03/21/c225-research-fundamentals-task-1-exploring-research-methods-and-search-terms-in-relation-to-phonological-awareness-and-dhh-children/"/>
    <updated>2020-03-21T00:00:00-04:00</updated>
-   <id>https://getpoole.com/wgu%20final%20projects/2020/03/21/c225-research-fundamentals-task-1-exploring-research-methods-and-search-terms-in-relation-to-phonological-awareness-and-dhh-children</id>
+   <id>http://localhost:4000/wgu%20final%20projects/2020/03/21/c225-research-fundamentals-task-1-exploring-research-methods-and-search-terms-in-relation-to-phonological-awareness-and-dhh-children</id>
    <content type="html">&lt;p&gt;BEP2: Task 1&lt;/p&gt;
 
 &lt;p&gt;Kon Ham&lt;br /&gt;
@@ -1773,9 +2805,9 @@ The benefit to this is that I am able to search for numerous articles of quality
  
  <entry>
    <title>C200 Managing Organizations and Leading People Task 2 (Analysis of hypothetical organization and my direct supervisor)</title>
-   <link href="https://getpoole.com/wgu%20final%20projects/2020/03/21/c200-managing-organizations-and-leading-people-task-2-analysis-of-hypothetical-organization-and-my-direct-supervisor/"/>
+   <link href="http://localhost:4000/wgu%20final%20projects/2020/03/21/c200-managing-organizations-and-leading-people-task-2-analysis-of-hypothetical-organization-and-my-direct-supervisor/"/>
    <updated>2020-03-21T00:00:00-04:00</updated>
-   <id>https://getpoole.com/wgu%20final%20projects/2020/03/21/c200-managing-organizations-and-leading-people-task-2-analysis-of-hypothetical-organization-and-my-direct-supervisor</id>
+   <id>http://localhost:4000/wgu%20final%20projects/2020/03/21/c200-managing-organizations-and-leading-people-task-2-analysis-of-hypothetical-organization-and-my-direct-supervisor</id>
    <content type="html">&lt;p&gt;Organization Description&lt;/p&gt;
 
 &lt;p&gt;The name of this organization is the Saving Service. This organization was created in 1700, but the modern form of the organization was created in 1910. Prior to 1910, the Saving Service was multiple agencies. One agency was designed to collect revenues by means of customs duties through naval routes, and another was designed to save shipwrecked sailors and passengers. Because the Saving Service predated the Anglican Navy by eight years, the pre-modern Saving Service was involved in a multitude of duties, from carrying mail to combating piracy. By the time of its modern inception in 1910, the Saving Service became one of the six military services of the Anglican States. This organization has been involved in every war of the Anglican States from 1700 to the current War in Zimbabweland. It currently employs around 55,000 employees and resides under the Anglican State of Household Security.&lt;/p&gt;
@@ -1850,9 +2882,9 @@ Sendjaya, S., Eva, N., Butar Butar, I., Robin, M., &amp;amp; Castles, S. (2017).
  
  <entry>
    <title>C200 Managing Organizations and Leading People Task 1 (My clifton strengths analysis and utilization of hypothetical SMART goals)</title>
-   <link href="https://getpoole.com/wgu%20final%20projects/2020/03/21/c200-managing-organizations-and-leading-people-task-1-my-clifton-strengths-analysis-and-utilization-of-hypothetical-smart-goals/"/>
+   <link href="http://localhost:4000/wgu%20final%20projects/2020/03/21/c200-managing-organizations-and-leading-people-task-1-my-clifton-strengths-analysis-and-utilization-of-hypothetical-smart-goals/"/>
    <updated>2020-03-21T00:00:00-04:00</updated>
-   <id>https://getpoole.com/wgu%20final%20projects/2020/03/21/c200-managing-organizations-and-leading-people-task-1-my-clifton-strengths-analysis-and-utilization-of-hypothetical-smart-goals</id>
+   <id>http://localhost:4000/wgu%20final%20projects/2020/03/21/c200-managing-organizations-and-leading-people-task-1-my-clifton-strengths-analysis-and-utilization-of-hypothetical-smart-goals</id>
    <content type="html">&lt;p&gt;Clifton Categorical Strengths&lt;br /&gt;
 Context is the strength that indicates that I am interested in looking into the past to discover the solutions to the problems that are in the present. This strength drives me to build a framework of understanding in order to navigate through the present demands of the world. This is a strength that compels me to look to experts to find solutions. The Context strength can be maximized with a person that is future oriented. I may be able to utilize past cultural objects to imbue towards my followers to help them to be energized in current projects. A negative of this strength would be that I may be too rigid concerning change.&lt;br /&gt;
 The Learner strength indicates that I am inclined to soaking up information and learning new skills because I find learning and discovering new facts as pleasurable. This strength drives me to improve on my own current skills because I feel challenged to address my own shortcomings. When addressing people, learning why a person may be motivated to act a certain way is how I gain satisfaction, giving me a well of information, facts, and data from which I add to my mental library.&lt;br /&gt;
@@ -1889,9 +2921,9 @@ Szu-han, L., Brent, S. A., &amp;amp; Fadel, M. K. (2019). The Dark Side of Trans
  
  <entry>
    <title>PSY476 Counseling Final Project (On Harry Potter)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/psy476-counseling-final-project-on-harry-potter/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/psy476-counseling-final-project-on-harry-potter/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/psy476-counseling-final-project-on-harry-potter</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/psy476-counseling-final-project-on-harry-potter</id>
    <content type="html">&lt;p&gt;Kon Ham&lt;br /&gt;
 PSY476&lt;/p&gt;
 
@@ -1946,9 +2978,9 @@ Watts, R. E., &amp;amp; Pietrzak, D. (2000). Adlerian “Encouragement” and
  
  <entry>
    <title>PSY422 Psychology of the Family Final Project (A primer on love and family for teens)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/psy422-psychology-of-the-family-final-project/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/psy422-psychology-of-the-family-final-project/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/psy422-psychology-of-the-family-final-project</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/psy422-psychology-of-the-family-final-project</id>
    <content type="html">&lt;p&gt;Family Skills Training&lt;br /&gt;
 I will be presenting this information to high school students. From here onwards I will be writing as if I am speaking or presenting this information to high school students, so there will be a liberal use of “you” with the assumption that “you” are, a high school student. Therefore, if the information presented appears to be casual or informal, it is reminded to the reader that such casual use is the intended effect to cater to a high school audience that may have a difficult time with captured attention for prolonged series of time. It is with that intention that the author intends to write a little more casually, and a little less academically in terms of conveyance of language.&lt;br /&gt;
 Romantic Relationships&lt;br /&gt;
@@ -1992,9 +3024,9 @@ Finally, I recommend a time management class to be taken by families. This time 
  
  <entry>
    <title>PSY421 Social Psychology Final Project (On Toy Story and Social Groups)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/psy421-social-psychology/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/psy421-social-psychology/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/psy421-social-psychology</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/psy421-social-psychology</id>
    <content type="html">&lt;p&gt;Scenes That Accurately Represent Social Psychology I&lt;br /&gt;
 Andy is the owner of the many toys that appear to “live” in Andy’s room. Many of them appear to enjoy their roles as toys. And there is obviously a sense or understanding of inevitable favoritism by Andy. For Andy, Woody was Andy’s favorite toy for some time. Generally, there is not much in the room of anxiety or conflict until Andy’s birthday party arrives, in which the toys greatly fear that they will be replaced by a new toy. Woody tries to calm the toys but the toys still relent with anxiety. Mr. Potato Head goes so far as to say “Of course Woody ain’t worried! He’s been Andy’s favorite since kindergarten!” It also appears to be that the toys view Woody as the toy that leads and directs, mostly exhibited by the ability of Woody to gain the compliance of the toy soldiers. The toys in their anxiety send out the soldier toys in order to spy on the events that transpire during the party that they might be able to see what arrives in the presents that the party attendees gift to Andy. The gifts received are irrelevant to the toys in that the gifts are toys that do not seem to exhibit any ability to be autonomous, i.e., a lunch box and a Battle Ships board game. Finally, when all looks clear for the toys, Andy’s mother pulls out a surprise gift, which is a new toy.&lt;br /&gt;
 The toys that collectively call themselves “Andy’s toys” are what social psychology calls a group. A group is “an aggregate of individuals who interact with and influence one another.” (Bordens, Bordens, &amp;amp; Horowitz, 2014) Specifically, Bordens and Horowitz use the example of a bus stop and the number of people that wait at that bus stop. These people are not a group because they are not “truly influencing each other” (Bordens, Bordens, &amp;amp; Horowitz, 2014) and they only interact with each other “on a basic level”. (Bordens, Bordens, &amp;amp; Horowitz, 2014) Andy’s toys appear to spend a great deal of time together. In fact, these toys individually refer to themselves as Andy’s toys. These toys appear to play together when Andy is not around – Woody is asked to play checkers by Slinky and Buzz Lightyear brushes the hair of the pink troll. The amount of influence they have on each other is conveyed with Woody announces to the other toys that Andy’s birthday party had been moved to today. The toys collectively influence each other in that they all begin an outbreak of anxiety and fear that they will be replaced by a newer toy. Social psychology refers to two types of groups. One is an instrumental group and another is an affiliate group. I propose that both groups have relevancy in Toy Story concerning Andy’s toys. An instrumental group is referred to as groups that exist to “perform some task or reach some specific goal.” (Bordens, Bordens, &amp;amp; Horowitz, 2014) With the exception of Buzz Lightyear, the toys have an understanding that they are indeed toys and that they serve Andy as his toys. An affiliate group is known as a group that exists on a more general level and often for social means. (Bordens, Bordens, &amp;amp; Horowitz, 2014) Though the toys had no choice in the matter of becoming Andy’s toy, they take joy in this and also socialize with each other whenever Andy is not at home.&lt;br /&gt;
@@ -2027,9 +3059,9 @@ Bordens, K. S., Bordens, K. S., &amp;amp; Horowitz, I. A. (2014). Social 
  
  <entry>
    <title>PSY411 Abnormal Psychology Final Project (Hypothetical observation of 12-year-old, anxiety, and CBT)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/psy411-abnormal-psychology-final-project/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/psy411-abnormal-psychology-final-project/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/psy411-abnormal-psychology-final-project</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/psy411-abnormal-psychology-final-project</id>
    <content type="html">&lt;p&gt;A&lt;br /&gt;
 For the diagnosis of an anxiety disorder, the following symptoms of the 12-year-old patient were noticed. First, she displays fidgeting, chews her hair, and does not like to be in new situations. Possibly the dislike of being in new situations brings about the fidgeting and the chewing of the hair. But the case study does not clarify. She appears to have a difficult time staying seated in class. She says that it is not comfortable, though the case study does not clarify if she meant that the chair was uncomfortable in the potential context of an anxiety disorder. Her condition relating to sitting in the chair apparently gets worse on test days with the claim that she is not feeling well. Her report that she has no friends could be a result of having a form of social anxiety. Her family history displays anxiety disorders on the mother’s side of the family, with both the mother and grandmother coping with panic attacks. The patient’s father is in the Navy and is gone for long periods. The patient appears to demonstrate some form of separation anxiety when her father leaves.&lt;br /&gt;
 B&lt;br /&gt;
@@ -2058,9 +3090,9 @@ Wehry, A. M., Beesdo-Baum, K., Hennelly, M. M., Connolly, S. D., &amp;amp
  
  <entry>
    <title>PSY403 Human Sexuality Final Project (On Tumblr's ban on pornography)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/psy403-human-sexuality-final-project/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/psy403-human-sexuality-final-project/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/psy403-human-sexuality-final-project</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/psy403-human-sexuality-final-project</id>
    <content type="html">&lt;p&gt;Kon Ham&lt;br /&gt;
 PSY403&lt;br /&gt;
 Find an Article Related to the Topic&lt;br /&gt;
@@ -2096,9 +3128,9 @@ Powell, J. (2018, December 7). Opinion | The Problem With Banning Pornography on
  
  <entry>
    <title>PSY389 Cross-Cultural Psychology (On Observations of my own life compared to a colleague's)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/psy389-cross-cultural-psychology/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/psy389-cross-cultural-psychology/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/psy389-cross-cultural-psychology</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/psy389-cross-cultural-psychology</id>
    <content type="html">&lt;p&gt;Introduction&lt;br /&gt;
 Culture is the mechanism by which we view the world. “As culture is a meaning and information system, it is basically an abstraction that we use to refer to many aspects of our ways of living.” (Matsumoto &amp;amp; Juang, 2017) In this abstraction, or, culture, people hold views based on “values, beliefs, norms, attitudes, and worldviews.” (Matsumoto &amp;amp; Juang, 2017) Put two people together with the intent of having a discussion of an object or topic and you will find that they may likely differ. In this essay I collect the thoughts and values of myself and a counterpart I’ve randomly selected. In this case this is my coworker that I happen to be able to interview for the day. This essay will attempt to draw cultural distinctions between myself and him and to also find similarities between the two cultures in order to more fully understand the depth that culture plays on our understanding of the world.&lt;br /&gt;
 I am a 29-year-old Christian Korean-American. I was born in South Korea, Seoul. After about two years of age, my family immigrated to the United States, first touching down to New York City and then moving to St. Louis, Missouri, where I stayed and grew up until the age of 9 or 10. After I completed the fourth grade, my parents moved down to Augusta, Georgia for a year because of my father’s failed attempt at running a Chinese restaurant in St. Louis. We had moved down to Augusta because of some family members on my paternal family’s side was already living there. We only stayed a year because of some issues arising with my mom and my dad’s sisters. We then moved to Charlotte, North Carolina where I spent the majority of my teen and young adult life. At 26 I joined the United States Coast Guard. Finally, I was stationed in Galveston, Texas where I now reside. My parents are still together. I have a younger sister who is 8 years younger than me. My parents were authoritative.&lt;br /&gt;
@@ -2132,9 +3164,9 @@ Willima, S. I. (1999). Doing Business in the Deep South: A Guide for Internation
  
  <entry>
    <title>PSY375 Biological Basis of Behavior Final Project (On schizophrenia)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/psy375-biological-basis-of-behavior/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/psy375-biological-basis-of-behavior/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/psy375-biological-basis-of-behavior</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/psy375-biological-basis-of-behavior</id>
    <content type="html">&lt;p&gt;Schizophrenia is a mental illness that affects over 51 million people worldwide. (Getz, 2014) Many of those affected with schizophrenia have auditory hallucinations, paranoia, significant social dysfunction, and cognitive decline. (Getz, 2014) There is no cure for this mental illness. Furthermore, this mental illness seems to be genetic in its causes, with one’s chance of being 1% in the general population compared to 10% if you’ve had a first-degree relative that’s also had schizophrenia. (Psychology Today, 2018) Although its exact causes are unknown, researchers now know that the neurotransmitters, specifically the ones associated with the dopamine and glutamate receptors, are correlated with those that have schizophrenia. (Psychology Today, 2018) Medication through the use of anti-psychotics is a common treatment for those with schizophrenia. Although the treatment of schizophrenia through the use of anti-psychotics does not cure schizophrenia, much of the positive symptoms of the illness, like the reduction of psychotic episodes, can be reduced drastically. However, this is not case with all that have schizophrenia, as some do not experience a reduction in the psychotic episodes. (Psychology Today, 2018) Schizophrenia is a serious disorder and affects many people worldwide. Therefore, it is the central topic for this discussion in order to more fully understand schizophrenia in terms of diagnosis, symptoms, causes, and treatment.&lt;br /&gt;
 Part I&lt;br /&gt;
 There are two types of symptoms of schizophrenia: positive and negative. The positive symptoms are probably the best well known to the public and includes hallucinations, delusions, and paranoia. (Getz, 2014) Although these positive symptoms may appear to be the same in nature, they are in fact very different. Hallucination refers to the distortion or inaccuracy of sensory experiences. (Getz, 2014) This distortion or inaccuracy of the sensory experience is what causes someone experiencing them to believe the hallucinations to be true. Although one could experience these hallucinations in any kind of manner, auditory appears to be the most common distortion. (Getz, 2014) Delusions are “the fixed false beliefs that are resistant to reason or actual fact.” (Getz, 2014) This can be through feelings of grandeur, feelings of being persecuted, and erotomania, or excessive sexual desire. (Getz, 2014) Paranoia is the feeling that someone is out to get oneself. (Getz, 2014) This manifests in strange behavior that results in engaging in behavior to avoid being caught. (Getz, 2014) And although these symptoms seem the strangest of the schizophrenia mental illness, they are usually most easily treated through the use of anti-psychotics. (Getz, 2014) Negative symptoms of schizophrenia can be: “anhedonia, flat effect, thought poverty, and social withdrawal.” (Getz, 2014) Anhedonia is the inability to feel pleasure. The flat effect has to do with the persons having no expression as they speak, or lack of facial movement, and a monotonous voice. (Getz, 2014) Thought poverty has to do with the reduction in the quantity of thoughts with those affected with schizophrenia. Social withdrawal may occur as a result of the mixture the symptoms of the symptoms of schizophrenia that one experiences as well as the inability of those that don’t have schizophrenia to understand in an empathetic manner how it is when one experiences auditory hallucinations or feelings of paranoia.&lt;br /&gt;
@@ -2163,9 +3195,9 @@ Psychology Today. (2018, November 6). Schizophrenia | Psychology Today. Retrieve
  
  <entry>
    <title>PSY355 Child Growth and Development Final Project (Vygotsky vs. Piaget)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/psy355-child-growth-and-development-final-project/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/psy355-child-growth-and-development-final-project/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/psy355-child-growth-and-development-final-project</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/psy355-child-growth-and-development-final-project</id>
    <content type="html">&lt;p&gt;“Developmental psychology is a scientific approach which aims to explain growth, change, and consistency through the lifespan. Developmental psychology looks at how thinking, feeling, and behavior change throughout a person’s life.” (Mcleod, 2012) This theory of developmental psychology mostly builds on theories related to a person’s childhood, as “this is the period during an individual’s lifespan when the most change occurs.” (Mcleod, 2012) The theories developed by researchers like Vygotsky, Piaget, and many others point to the fundamental purpose of the theories of developmental psychology – that is, the relationship of people and environment and that “humans seek meaningful interactions with the environment and construct knowledge of themselves and the world around them through these interactions.” (Lutz &amp;amp; Huitt, 2004) And since mentioned previously that the majority of theories of developmental psychology focus on the importance of childhood and the many changes that occur during this period, (Mcleod, 2012) it is important to understand another factor related to developmental psychology – that children grow up to be adults that function in a society and sharing that society with other human beings.&lt;br /&gt;
 In any and every society a variety of influences affect a human being in his or her outlook of the world, not to mention an exponential amount of influences related to genetics and biology that also affect a human being’s development. According to developmental psychology, this is known as the environment, or nature. And so developmental psychology seeks to explain how much of an impact environment, or nature, has in the role of the development of a human being. Perhaps human beings teach and raise children because of an innate need to express a lineage and a form of continuity of thought. Developmental psychology also seeks to explain how much of an impact human beings have upon others. Because there is a wide margin of differences between human beings and at the same time a form of consistency in the development of human beings, developmental psychology arose as a need to explain the impact of these factors and its relationships with human beings.&lt;br /&gt;
 Specifically, this exposition of developmental psychology will too follow in the focus of the broader perspective and theories of developmental psychology – it will focus on childhood and the development thereof, and specifically two theories which explain the development of childhood between the first two years of life, the years of life between two and six, and the analyzing of the effects of cognitive, language, and social development of a child with the explanation of the two theories. Those two theories are the theories proposed by Vygotsky and Piaget.&lt;br /&gt;
@@ -2192,9 +3224,9 @@ Psychology Notes HQ. (2018, May 2). Vygotsky’s Sociocultural Theory of Cogniti
  
  <entry>
    <title>PSY322 Personality Theories Final Project (On Mother Theresa)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/psy322-personality-theories-final-project/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/psy322-personality-theories-final-project/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/psy322-personality-theories-final-project</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/psy322-personality-theories-final-project</id>
    <content type="html">&lt;p&gt;“My child, never eat a single mouthful unless you are sharing it with others”, said Dranafile Bojaxhiu to her daughter, Agnes Gonxha Bojaxhiu. (Biography.com Editors, 2018) What Dranafile said to Agnes must have left an impact on her because later Agnes Gonxha Bojaxhiu legacy would be that her order “included hundreds of centers in more than 90 countries with some 4,000 nuns and hundreds of thousands of lay workers.” (The Editors of Encyclopaedia Britannica, 2018) Not only that, she grew to receive “…the Padma Shri, one of India’s highest civilian honors”, (The Editors of Encyclopaedia Britannica, 2018) being gifted Pope Paul VI’s ceremonial limousine and raffling it to finance her leper colony, (The Editors of Encyclopaedia Britannica, 2018), and being awarded the Nobel Peace Prize twice. (The Editors of Encyclopaedia Britannica, 2018) This is the story of Mother Theresa. Here I will describe Mother Theresa’s life through the use of three personality theories and the foundational elements in Mother Theresa’s life that would have steered her personality one way or another. The personality theories I will use will be the humanistic approach and the social learning approach. The four influences I will use to describe the development of Mother Theresa’s life will be as follows: the death of her father at age 9 and the subsequent influence her mother had on her life, the spiritual calling of her life at 12, becoming a nun at 18, and at 19 moving to India and the subsequent calling she received to go to Calcutta to reach to the poorest of the poor. Mother Theresa was born in Skopje, Macedonia on August 27, 1910. (“Mother Teresa Biography”, 2018)) She was born in the last breaths of the Ottoman Empire, which controlled Macedonia at the time. (“Mother Teresa Biography”, 2018)) Her mother and father were grocers. Her family was deeply religious (Biography.com Editors, 2018) and her father was “deeply involved” in both the local church as well as a vocal proponent of Albanian independence (Biography.com Editors, 2018), which was the source of Mother Theresa’s ethnicity. Her father had passed when Mother Theresa was the age of 9. While the source of Mother Theresa’s father’s death was not known, it was sudden and speculated at her father’s political enemies may have poisoned him. (Biography.com Editors, 2018)&lt;/p&gt;
 
 &lt;p&gt;Mother Theresa’s own mother also had a huge influence upon her life. (Biography.com Editors, 2018) Her mother, Drana was known as a pious and compassionate woman. It was Drana who told then Agnes, “My child, my child, never eat a single mouthful unless you are sharing it with others” when Agnes asked who these strangers were in their house after Drana had invited the “destitute” (Biography.com Editors, 2018) of the city to dine with the family. Continuing, Drana said “Some of them are our relations, but all of them are our people.” Agnes also attended a convent-run primary school (Biography.com Editors, 2018) which along with Drana and Nikola, Agnes’ father, which may have set her on the path to a career in the spiritual realm. At 12 she received a calling into ministry. Specifically, her congregation made an annual trip to the Church of the Black Madonna, in Letnice. On one such trip she received her calling. At age 18, she left for Dublin, Ireland and she took the name Sister Mary Theresa.&lt;br /&gt;
@@ -2222,9 +3254,9 @@ Mother Teresa Biography. (2018). Retrieved from http://www.notablebiographies.co
  
  <entry>
    <title>PSY321 Statistics for Behavioral Sciences (Relationship on social media vs. GPA)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/psy321-statistics-for-behavioral-sciences/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/psy321-statistics-for-behavioral-sciences/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/psy321-statistics-for-behavioral-sciences</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/psy321-statistics-for-behavioral-sciences</id>
    <content type="html">&lt;p&gt;Introduction&lt;br /&gt;
 Hypothesis 1: Students that have lower GPAs (Less than 3.0) tend to spend more than 10 hours a week on social media.&lt;br /&gt;
 Hypothesis 2: Students that say that they use social media during class tend to have GPAs lower than a 3.0.&lt;br /&gt;
@@ -2257,9 +3289,9 @@ Easy Histogram Maker. (2018). Retrieved from http://www.socscistatistics.com/des
  
  <entry>
    <title>PSY312 Lifespan Development Final Project (Observation of myself in the light of life span developmental theory)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/psy312-lifespan-development/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/psy312-lifespan-development/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/psy312-lifespan-development</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/psy312-lifespan-development</id>
    <content type="html">&lt;p&gt;Bronfenfenner’s theory is based upon an idea of ecological theory. Ecological theory is the idea that “human development is inseparable from the environmental contexts in which a person develops.” In essence, this idea is that human beings develop in a complex set of networks. These networks are comprised of varying levels of intimacy – from as intimate as a child’s parents or siblings to as distant as an ethnic group of peoples that share values and outlooks. These networks are all correlated and in the ecological theory the idea is that there is a hierarchy of influence between the lower or upper, or intimate to un-intimate relationships. These hierarchies or varying levels of intimacy, or as ecological theorists call levels of influence, are all interconnected in complex ways. In order to understand this concept, I have considered an example for the reader. Consider a rainbow. How many colors are in a rainbow? Seven? I propose to the reader to consider at what point does red become orange? At what point does the gradient between yellow become green? I believe this demonstrates in a crude sort of way the complexities between the levels of influence in ecological theory. The established levels of ecological theory according to Bronfenfenner or any other ecological theorist is established for the sake of categorizing established levels so that there can be a form of a basis of measurement for the reader and myself to understand.&lt;br /&gt;
 This basis should help us to understand the complexities involved in the variety of influences in the development of the lives of human beings. Bronfenfenner has established four levels of influence according to his perspective of ecological theory. They are as follows: microsystems, mesosystems, exosystems, and macrosystems. The microsystem “consists of people and objects in an individual’s immediate environment.” This level strongly influrnces development. Consider the parents or siblings. (Kail, 2014) The mesosystem “provides connections across microsystems because what happens in a microsystem is likely to influence others.” (Kail, 2014) Kail uses the example of the interconnections between work life responsibilities and home life responsibilities. (Kail, 2014) It is easy to imagine that sometimes a stressful day at work can carry over into your home life when you come home and you still feel the pressures of managing your work life while you are at home. The Exosystem “refers to the social settings that a person may not experience firsthand but that still influence development.” (Kail, 2014) Kail uses the example of government policies influencing an individual’s life, and he uses the example of a participant using welfare. (Kail, 2014) Also consider too if there were to be a war that breaks out somewhere in another country and because the government feels the need is great for more people to serve in this war, it could mandate a draft which would, if the individual were a male, change that person’s life very quickly, though he has no real personal interactions with this government like he would have potentially had with his parents or siblings. Finally, the macrosystem. “The broadest environmental context is the macrosystem, the cultures and subcultures in which the microsystem, mesosystem, and exosystem are embedded.” (Kail, 2014) Consider the outlook on life that an ethnic group collectively share. Expressions of bereavement are different amongst the different cultures as well as ideas and roles of filial relations or of gender roles.&lt;br /&gt;
 According to ecological theory, these relationships are all interconnected in almost infinite amount of combinations depending upon the individual. It is probably not possible to list all of them and how they all influence a person’s individual development, however it is possible to gain a general idea of a person’s development through the use of categorization in which different levels of development can be “split” or attributed into sections. In Bronfenfenner’s case, it is four levels, splits, or categories of attributes. Perhaps now it is easier for the reader to see the levels of from friends, family, and siblings to as far reaching as culture and religious outlooks from a civilizational perspective.&lt;br /&gt;
@@ -2292,9 +3324,9 @@ McLeod, S. A. (2013). Erikson’s Psychosocial Stages of Development. Retrieve
  
  <entry>
    <title>PSY311 Experimental Psychology Final Project (The validity of online learning amidst coronavirus shutdown, or how we yold you so)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/psy311-experimental-psychology-final-project/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/psy311-experimental-psychology-final-project/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/psy311-experimental-psychology-final-project</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/psy311-experimental-psychology-final-project</id>
    <content type="html">&lt;p&gt;The Future Need for Online Learning&lt;br /&gt;
 As the global population around the world continues to swell, the need for nontraditional methods of learning will also grow in demand. Our university currently does not offer online courses. The reported satisfaction of online learning is high and positively correlated with convenience and the perception of value of service. (Sanford, et al. 2017) Students with nontraditional learning backgrounds will need a university that provides for them this service. Our university can satisfy the needs of these students with an online service that provides for such students while at the same time fulfilling faculty and staff satisfaction knowing that a high quality service is being provided to students who appreciate the convenience of learning outside of the classroom.&lt;br /&gt;
 Introduction to Study Proposal of Satisfaction of Students Who Already Take Courses Online&lt;br /&gt;
@@ -2335,9 +3367,9 @@ Simmons, J. A. (2006). An investigation into the role of learning styles in stud
  
  <entry>
    <title>PSY302 Learning Theory Final Project (Hypothetical case Study of immigrant employees and business organizations utilizing social learning)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/psy302-learning-theory/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/psy302-learning-theory/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/psy302-learning-theory</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/psy302-learning-theory</id>
    <content type="html">&lt;p&gt;This study seeks to find the relationship between social learning and self-efficacy upon individuals and its impact upon professional growth of the individuals. Using social learning and self-efficacy concepts proposed by Albert Bandura, the study done by Svenja Tams suggests a few things: First, “People’s ability to engage in self-directed learning has become increasingly important in contemporary organizational settings.” (Tams, 2008) According to Tams, this increased importance of self-directed learning occurs as a result of the “broadening” of work relationships and responsibilities. (Tams, 2008). Second, the implications for a manager are this: Experiential learning can be prohibitive in that it is sometimes “not feasible, or cumbersome and lengthy”. (Tams, 2008) That is, trial and error learning. Social learning however, involves the use of mentorships, role models, and social group interventions. (Tams, 2008) However, social learning is not the final answer for organizational management. According to Tams, self-directed social learning is largely dependent upon the individual. Depending upon the individuals differences of priorities, an initiative based seeking of mentorships, role models, and social group interventions is obviously, self-directed. Some individuals would probably not be interested in such an initiative.&lt;br /&gt;
 Tams proposes that much has been written on the two ways in which an inidivudal develops skills related to the work force through “the ongoing engagement with their task and social environment.”. (Tams, 2008) In such a manner, Tams says, learning occurs in two ways. The first is experiential learning, or as mentioned above, trial and error leraning. According to Tams, this is “the ongoing reflection upon one’s actions and their outcomes.” (Tams, 2008) This thought process sometimes goes along as “was that a good decision or a bad decision?” The second way is the self-directed social learning way, which Tams elaborates upon in the study. (Tams, 2008)&lt;br /&gt;
 Social learning is the theory formulated by Albert Bandura. This theory was made famous through the use of Bobo, a doll that was used in an experiment by Bandura. In this theory, children were made to watch a video of an adult acting violently towards the doll. Those children that watched the adult acting violently towards the doll were likely to exhibit the same traits to the same doll, when given the doll. Interestingly, when the video was watched with an adult in the room and when the adult made a disapproving comment towards the adult in the video acting violently towards Bobo, children were less likely to emulate that behavior. The disapproving or approving comments the adult made while watching the video were the positive or negative reinforcements of the behavior. Saul Mcleod says that according to Albert Bandura’s theory, people are “active information processors and think about the relationship between their behavior and its consequences” (Mcleod, 2016). This relationship between the environment and the learning process implies that the cognitive processes “are at work”. (Mcleod, 2016) This means that children don’t necessarily merely imitate behavior, but rather think about the behavior before emulating it.&lt;br /&gt;
@@ -2368,9 +3400,9 @@ Tams, S. (2008). Self‐directed social learning: the role of individual differ
  
  <entry>
    <title>PSY301 Psychological Testing and Assessment Final Project (My recommendation of the Fagan Infant Intelligence Test)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/psy301-psychological-testing-and-assessment/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/psy301-psychological-testing-and-assessment/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/psy301-psychological-testing-and-assessment</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/psy301-psychological-testing-and-assessment</id>
    <content type="html">&lt;p&gt;Psychological tests can be fun. Those taking these tests can gain insights into an aspect of one’s personality that may have never been discovered if it were not for these tests. Or maybe the taking of a personality test can help you become more concrete on the personality traits you already have. It is the potential insight gained into a human being that makes a psychological test that much more important to humanity. But because of how important a test can be to someone, it is important to define and organize these tests into what they actually measure and how they are measured. These tests must also follow a guideline of ethics.&lt;/p&gt;
 
 &lt;p&gt;Purpose and Importance of Test Criteria&lt;br /&gt;
@@ -2443,9 +3475,9 @@ http://www.nbme.org/PDF/SubjectExams/subexaminfoguide.pdf&lt;/p&gt;
  
  <entry>
    <title>PSY221 Psychology Final Project (On David Rockefeller's wealth; did his past influence his future?)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/psy221-psychology/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/psy221-psychology/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/psy221-psychology</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/psy221-psychology</id>
    <content type="html">&lt;p&gt;What would your adult life look like when you grow up roller-skating down Fifth Avenue while your limousine drives behind you in case you get tired? What if your grandfather was in fact, the richest man in modern history? What kind of an adult would you turn out to be? Does being born into wealth turn you into a snob? Or does merely being born into the American elite only have to do with your last name? And if you never need to worry about food, clothing, or where to work, and merely having the prestige of one of the most famous last names in the entire world, are you more likely to be self-actualized?&lt;br /&gt;
 David Rockefeller’s achievements, legacy, and personality are the result of his need for achievement along the same lines as his grandfather, his social upbringing, and his ability to have the majority of his needs met through the hierarchy of needs, thereby becoming self-actualized more often and consistently than those who are not in a position of prestige.&lt;br /&gt;
 The three theories to be used as a hypothesis of David Rockefeller are as follows: Abraham Maslow’s Hierarchy of Needs, achievement motivation theory, and Allport’s trait theory.&lt;br /&gt;
@@ -2491,9 +3523,9 @@ Waude, A. (2016, February 3). Cultural Influences And The Sociocultural Approac
  
  <entry>
    <title>ENG204 Interdisciplinary Reading and Writing Final Project (The role of the manager in the light of human action and the age of information. Not happy with this paper.)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/eng204-interdisciplinary-reading-and-writing/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/eng204-interdisciplinary-reading-and-writing/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/eng204-interdisciplinary-reading-and-writing</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/eng204-interdisciplinary-reading-and-writing</id>
    <content type="html">&lt;p&gt;Those in business management must factor in the element of human action when structuring change in policies or organization in the business. In order to understand the impact of human action upon those in the business management world, it is first important to define what a manager is. According to Mises, a manager is “a junior partner of the entrepreneur, as it were, no matter what the contractual and financial terms of his employment are.” (Mises, 2009) Mises makes a strong distinction between the entrepreneur and the manager. Here in “Human Action”, entrepreneurs predict future market trends by allocating capital towards those market trends in the hopes of profit. The entrepreneur, according to Mises, controls the factors of production. (Mises, 2009)&lt;br /&gt;
 Then, what factor does the role of human action play in the day to day decisions of a business manager? It is the desire of human consumption through wants and needs that are the driving forces of what keeps both the entrepreneur alive and thereby pays the manager a salary. It is the action of humans that drives forward business to new heights. It is assumed that business assessments to which managers and entrepreneurs make decisions are based upon facts and only facts – however that does not sufficiently explain the hysteria of a boom-bust cycle of a business and why people tend to buy emotionally and afterwards to justify their decisions based upon so called logical factors. (Lesly, 1965) If then human action impacts business cycles and stock market prices, consider office politics and other related forms of human interaction that cannot necessarily be quantified in terms of numbers and facts. How can you factor in the variable of a man or woman who is having an affair with another colleague? These variables are all considerations that are based upon human action. And human action cannot necessarily be quantified in terms of numbers.&lt;br /&gt;
 Then can human action be predictable for business managers? Most certainly. That is why businesses evolve policies and guidelines to hedge against unknown variables such as sexual harassment problems within the workplace as well as business cycles. However, the solution becomes a problem when companies religiously believe that it is the mere policies and guidelines of a company that can prevent the behavior completely or to change the behavior of a person completely or the belief that if a company just has enough data that it would therefore be able to make perfect decisions. It is the same mistaken assumption in creating a product for the market in which consumers have no interest in. You cannot mold the desire of the market but rather the manager and entrepreneur must conform to it.&lt;br /&gt;
@@ -2542,9 +3574,9 @@ Mises, L. V. (2009, May 6). What Business Management Is and What It Is Not. Re
  
  <entry>
    <title>EDU445 Advancing the Profession Final Project 1 (I explore advocacy roles)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/edu445-advancing-the-professional-final-project-1/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/edu445-advancing-the-professional-final-project-1/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/edu445-advancing-the-professional-final-project-1</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/edu445-advancing-the-professional-final-project-1</id>
    <content type="html">&lt;p&gt;Kon Ham&lt;br /&gt;
 EDU445&lt;br /&gt;
 Determine Your Role in the Advocacy Effort&lt;br /&gt;
@@ -2567,9 +3599,9 @@ My strategy would be first to introduce personally to the parents the need for a
  
  <entry>
    <title>EDU445 Advancing the Profession Final Project 2 (My letter to preschool Teachers on professional goal setting)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/edu445-advancing-the-profession-2-final-project/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/edu445-advancing-the-profession-2-final-project/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/edu445-advancing-the-profession-2-final-project</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/edu445-advancing-the-profession-2-final-project</id>
    <content type="html">&lt;p&gt;Educate the Preschool Teachers on Professional Goal Setting&lt;br /&gt;
 Educators,&lt;br /&gt;
 Have you ever thought to sit and count the amount of thoughts that go through your mind in a single day? How about in a single hour? Let’s try counting for just one minute. Of all the thoughts that come in one ear and out the other, which of those thoughts is relevant to you now? And which is relevant to you later? There is a saying that, if you do not make your own plans for life that you will become someone else’s plan. Setting goals in your life allows you to become the main character in your novel or movie. Setting goals is what brings you from a background character into the main star. Furthermore, you are in a position to influence. As educators we may have read and studied how important it is to set goals but we may ourselves set goals too low for ourselves or not set any goals at all. How then can you expect your students also to achieve something great in their lives if you yourselves have no goals? Does the apple not fall far from the tree?&lt;br /&gt;
@@ -2604,9 +3636,9 @@ Smartsheet. (2018, July 27). The Essential Guide to Writing S.M.A.R.T. Goals. Re
  
  <entry>
    <title>EDU435 Adminstration II: Leadership and Supervision Final Project (A hypothetical leader of introduction to new employees of my day care center)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/edu435-adminstration-ii-leadership-and-supervision/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/edu435-adminstration-ii-leadership-and-supervision/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/edu435-adminstration-ii-leadership-and-supervision</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/edu435-adminstration-ii-leadership-and-supervision</id>
    <content type="html">&lt;p&gt;Kon Ham&lt;br /&gt;
 EDU435&lt;br /&gt;
 Introduction&lt;br /&gt;
@@ -2677,9 +3709,9 @@ Texas Education Agency. (2018, June 12). Appraisal Laws and Rules. Retrieved fro
  
  <entry>
    <title>EDU425 Adminstration I: Program Management Final Project (Organizational framework of hypothetical child care center)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/edu425-adminstration-i-program-management/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/edu425-adminstration-i-program-management/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/edu425-adminstration-i-program-management</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/edu425-adminstration-i-program-management</id>
    <content type="html">&lt;p&gt;Organizational Framework – Vision Statement&lt;br /&gt;
 Imagination Day Care Center is a Christian day care ministry that provides high quality child care that results in children reading before they enter into kindergarten. This ministry seeks to serve the local communities and families by providing this high-quality child care service by molding children into disciplined, consistent, and literate adults that seek to change the world around them to make the world a better place – this change to make the world a better place first starts with the families of the local communities and families that Imagination Day Care Center seeks to serve. Imagination Day Care Center seeks to pursue these goals because the staff members of Imagination Day Care Center believe in the good works aspect of a Christian. That is that, “Faith Without Good Works is Dead”. With this belief that faith must be applied into productive practice, Imagination Day Care Center equips staff members all tools necessary to mold children into Christians that will one day change the world for a more prosperous and peaceful time.&lt;br /&gt;
 Organizational Framework – Mission Statement&lt;br /&gt;
@@ -2762,9 +3794,9 @@ Www.daycare.com. (2018). Pennsylvania Licensing Standards for Day Care Centers �
  
  <entry>
    <title>EDU365 Teaching Young Children in a Diverse Society Final Project (Hypothetical assessments of observations of young yhildren from diverse backgrounds)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/edu365-teaching-young-children-in-a-diverse-society-final-project/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/edu365-teaching-young-children-in-a-diverse-society-final-project/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/edu365-teaching-young-children-in-a-diverse-society-final-project</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/edu365-teaching-young-children-in-a-diverse-society-final-project</id>
    <content type="html">&lt;p&gt;A&lt;br /&gt;
 The first problem that I have noticed is the lack of communication and support from Yolanda and the community of educators involved in the process of teaching Daniel. Because Yolanda was unable to read and write in Spanish or English, there is a significant obstacle to overcome when Daniel takes home school work and when attempting to involve Yolanda in the process of supporting Daniel’s education. Because Daniel acts up, there is a continuing build-up of frustration from Yolanda because she was unable to communicate with the teachers and the principle regarding Daniel’s behavior. Furthermore, Yolanda is a single mother. She also happened to move to the area as a result of a job transfer. This could imply that Yolanda and Daniel are not considered financial stable and may live paycheck to paycheck, adding to further instability and insecurity in the household. Yolanda must also rely upon Teresa to enroll Daniel in school and to communicate with the educators. This also adds to the friction of the relationship and learning dynamic for Daniel. What if Teresa is not around for the week and the teachers must pass on information to Daniel? Yolanda relies upon Teresa.&lt;br /&gt;
 The second problem is the misinterpretation of Daniel’s behavior and language competency with being deaf or perhaps having a language disability like his mother. So instead of being placed in a class of his peers, Daniel was placed in a special needs class for children with hearing disorders, speech disabilities, or learning disabilities relating to cognitive and physical motor dysfunction. There was a significant difference from when he was in the class for special needs and when he was placed in a normal class. There are many different factors at play here as to why Daniel began to act up in the classroom for the children without disabilities perhaps relating to the fact that Daniel is the only Latino in the classroom and the rest of the children being Caucasian and Asia, or perhaps the initial misdiagnosis of Daniel as a special needs student, or perhaps relating to Yolanda’s frustration and being a single mother without flexibility of schedule to fully support Daniel in his academic endeavors, but the problem persists as Daniel begins to exert his frustrations in the classroom.&lt;br /&gt;
@@ -2796,9 +3828,9 @@ The plan of action follows: Ms. Ramirez is now the official spokesperson to Yola
  
  <entry>
    <title>EDU345 Observation and Assessment Final Project (Hypothetical Portfolio of Young Child directed to Parents)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/edu345-observation-and-assessment-final-project/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/edu345-observation-and-assessment-final-project/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/edu345-observation-and-assessment-final-project</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/edu345-observation-and-assessment-final-project</id>
    <content type="html">&lt;p&gt;Portfolio of Observation and Assessment for&lt;br /&gt;
 Josue&lt;br /&gt;
 Permission Form&lt;br /&gt;
@@ -2881,9 +3913,9 @@ Now, we must consider where Josue must go next. Josue is displaying ability to l
  
  <entry>
    <title>EDU335 Intro to Children with Special Needs Final Project (Cerebral palsy and therapy methods)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/edu335-intro-to-children-with-special-needs-final-project/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/edu335-intro-to-children-with-special-needs-final-project/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/edu335-intro-to-children-with-special-needs-final-project</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/edu335-intro-to-children-with-special-needs-final-project</id>
    <content type="html">&lt;p&gt;Describe the Types of Characteristics That Lead to a Professional Diagnosis&lt;br /&gt;
 Although there are signs that are visible to professionals when attempting to diagnose cerebral palsy, not all of these signs are visible at birth, rather becoming more obvious as development progresses. (Cerebral Palsy Alliance Research Foundation, 2018) And because cerebral palsy, or hereafter referred to as CP, ranges in severity of disorder – often times there is instead a spectrum of conditions in the diagnosis of CP. (Cerebral Palsy Guide, 2018) Children are usually generally screened at 9, 18, and 24 months. (Cerebral Palsy Guide, 2018) Pediatricians usually watch for delays in motor function relating to the child’s ability to hold his or her head up, rolling over, visual alertness, sitting, crawling, walking, and picking up small objects. (Cerebral Palsy Guide, 2018) The pediatrician may check for signs such as if the baby has low muscle tone (the baby feels floppy), the baby being unable to hold up his or her own head when lying stomach down or in a supported sitting position (Cerebral Palsy Alliance Research Foundation, 2018), muscle spasms or feeling stiff (Cerebral Palsy Alliance Research Foundation, 2018), poor muscle control as well as reflexes as posture (Cerebral Palsy Alliance Research Foundation, 2018), delayed development relating to motor functions (Cerebral Palsy Alliance Research Foundation, 2018), issues with feeding or swallowing (Cerebral Palsy Alliance Research Foundation, 2018), and the preference to use one side of the body. Cerebral palsy is not a progressive disorder meaning that the disorder does not becoming worse over time. (Nordqvist, 2017) Rather, quality of life can improve once treatment through therapy is applied. (Nordqvist, 2017) Often times these babies are born on time instead of being born prematurely. (Cerebral Palsy Alliance Research Foundation, 2018) So time varies for when an infant is diagnosed with CP. However, a “General Movements Assessment can be conducted from birth until 5 months of age.” (Cerebral Palsy Alliance Research Foundation, 2018) This assessment can indicate whether or not a child as CP but it cannot indicate the severity of CP.&lt;br /&gt;
 Discuss the Stages of Development in Which These Characteristics Emerge&lt;br /&gt;
@@ -2922,9 +3954,9 @@ Special Education Support Service. (2018). Strategies for Learning and Teaching 
  
  <entry>
    <title>EDU325 Infant and Toddler Growth and Development Final Project (Infant milestones and hypothetical pathways to improvements for early childhood educators)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/edu325-infant-and-toddler-growth-and-development-final-project/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/edu325-infant-and-toddler-growth-and-development-final-project/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/edu325-infant-and-toddler-growth-and-development-final-project</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/edu325-infant-and-toddler-growth-and-development-final-project</id>
    <content type="html">&lt;p&gt;This is a case study of the infants and toddlers of Newberry Child Care Center. Newberry Child Care Center is located in Newberry, South Carolina. This center provides for infants and toddlers ages 6 weeks to 12 years old. Mrs. Harker is the primary caregiver. Ms. Johnson is the assistant. I will be identifying principles of development between the children as well as identifying potential “at risk behaviors” that could be related to developmental disabilities. I will also be identifying ways in which the caretakers can foster trust and autonomy in the infants and toddlers. Finally, I will be identifying potential opportunities in which the families, caretakers, centers, schools, and communities can affect the development of the infants and toddlers at the Newberry Child Care Center. The first principle of early development is Erik Erikson’s stages of psychosocial development. Erikson believed that children develop in a series of stages. (“Basic Theories and Principles of Child Development”, 2018) In each of these stages of development, Erikson proposed that the child has a conflict in which a trait, or “virtue” is either developed or underdeveloped. (“Basic Theories and Principles of Child Development”, 2018) This view of personality growth was predicated on the proposal that each stage of development was built in a predetermined order building upon one another. (“Basic Theories and Principles of Child Development”, 2018) Because this essay focuses on the development of children, specifically infants and toddlers, I will only be covering the first four stages of Erikson’s psychosocial development. These four stages of development according to Erikson are: the trust vs. mistrust stage, the autonomy vs. shame and doubt stage, the initiative vs. guilt stage, and the industry vs. inferiority stage.&lt;/p&gt;
 
 &lt;p&gt;In the trust vs. mistrust stage the attachment that the infant has with his or her caretaker is the basis upon which this stage develops the virtue of hope. The infant is unsure of the world and feels the need to be comforted and to know the baby can be taken care of. (Mcleod, 2018) If properly and consistently taken care of, the infant learns hope. If the infant receives inconsistent care and neglect, the baby instead learns fear, which leads to “anxiety, heightened insecurities, and an over feeling of mistrust in the world around them.” (Mcleod, 2018)&lt;br /&gt;
@@ -2961,9 +3993,9 @@ Oswalt, A. (2018). Early Childhood Physical Development: Gross and Fine Motor D
  
  <entry>
    <title>COM146 Communication (Powerpoint transcript on hypothetical situation where I try to convince my boss to allow me to telecommute. Relevant to Coronavirus threat in 2021)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/com146-communication-final-project/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/com146-communication-final-project/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/com146-communication-final-project</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/com146-communication-final-project</id>
    <content type="html">&lt;p&gt;Youtube Link to Video: https://youtu.be/U4jzbKAQ5fc&lt;br /&gt;
 (Scott is my imaginary boss)&lt;/p&gt;
 
@@ -3038,9 +4070,9 @@ Reynolds, B. W. (2016, August 26). Survey: Only 7% of Workers Say They’re Mo
  
  <entry>
    <title>CIS101 Computer Literacy Final Project (Benefits of hypothetical printing company to switch to software as a service (SaaS) model)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/cis101-computer-literacy-final-project/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/cis101-computer-literacy-final-project/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/cis101-computer-literacy-final-project</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/cis101-computer-literacy-final-project</id>
    <content type="html">&lt;p&gt;System Background and Functionality&lt;/p&gt;
 
 &lt;p&gt;Software as a service is a major function of larger companies who are looking towards the future of internet connectivity and increased efficiency between businesses and clients. Essentially, the majority of work usually done by sales representatives of Print-R-Us is moved to an online location in which customers can use an online software that allows for them to easily and quickly design media with near endless customizability to suit whatever needs a potential client has. This software is designed with the lay person in mind; to remember that the client may or may not know how to utilize a computer at their home or at a kiosk in the Print-R-Us storefronts. It is also designed with a “power-user” in mind; someone who may be a media professional that works with their own clients.&lt;/p&gt;
@@ -3092,9 +4124,9 @@ Second, the problem may occur in which the client is producing material that is 
  
  <entry>
    <title>BUS209 Financial Accounting Final Project (Terrible accounting analysis of hypothetical company. Fire me!)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/bus209-financial-accounting-final-project/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/bus209-financial-accounting-final-project/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/bus209-financial-accounting-final-project</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/bus209-financial-accounting-final-project</id>
    <content type="html">&lt;p&gt;Table of Contents and Report Objective:&lt;br /&gt;
 Summary of Background, Mission, and Product Lines&lt;br /&gt;
 Summary of Organization’s Outlook and Future Investments&lt;br /&gt;
@@ -3185,9 +4217,9 @@ Highly leveraged approaches to revenue may be considered unattractive to investo
  
  <entry>
    <title>BUS220 Microeconomics Final Project (Netflix analysis and further suggestions. Relevant as of 20MAR20. I recommend and predict that Netflix will implement &amp;#8220;social viewings&amp;#8221; of movies in order to differentiate itself from other streaming services)</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/bus-220-microeconomics-final-project/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/bus-220-microeconomics-final-project/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/bus-220-microeconomics-final-project</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/bus-220-microeconomics-final-project</id>
    <content type="html">&lt;p&gt;Netflix is a company founded by Reed Hastings in 1999. The company originally&lt;br /&gt;
 started with a mail-by-order DVD rental service. (“How Netflix got started”, 2009)&lt;br /&gt;
 Although Netflix still provides this service, it is possibly most well known for delivering&lt;br /&gt;
@@ -3387,9 +4419,9 @@ une/index.htm&lt;/p&gt;
  
  <entry>
    <title>ART220 Introduction to Film Final Project (Analysis of 'The Godfather')</title>
-   <link href="https://getpoole.com/jfku%20final%20projects/2020/03/20/art_220-introduction-to-film-final-project/"/>
+   <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/art_220-introduction-to-film-final-project/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
-   <id>https://getpoole.com/jfku%20final%20projects/2020/03/20/art_220-introduction-to-film-final-project</id>
+   <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/art_220-introduction-to-film-final-project</id>
    <content type="html">&lt;p&gt;We are introduced to the Corleone family through a wedding. It is the wedding of Connie Corleone, daughter of Vito Corleone. Vito Corleone is the Don, or head executive of the Corleone crime family. Through the wedding we are introduced to multiple family characters and associates of the family. We also see people entering into the office of Don Vito Corleone to make requests of him. It is a Sicilian tradition to fulfill requests on the day of his daughter’s wedding. Here we see the dynamic of the power that Don Corleone wields. All requests are fulfilled.&lt;br /&gt;
 We are also introduced to Michael Corleone. He is the son of Don Corleone. Michael Corleone was returned from the wars of World War II. He is a war hero. Audience members are shown his reluctance towards the Corleone’s criminal interests. We also see that Michael Corleone is favored by Don Corleone. When the family gathers together for a photo, Don Corleone disperses the crowd upon seeing that Michael is not present for the photo.&lt;br /&gt;
 We see various vices that the Corleone family members are involved in. Sonny has a temper problem and involves himself with other women besides his wife. Fredo Corleone was always weak and indecisive and a womanizer. We are also introduced to other family member associates, like Luca Brasi, an intimidating thug for the Corleone family, and Tom Hagen, an adopted German-Irish boy who grows up to be the lawyer and later consigliere for the Corleone family.&lt;br /&gt;
@@ -3410,9 +4442,9 @@ And this new movement was commercially and artistically a major success for the 
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="https://getpoole.com/jekyll/2020/03/01/whats-jekyll/"/>
+   <link href="http://localhost:4000/jekyll/2020/03/01/whats-jekyll/"/>
    <updated>2020-03-01T00:00:00-05:00</updated>
-   <id>https://getpoole.com/jekyll/2020/03/01/whats-jekyll</id>
+   <id>http://localhost:4000/jekyll/2020/03/01/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -3425,9 +4457,9 @@ And this new movement was commercially and artistically a major success for the 
  
  <entry>
    <title>A Poem To Me Mudder (Anonymous)</title>
-   <link href="https://getpoole.com/me%20mudder/poetry/2020/01/11/a-poem-to-me-mudder-anonymous/"/>
+   <link href="http://localhost:4000/me%20mudder/poetry/2020/01/11/a-poem-to-me-mudder-anonymous/"/>
    <updated>2020-01-11T00:00:00-05:00</updated>
-   <id>https://getpoole.com/me%20mudder/poetry/2020/01/11/a-poem-to-me-mudder-anonymous</id>
+   <id>http://localhost:4000/me%20mudder/poetry/2020/01/11/a-poem-to-me-mudder-anonymous</id>
    <content type="html">&lt;p&gt;When my prayers were poorly said,&lt;/p&gt;
 
 &lt;p&gt;Who Tucked me in my widdle bed,&lt;/p&gt;

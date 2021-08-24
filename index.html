@@ -4,8 +4,30 @@ title: Home
 ---
 <h1>Hi! Kon here.</h1>
 <p>Use the top right panel to navigate through the site.</p><hr>
-<h2>Recent Posts:</h2>
 
+<p class="message">
+    <strong>I'm looking to join a great team.</strong><br>
+    Know of any junior-mid level openings? Here's my <a
+        href="https://github.com/kon-ham/kon-ham.github.io/blob/main/resume.pdf">resume.</a>
+</p>
+<hr>
+
+<h2>My Latest Coding Projects:</h2>
+    <ul>
+        <li>
+            <strong>Find My City</strong> is a city finding web application that allows users to search and sort cities by criteria they find most important. Get scores for major cities. Save your favorite cities.<br><br>
+            Link to the front-end Github repository: <a href="https://github.com/NoahZinter/find_my_city_fe">here.</a><br>
+            Link to the back-end Github repository: <a href="https://github.com/NoahZinter/find_my_city_be">here.</a><br>
+            Link to the live site: <a href="https://helpmefindmycity.herokuapp.com">here.</a>
+        </li><br>
+        <li>
+            <strong>Sweater Weather</strong> is an API-only application. Find weather data for the city you are traveling to. Know what the weather will be like whether you arrive three hours
+            later or three days later.<br><br>
+            Link to the Github repository: <a href="https://github.com/kon-ham/sweater_weather">here.</a>
+        </li>
+    </ul>
+
+<h2>Recent Posts I've Made:</h2>
 <ol>
     {% for post in site.posts limit: 5 %}
     <li>
@@ -15,13 +37,6 @@ title: Home
     </li>
     {% endfor %}
 </ol><hr>
-
-<h2>In Other News:</h2>
-<p>As of August 22, 2021:</p>
-<p class="message">
-    <strong>I'm looking to join a great team.</strong><br>
-    Know of any junior-mid level openings? Here's my <a href="https://github.com/kon-ham/kon-ham.github.io/blob/main/resume.pdf">resume.</a>
-</p><hr>
 
 <h2>Looking For Me?</h2>
 <p>My email is: <a href="mailto:contact@konkham.com">contact@konkham.com</a> or <a href="mailto:info.konham@gmail.com">info.konham@gmail.com</a></p>
