@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Netflix and Tarantino's Hateful 8; A short Review and thoughts on Justice'
+title: "Netflix and Tarantino's Hateful 8; A short Review and thoughts on Justice"
 categories: [Hateful 8, Movie Reviews]
 ---
 The series is long. It&#8217;s absolutely a tour de force in the celebration of gore, violence, and hate. I finished it, despite the derogatory words eventually becoming tiresome to me.
