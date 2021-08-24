@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'It's the Simple Thangs'
+title: "It's the Simple Thangs"
 categories: [COVID-19, Thankfulness, Life, Death]
 ---
 My parent&#8217;s PPP loan came in yesterday. To celebrate, my mom went to Aldi&#8217;s and purchased some sweets and cheese. 
