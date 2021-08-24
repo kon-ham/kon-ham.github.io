@@ -1,0 +1,711 @@
+I"��<h1 id="hi-kon-here">Hi! Kon here.</h1>
+
+<p>Use the top right panel to navigate through the site.</p>
+
+<hr />
+
+<h2 id="announcements">Announcements:</h2>
+
+<p class="message">
+
+<strong>I'm looking to join a great team.</strong><br />
+Know of any junior-mid level openings? Here's my <a href="https://github.com/kon-ham/kon-ham.github.io/blob/main/resume.pdf">resume.</a>
+</p>
+
+<hr />
+
+<h2 id="my-latest-coding-projects">My Latest Coding Projects:</h2>
+
+<ul>
+  <li><strong>Find My City</strong> is a city finding web application that allows users to search and sort cities by criteria they find most important. Get scores for major cities. Save your favorite cities.
+    <ul>
+      <li>Link to the front-end Github repository:  <a href="https://github.com/NoahZinter/find_my_city_fe">here</a>.</li>
+      <li>Link to the back-end Github repository:  <a href="https://github.com/NoahZinter/find_my_city_be">here</a>.</li>
+      <li>Link to the live site:    <a href="https://helpmefindmycity.herokuapp.com">here</a>.</li>
+    </ul>
+  </li>
+  <li><strong>Sweater Weather</strong> is an API-only application. Find weather data for the city you are traveling to. Know what the weather will be like whether you arrive three hours later or three days later.
+    <ul>
+      <li>Link to the Github repository: <a href="https://github.com/kon-ham/sweater_weather">here</a>.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="recent-posts-ive-made">Recent Posts I’ve Made:</h2>
+<!-- <ol>
+    
+    <li>
+        <a  href="/pessimism/outlook/boundaries/trust/discernment/2021/07/09/linkedin-posts-pt-5/">LinkedIn Posts pt. 5</a>
+        <p>The biggest cost of a pessimistic outlook is that you are likely to convince yourself that there is no reason to leave behind a legacy.</p> <p>A pessimistic civilization no longer...
+        <time  datetime="2021-07-09T00:00:00-04:00"  class="post-date">09 Jul 2021</time>
+    
+    <li>
+        <a  href="/schooling/society/education/2021/07/09/future-of-school-and-society/">The Future of School and Society</a>
+        <p>A child can finish a K-12 curriculum through Khan Academy for $0.00. It will probably take 4-8 years, depending on innate aptitude and assuming the average student.</p> <p>You are making...
+        <time  datetime="2021-07-09T00:00:00-04:00"  class="post-date">09 Jul 2021</time>
+    
+    <li>
+        <a  href="/emt-b/drowning/drinking/holiday/guns/safety/4th%20of%20july/2021/07/07/thoughts-as-a-fresh-emt-grad/">Thoughts As A Fresh EMT-B Grad</a>
+        <p>By the time I graduated EMT school, I learned there was a million and one ways to die.</p> <p>Here are a few tips from an EMT newbie that might save...
+        <time  datetime="2021-07-07T00:00:00-04:00"  class="post-date">07 Jul 2021</time>
+    
+    <li>
+        <a  href="/writing/patience/forgiveness/rest/worklife%20balance/boundaries/joel%20salatin/michael%20c.%20pollan/omnivore's%20dilemma/creative%20desert/linkedin/travel/story%20telling/dating%20sites/danny%20trejo/honesty/salesmanship/illiteracy/advocacy/income%20share%20agreements/hyundai/advertising/2021/07/07/linkedin-posts-pt-4/">LinkedIn Posts pt. 4</a>
+        <p>I see a lot of posts from people that say they are open to work.</p> <p>Yet they hardly post anything else.</p> <p>Part of life is being OK with rejection. Not...
+        <time  datetime="2021-07-07T00:00:00-04:00"  class="post-date">07 Jul 2021</time>
+    
+    <li>
+        <a  href="/unique%20service%20proposition/honesty/monetization/guitar/linkedin/ideas/terrible%20ideas/human%20experience/us%20army/predictions/technology/personal%20branding/storytelling/human%20value/2021/07/07/linkedin-posts-pt-3/">LinkedIn Posts pt. 3</a>
+        <p>I can’t help but feel most people just want plain honesty these days.</p> <p>I think honesty in our work, with others, and in our own personal lives leads to great...
+        <time  datetime="2021-07-07T00:00:00-04:00"  class="post-date">07 Jul 2021</time>
+    
+    </li>
+</ol> -->
+<ul>
+  
+    <li>
+      <a href="/pessimism/outlook/boundaries/trust/discernment/2021/07/09/linkedin-posts-pt-5/">LinkedIn Posts pt. 5</a>
+      <p>The biggest cost of a pessimistic outlook is that you are likely to convince yourself that there is no reason to leave behind a legacy.</p> <p>A pessimistic civilization no longer...
+      <time datetime="2021-07-09T00:00:00-04:00" class="post-date">09 Jul 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/schooling/society/education/2021/07/09/future-of-school-and-society/">The Future of School and Society</a>
+      <p>A child can finish a K-12 curriculum through Khan Academy for $0.00. It will probably take 4-8 years, depending on innate aptitude and assuming the average student.</p> <p>You are making...
+      <time datetime="2021-07-09T00:00:00-04:00" class="post-date">09 Jul 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/emt-b/drowning/drinking/holiday/guns/safety/4th%20of%20july/2021/07/07/thoughts-as-a-fresh-emt-grad/">Thoughts As A Fresh EMT-B Grad</a>
+      <p>By the time I graduated EMT school, I learned there was a million and one ways to die.</p> <p>Here are a few tips from an EMT newbie that might save...
+      <time datetime="2021-07-07T00:00:00-04:00" class="post-date">07 Jul 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/writing/patience/forgiveness/rest/worklife%20balance/boundaries/joel%20salatin/michael%20c.%20pollan/omnivore's%20dilemma/creative%20desert/linkedin/travel/story%20telling/dating%20sites/danny%20trejo/honesty/salesmanship/illiteracy/advocacy/income%20share%20agreements/hyundai/advertising/2021/07/07/linkedin-posts-pt-4/">LinkedIn Posts pt. 4</a>
+      <p>I see a lot of posts from people that say they are open to work.</p> <p>Yet they hardly post anything else.</p> <p>Part of life is being OK with rejection. Not...
+      <time datetime="2021-07-07T00:00:00-04:00" class="post-date">07 Jul 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/unique%20service%20proposition/honesty/monetization/guitar/linkedin/ideas/terrible%20ideas/human%20experience/us%20army/predictions/technology/personal%20branding/storytelling/human%20value/2021/07/07/linkedin-posts-pt-3/">LinkedIn Posts pt. 3</a>
+      <p>I can’t help but feel most people just want plain honesty these days.</p> <p>I think honesty in our work, with others, and in our own personal lives leads to great...
+      <time datetime="2021-07-07T00:00:00-04:00" class="post-date">07 Jul 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/linkedin/power/clep/education/schooling/millennials/careers/homes/moving/boundaries/positive%20intent/human%20resources/writing/user%20experience/2021/07/07/linkedin-posts-pt-2/">LinkedIn Posts pt. 2</a>
+      <p>I’ve taken jabs at LinkedIn because I’ve felt that the overall platform encouraged low quality (I feel like the quality of the content is sterile and all the same), but...
+      <time datetime="2021-07-07T00:00:00-04:00" class="post-date">07 Jul 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/bob%20ross/america/generalist/specialist/marketing/a/b%20split%20test/subscription%20model/work%20from%20home/smile/lighten%20up/personal%20growth/horses/cars/advertising%20platforms/2021/07/07/linkedin-posts-pt-1/">LinkedIn Posts pt. 1</a>
+      <p>An easy answer for those that have to answer the question “Describe America”</p> <p>One answer is Bob Ross.</p> <p>American optimism, respect and appreciation for nature and natural creatures, willingness to...
+      <time datetime="2021-07-07T00:00:00-04:00" class="post-date">07 Jul 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/relationships/2021/07/05/hope-all-is-well/">Hope All is Well</a>
+      <p>People aren’t meant for broken relationships. None of us are. We are made to be loved and to love others.</p> <p>Human life is really so precious, so resilient but also...
+      <time datetime="2021-07-05T00:00:00-04:00" class="post-date">05 Jul 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/future/nostalgia/2021/06/17/the-future/">The Future</a>
+      <p>In the near future, the companies that will innovate and trail blaze will be the companies that can take our current ideals, morals, and values and improve upon them.</p> <p>In...
+      <time datetime="2021-06-17T00:00:00-04:00" class="post-date">17 Jun 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/morris%20jenkins/advertising/marketing/unique%20service%20proposition/2021/06/05/an-open-letter-to-mr-morris-jenkins/">An Open Letter to Mr. Morris Jenkins</a>
+      <p>Dear Mr. Jenkins,</p> <p>In advertising there is a saying – ‘lead with the benefits’.</p> <p>A customer does not care what you tell your employees or what you tell others. In...
+      <time datetime="2021-06-05T00:00:00-04:00" class="post-date">05 Jun 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/poetry/2021/05/29/sometimes/">Sometimes [Poetry]</a>
+      <p class="has-text-align-center"> Sometimes I see a glimpse of you </p> <p class="has-text-align-center"> as a shadow slips through my hands, </p> <p class="has-text-align-center"> and I pray you would be strong, </p>...
+      <time datetime="2021-05-29T00:00:00-04:00" class="post-date">29 May 2021</time>
+    </li>
+  
+    <li>
+      <a href="/mom/suicide/family/love/immigrants/2021/05/29/my-mothers-beauty/">The Beauty of My Mother</a>
+      <p>I am in need of a vehicle.</p> <p>Well, at this point, it’s more or less “would be nice to have” rather than an immediate need.</p> <p>So I’m looking around for...
+      <time datetime="2021-05-29T00:00:00-04:00" class="post-date">29 May 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/harry%20potter/tradition/medieval%20age/2021/05/12/tradition-and-evil/">Tradition and Evil</a>
+      <p>I find myself wondering what life would be like if our current society was more of a traditionalist society. For all of the criticisms of the Middle Ages, nobody will...
+      <time datetime="2021-05-12T00:00:00-04:00" class="post-date">12 May 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/harry%20potter/2021/05/12/another-thought-about-harry-potter/">Another Thought about Harry Potter</a>
+      <p>Notice how clueless and blind Muggles are. Wizardry and witchcraft are happening all around them and yet Muggles walk around blind so busy with their lives.</p> <p>I think this is...
+      <time datetime="2021-05-12T00:00:00-04:00" class="post-date">12 May 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/community/2021/05/11/community-online/">Community Online?</a>
+      <p>It can’t be done. You cannot have a community online. At best, it is a filler until you have a community in person. It is in person that a person...
+      <time datetime="2021-05-11T00:00:00-04:00" class="post-date">11 May 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/dating/2021/04/01/for-men-that-are-looking-women-and-choice/">For Men that are Looking: Women and Choice</a>
+      <p>I should preface this post with a very important point: I have not been in a committed relationship for nearly a decade, so as this post is an advice post,...
+      <time datetime="2021-04-01T00:00:00-04:00" class="post-date">01 Apr 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/hateful%208/movie%20reviews/2021/03/29/netflix-and-tarantinos-hateful-8-a-short-review-and-thoughts-on-justice/">Netflix and Tarantino's Hateful 8; A short Review and thoughts on Justice</a>
+      <p>The series is long. It’s absolutely a tour de force in the celebration of gore, violence, and hate. I finished it, despite the derogatory words eventually becoming tiresome to me.</p>...
+      <time datetime="2021-03-29T00:00:00-04:00" class="post-date">29 Mar 2021</time>
+    </li>
+  
+    <li>
+      <a href="/seaspiracy/food/environment/2021/03/27/movie-review-seaspiracy-2021-and-my-thoughts-on-sustainability/">Movie Review: Seaspiracy (2021) and my thoughts on sustainability</a>
+      <p>https://www.imdb.com/title/tt14152756/<br /> This documentary has broken my heart. It is also a very good documentary.</p> <p>I’m beginning to think that there is no such thing as sustainability.</p> <p>As populations begin...
+      <time datetime="2021-03-27T00:00:00-04:00" class="post-date">27 Mar 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/covid-19/thankfulness/life/death/2021/03/21/its-the-simple-thangs/">It's the Simple Thangs</a>
+      <p>My parent’s PPP loan came in yesterday. To celebrate, my mom went to Aldi’s and purchased some sweets and cheese.</p> <p>And though our dinner was simple, we had a little...
+      <time datetime="2021-03-21T00:00:00-04:00" class="post-date">21 Mar 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/thankfulness/death/2021/03/18/in-this-time-of-isolation-be-thankful/">In this time of isolation, be thankful</a>
+      <p>I think the natural tendency as you get older is to know of people that have died. Looking back I know of people that have had their life taken away...
+      <time datetime="2021-03-18T00:00:00-04:00" class="post-date">18 Mar 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/chik-fil-a/half%20backed%20thoughts/teamwork/2021/03/16/the-problem-with-chik-fil-a-sauce/">The Problem With Chik-Fil-A Sauce</a>
+      <p>Here’s the thing. I love Chik-fil-a. They’re good. Customer service is good. Food quality is good. I’ve never had a bad experience with Chik-fil-a, minus the long lines I’d have...
+      <time datetime="2021-03-16T00:00:00-04:00" class="post-date">16 Mar 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/tutorials/tech/2021/03/15/exploring-html-css-and-postgresql/">Exploring HTML, CSS, and PostgreSQL</a>
+      <p>I’m going through a very basic introduction into PostgreSQL, HTML, and CSS. I thought it might benefit someone to post my gist on questions and reflections on these technologies.</p> <p>To...
+      <time datetime="2021-03-15T00:00:00-04:00" class="post-date">15 Mar 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/poetry/2021/03/15/after-winter/">After Winter</a>
+      <p class="has-text-align-center"> After all the dark and clammy nights </p> <p class="has-text-align-center"> Rosy and warm to keep the elements at bay </p> <p class="has-text-align-center"> Now, already, in such a short...
+      <time datetime="2021-03-15T00:00:00-04:00" class="post-date">15 Mar 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/ruby/tech/tutorials/enumerables/law%20of%20demeter/2021/02/22/enumerables-and-demeter/">Enumerables and Demeter</a>
+      <p>I’ve created two Github repositories – both of which are free for you to explore and, if you want, to contribute to.</p> <p>The first is called Breaking Demeter. The law...
+      <time datetime="2021-02-22T00:00:00-05:00" class="post-date">22 Feb 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/mindset/peter%20de%20jager/carol%20dweck/2021/02/01/mindset/">Some Thoughts On Mindset; Peter de Jager</a>
+      <p>The word mindset – in what ways are you set in your mind? What concepts about life and your identity have become crystalized to you?</p> <p>I often hear someone say,...
+      <time datetime="2021-02-01T00:00:00-05:00" class="post-date">01 Feb 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/poetry/2021/02/01/in-darkness-and-death/">In Darkness and Death [Poetry]</a>
+      <p class="has-text-align-center">
+  You will leave behind
+</p>
+
+<p class="has-text-align-center">
+  Your treasures and collections
+</p>
+
+<p class="has-text-align-center">
+  But love conquers all
+</p>
+
+      <time datetime="2021-02-01T00:00:00-05:00" class="post-date">01 Feb 2021</time>
+    </li>
+  
+    <li>
+      <a href="/poetry/2021/02/01/3196-2/">Onwards [Poetry]</a>
+      <p class="has-text-align-center"> The world is full of pain and suffering </p> <p class="has-text-align-center"> Everyday humanity aches and throbs </p> <p class="has-text-align-center"> Our suffering points direction to our future home </p>...
+      <time datetime="2021-02-01T00:00:00-05:00" class="post-date">01 Feb 2021</time>
+    </li>
+  
+    <li>
+      <a href="/poetry/2021/01/19/rest-and-comfort/">Rest and Comfort [Poetry]</a>
+      <p class="has-text-align-center"> Eat without thanks and drink without peace </p> <p class="has-text-align-center"> An empty belly filled nausea and regret </p> <p class="has-text-align-center"> Eat with gratefulness and humility </p> <p class="has-text-align-center">...
+      <time datetime="2021-01-19T00:00:00-05:00" class="post-date">19 Jan 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/poetry/2021/01/19/how-long/">How Long? [Poetry]</a>
+      <p class="has-text-align-center">
+  How long, my dear friend
+</p>
+
+<p class="has-text-align-center">
+  Repeating so much regret
+</p>
+
+<p class="has-text-align-center">
+  Stand &#8211; You can be free
+</p>
+
+      <time datetime="2021-01-19T00:00:00-05:00" class="post-date">19 Jan 2021</time>
+    </li>
+  
+    <li>
+      <a href="/poetry/2021/01/11/reject-regret/">Reject Regret [Poetry]</a>
+      <p class="has-text-align-center">
+  For the ones you&#8217;ve lost
+</p>
+
+<p class="has-text-align-center">
+  move on after your last kiss
+</p>
+
+<p class="has-text-align-center">
+  lost in the moment
+</p>
+
+      <time datetime="2021-01-11T00:00:00-05:00" class="post-date">11 Jan 2021</time>
+    </li>
+  
+    <li>
+      <a href="/poetry/2021/01/11/im-back/">Praying for Hope [Poetry]</a>
+      <p class="has-text-align-center">
+  When you asked me how,
+</p>
+
+<p class="has-text-align-center">
+  I could only sit and pray
+</p>
+
+<p class="has-text-align-center">
+  desperate for hope.
+</p>
+
+      <time datetime="2021-01-11T00:00:00-05:00" class="post-date">11 Jan 2021</time>
+    </li>
+  
+    <li>
+      <a href="/poetry/2021/01/11/good-night/">Good Night [Poetry]</a>
+      <p class="has-text-align-center"> In the twilight, a quiet moment &#8211; </p> <p class="has-text-align-center"> my footsteps now the loudest creature of the night. </p> <p class="has-text-align-center"> The dark and vast velvet of...
+      <time datetime="2021-01-11T00:00:00-05:00" class="post-date">11 Jan 2021</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/poetry/2021/01/11/for-you/">For You [Poetry]</a>
+      <p class="has-text-align-center">
+  A nice, quiet place
+</p>
+
+<p class="has-text-align-center">
+  Where you can hide away from
+</p>
+
+<p class="has-text-align-center">
+  the pain and headaches
+</p>
+
+      <time datetime="2021-01-11T00:00:00-05:00" class="post-date">11 Jan 2021</time>
+    </li>
+  
+    <li>
+      <a href="/fuschia%20dunlop/food/2020/10/10/the-food-of-sichuan-fuschia-dunlop/">The Food of Sichuan Fuschia Dunlop</a>
+      <p>Allow me to preface this review by saying that I love spicy food. I am a masochist for it.</p> <p>But from my limited experience of Sichuan cuisine, the spice in...
+      <time datetime="2020-10-10T00:00:00-04:00" class="post-date">10 Oct 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/100%20prime%20movies%20worth%20watching/movie%20reviews/2020/09/13/100-movies-from-prime-worth-watching/">100 Movies from Prime Worth Watching</a>
+      <p><a href="https://www.vulture.com/article/best-movies-amazon-prime.html?utm_source=digg">https://www.vulture.com/article/best-movies-amazon-prime.html?utm_source=digg</a></p>
+
+<p>I am in the middle of “Ash is the Purest White”. It is an excellent movie. Perhaps you’ll find a movie worthwhile.</p>
+
+<p>Signing off.</p>
+
+      <time datetime="2020-09-13T00:00:00-04:00" class="post-date">13 Sep 2020</time>
+    </li>
+  
+    <li>
+      <a href="/carol%20dweck/2020/09/05/excerpts-from-carol-dwecks-mindset/">Excerpts from Carol Dweck's Mindset</a>
+      <blockquote class="wp-block-quote"> <p> <strong>Those with the growth mindset, on the other hand, can acknowledge their partners’ imperfections,</strong> without assigning blame, and still feel that they have a fulfilling relationship. <strong>They...
+      <time datetime="2020-09-05T00:00:00-04:00" class="post-date">05 Sep 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/7%20habits%20of%20highly%20effective%20people/book%20review/steven%20r.%20covey/2020/08/11/a-lesson-from-7-habits-of-highly-effective-people/">A Lesson from 7 Habits of Highly Effective People</a>
+      <p>Stephen R. Covey explains a development in his marriage life: For years he had expressed a frustration with Sandra, his wife, and her obsession with Frigidaire appliances. She was completely...
+      <time datetime="2020-08-11T00:00:00-04:00" class="post-date">11 Aug 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/7%20habits%20of%20highly%20effective%20people/book%20review/steven%20r.%20covey/2020/08/08/7-habits-of-highly-effective-people-review/">7 Habits of Highly Effective People Review</a>
+      <p>The title of this book is misleading. The majority of people reading this book may hope to glean a quick list of seven principles that they can implement into their...
+      <time datetime="2020-08-08T00:00:00-04:00" class="post-date">08 Aug 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/journal/2020/07/16/a-benefit-of-esports/">A Benefit of eSports</a>
+      <p>Reference is the video, forget watching the video. The essence of this video is summed up by the comment of a <a href="https://www.youtube.com/channel/UCw6FJoMnDkltL_EExs1tp5Q">Jeremiah Cuarteros</a>.</p> <p>He says:</p> <blockquote> <p>these gaming moments...
+      <time datetime="2020-07-16T00:00:00-04:00" class="post-date">16 Jul 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/movie%20reviews/princess%20diana/2020/06/29/movie-review-diana-in-her-own-words/">Movie Review: Diana in Her Own Words</a>
+      <p>I never would have thought that one documentary about a woman would have clarified to me my role as a man.</p> <p>Diana, a women the world saw to be as...
+      <time datetime="2020-06-29T00:00:00-04:00" class="post-date">29 Jun 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/wgu%20final%20projects/2020/06/02/m-ed-capstone-final-project/">M.Ed Capstone Final Project</a>
+      <p><a href="https://www.dropbox.com/s/l60olpy3f4i77n3/Capstone%20Template.docx?dl=0">https://www.dropbox.com/s/l60olpy3f4i77n3/Capstone%20Template.docx?dl=0</a></p>
+
+<p>Above is the curriculum analysis and research findings.</p>
+
+<p><a href="https://www.dropbox.com/s/hl0cqx1fdy4hcsa/instructional%20curriculum.pptx?dl=0">https://www.dropbox.com/s/hl0cqx1fdy4hcsa/instructional%20curriculum.pptx?dl=0</a></p>
+
+<p>Above is the curriculum I taught to my learning group.</p>
+
+<p>Enjoy!</p>
+
+      <time datetime="2020-06-02T00:00:00-04:00" class="post-date">02 Jun 2020</time>
+    </li>
+  
+    <li>
+      <a href="/joe%20navarro/what%20every%20body%20is%20saying/book%20reviews/2020/04/29/what-every-body-is-saying-joe-navarro/">What Every Body is Saying - Joe Navarro</a>
+      <p>Former FBI investigator gives comprehensive list of body language to indicate whether or not a person is comfortable or uncomfortable.</p> <p>If you are looking for a way to detect if...
+      <time datetime="2020-04-29T00:00:00-04:00" class="post-date">29 Apr 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/positivity/future/2020/04/04/this-period-of-instability-coronavirus-and-looking-ahead-to-the-future/">This period of instability, Coronavirus, and Looking Ahead to the Future</a>
+      <p>Now is a great time to be alive, reassess your situation, and think about how you want your situation to be when this blows over in two or three years....
+      <time datetime="2020-04-04T00:00:00-04:00" class="post-date">04 Apr 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jekyll/2020/04/04/introduction/">Introduction</a>
+      <p><em>The Strange Case of Dr. Jekyll and Mr. Hyde</em> tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among...
+      <time datetime="2020-04-04T00:00:00-04:00" class="post-date">04 Apr 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jekyll/2020/04/03/options/">Options</a>
+      <p>With Poole as a baseline theme for Jekyll, there aren’t many options available out of the box. Basic light and dark mode support is included. Colors are also provided for...
+      <time datetime="2020-04-03T00:00:00-04:00" class="post-date">03 Apr 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jekyll/2020/04/02/example-content/">Example content</a>
+      <p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. <em>Aenean eu leo quam.</em> Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis....
+      <time datetime="2020-04-02T00:00:00-04:00" class="post-date">02 Apr 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/charles%20c.%20mann/covid-19/2020/04/01/covid-19-and-1491/">COVID-19 and 1491</a>
+      <p>This video is completely relevant to our predicament today. I hope it gives you as much insight and food for thought as it did for me.</p> <p>If you found the...
+      <time datetime="2020-04-01T00:00:00-04:00" class="post-date">01 Apr 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/wgu%20final%20projects/2020/03/21/m-ed-capstone-prospectus-exploring-whether-teaching-a-class-on-servant-leadership-causes-statistical-changes-in-sample-population/">M.Ed Capstone Prospectus (Exploring whether teaching a class on servant leadership causes statistical changes in sample population)</a>
+      <p>Research Prospectus<br /> Kon Ham<br /> 29JUL19</p> <p>Capstone Prospectus<br /> Topic<br /> I am looking to understand the effects of teaching a curriculum on servant leadership on the self-perceived feelings...
+      <time datetime="2020-03-21T00:00:00-04:00" class="post-date">21 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/wgu%20final%20projects/2020/03/21/m-ed-capstone-irb-request-for-approval-exploring-whether-teaching-a-class-on-servant-leadership-causes-statistical-changes-in-sample-population/">M.Ed Capstone IRB Request for Approval (Exploring whether teaching a class on servant leadership causes statistical changes in sample population)</a>
+      <p>Western Governors University<br /> Institutional Review Board</p> <p>Request for Approval to Conduct Research</p> <p>This application must be completed and submitted for WGU Institutional Review Board (“IRB”) approval prior to beginning...
+      <time datetime="2020-03-21T00:00:00-04:00" class="post-date">21 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/wgu%20final%20projects/2020/03/21/jst2-evaluation-process-and-recommendation-explanation-of-research-analysis-of-the-robinson-curriculum-saxon-math-and-interpretation-of-data/">JST2 Evaluation Process and Recommendation (Explanation of Research Analysis of the Robinson Curriculum/Saxon Math and Interpretation of Data)</a>
+      <p>Powerpoint currently unavailable. Do you need it? Email me at <a href="mailto:contact@konkham.com">contact@konkham.com</a></p>
+
+      <time datetime="2020-03-21T00:00:00-04:00" class="post-date">21 Mar 2020</time>
+    </li>
+  
+    <li>
+      <a href="/wgu%20final%20projects/2020/03/21/jrt2-evaluation-methodology-and-instrumentation-task-2-i-consider-the-effectiveness-of-the-robinson-curriculum-and-appropriateness-to-my-given-context/">JRT2 Evaluation Methodology and Instrumentation Task 2 (I consider the effectiveness of The Robinson Curriculum and Appropriateness to my given context)</a>
+      <p>Task 2</p> <p>JRT2</p> <p>Kon Ham<br /> 16MAY19</p> <p>A Written Project Presented to the Faculty of the Teachers College of<br /> Western Governors University</p> <p>Product or Program Appropriateness<br /> The Robinson...
+      <time datetime="2020-03-21T00:00:00-04:00" class="post-date">21 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/wgu%20final%20projects/2020/03/21/jrt2-evaluation-methodology-and-instrumentation-task-1-i-evaluate-my-own-lesson-plan-concerning-electrical-safety/">JRT2 Evaluation Methodology and Instrumentation Task 1 (I evaluate my own lesson plan concerning electrical safety)</a>
+      <p>Task 1</p> <p>JRT2</p> <p>Kon Ham<br /> 11MAY19</p> <p>A Written Project Presented to the Faculty of the Teachers College of<br /> Western Governors University</p> <p>Evaluation Plan<br /> The program I will...
+      <time datetime="2020-03-21T00:00:00-04:00" class="post-date">21 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/wgu%20final%20projects/2020/03/21/jqt2-issues-in-measurement-and-evaluation-justification-of-lesson-plan-proposal-to-teach-formative-and-summative-evaluation-to-teachers/">JQT2 Issues in Measurement and Evaluation (Justification of lesson plan proposal to teach formative and summative evaluation to teachers)</a>
+      <p>JQT2 Task Assessment<br /> Kon Ham<br /> Student ID: #001160940<br /> Program Mentor: Ginny Huckaba<br /> Assessment Code: JQT2<br /> June 10, 2019</p> <p>JQT2 Task Assessment<br /> Introduction<br /> I...
+      <time datetime="2020-03-21T00:00:00-04:00" class="post-date">21 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/wgu%20final%20projects/2020/03/21/jpt2-instructional-design-production-lesson-plan-with-electrical-safety/">JPT2 Instructional Design Production (Lessonp plan with electrical safety)</a>
+      <p>JPT2<br /> Kon Ham</p> <h1 id="001160940">001160940</h1> <p>Ginny Huckaba<br /> Assessment Code: JPT2<br /> April 27, 2019<br /> Please see Assessment section of course for complete instructions and rubric.</p> <p>Instructional Unit...
+      <time datetime="2020-03-21T00:00:00-04:00" class="post-date">21 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/wgu%20final%20projects/2020/03/21/jot2-issues-in-instructional-design-learning-theories-expanded-gagne-teaching-for-understanding-design-theory-in-the-scope-of-an-institutional-problem-within-my-organization/">JOT2 Issues in Instructional Design (Learning theories expanded, Gagne, Teaching for Understanding, Design Theory, in the scope of an institutional problem within my organization)</a>
+      <p>Powerpoint currently unavailable. Do you need it? Email me at <a href="mailto:contact@konkham.com">contact@konkham.com</a></p>
+
+      <time datetime="2020-03-21T00:00:00-04:00" class="post-date">21 Mar 2020</time>
+    </li>
+  
+    <li>
+      <a href="/wgu%20final%20projects/2020/03/21/jot2-issues-in-instructional-design-learning-environment-analysis/">JOT2 Issues in Instructional Design (Learning environment analysis)</a>
+      <p>JOT2 Task 1<br /> Kon Ham<br /> Student ID: #001160940<br /> Program Mentor: Ginny Huckaba<br /> Assessment Code: JOT2 Task 1<br /> April 22, 2019</p> <p>JOT2 Task 1<br /> Instructional...
+      <time datetime="2020-03-21T00:00:00-04:00" class="post-date">21 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/wgu%20final%20projects/2020/03/21/jnt2-instructional-design-analysis-institutional-issue-of-electrical-safety-within-my-organization/">JNT2 Instructional Design Analysis (Institutional issue of electrical safety within my organization, including quiz and survey)</a>
+      <p>Kon Ham<br /> Student ID: #001160940<br /> Program Mentor: Ginny Huckaba<br /> Assessment Code: JNT2<br /> April 10, 2019</p> <p>Discussion of Instructional Problem<br /> Enlisted members at my base are...
+      <time datetime="2020-03-21T00:00:00-04:00" class="post-date">21 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/wgu%20final%20projects/2020/03/21/c226-research-design-and-analysis-task-1-creation-of-data-collection-tool-to-determine-relationship-of-parental-involvement-and-childhood-success-likert-scale/">C226 Research Design and Analysis Task 1 (Creation of data collection tool to determine relationship of parental involvement and childhood success; Likert Scale)</a>
+      <p>BFP2: Task 1<br /> Kon Ham<br /> July 2, 2019</p> <p>A Written Project Presented to the Faculty of the Teachers College<br /> of Western Governors University</p> <p>Education-Related Research Topic<br />...
+      <time datetime="2020-03-21T00:00:00-04:00" class="post-date">21 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/wgu%20final%20projects/2020/03/21/c226-research-and-design-analysis-analysis-of-study-of-microteaching-and-anxiety/">C226 Research and Design Analysis (Analysis of study of microteaching and anxiety)</a>
+      <p>BFP2: Task 2<br /> Kon Ham<br /> 06JUL19</p> <p>A Written Project Presented to the Faculty of the Teachers College<br /> of Western Governors University</p> <p>Research Purpose and Research Questions<br />...
+      <time datetime="2020-03-21T00:00:00-04:00" class="post-date">21 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/wgu%20final%20projects/2020/03/21/c225-research-fundamentals-task-2-research-proposal-and-literature-review/">C225 Research Fundamentals Task 2 (Research proposal and literature review)</a>
+      <p>BEP2: Task 2</p> <p>Kon Ham<br /> 20JUN19</p> <p>A Written Project Presented to the Faculty of the Teachers College</p> <p>of Western Governors University</p> <p>Education-Related Research Topic<br /> I am researching the...
+      <time datetime="2020-03-21T00:00:00-04:00" class="post-date">21 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/wgu%20final%20projects/2020/03/21/c225-research-fundamentals-task-1-exploring-research-methods-and-search-terms-in-relation-to-phonological-awareness-and-dhh-children/">C225 Research Fundamentals Task 1 (Exploring research methods and search terms in relation to phonological awareness and DHH children)</a>
+      <p>BEP2: Task 1</p> <p>Kon Ham<br /> 17JUN19</p> <p>A Written Project Presented to the Faculty of the Teachers College</p> <p>of Western Governors University</p> <p>Education Related Research Topic<br /> I am looking...
+      <time datetime="2020-03-21T00:00:00-04:00" class="post-date">21 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/wgu%20final%20projects/2020/03/21/c200-managing-organizations-and-leading-people-task-2-analysis-of-hypothetical-organization-and-my-direct-supervisor/">C200 Managing Organizations and Leading People Task 2 (Analysis of hypothetical organization and my direct supervisor)</a>
+      <p>Organization Description</p> <p>The name of this organization is the Saving Service. This organization was created in 1700, but the modern form of the organization was created in 1910. Prior to...
+      <time datetime="2020-03-21T00:00:00-04:00" class="post-date">21 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/wgu%20final%20projects/2020/03/21/c200-managing-organizations-and-leading-people-task-1-my-clifton-strengths-analysis-and-utilization-of-hypothetical-smart-goals/">C200 Managing Organizations and Leading People Task 1 (My clifton strengths analysis and utilization of hypothetical SMART goals)</a>
+      <p>Clifton Categorical Strengths<br /> Context is the strength that indicates that I am interested in looking into the past to discover the solutions to the problems that are in the...
+      <time datetime="2020-03-21T00:00:00-04:00" class="post-date">21 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/psy476-counseling-final-project-on-harry-potter/">PSY476 Counseling Final Project (On Harry Potter)</a>
+      <p>Kon Ham<br /> PSY476</p> <ol> <li>Case Description<br /> A. Demographic Description<br /> Harry Potter is a 38-year-old male that has grown up in the United Kingdom. Culturally he appears to...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    </li>
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/psy422-psychology-of-the-family-final-project/">PSY422 Psychology of the Family Final Project (A primer on love and family for teens)</a>
+      <p>Family Skills Training<br /> I will be presenting this information to high school students. From here onwards I will be writing as if I am speaking or presenting this information...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/psy421-social-psychology/">PSY421 Social Psychology Final Project (On Toy Story and Social Groups)</a>
+      <p>Scenes That Accurately Represent Social Psychology I<br /> Andy is the owner of the many toys that appear to “live” in Andy’s room. Many of them appear to enjoy their...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/psy411-abnormal-psychology-final-project/">PSY411 Abnormal Psychology Final Project (Hypothetical observation of 12-year-old, anxiety, and CBT)</a>
+      <p>A<br /> For the diagnosis of an anxiety disorder, the following symptoms of the 12-year-old patient were noticed. First, she displays fidgeting, chews her hair, and does not like to...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/psy403-human-sexuality-final-project/">PSY403 Human Sexuality Final Project (On Tumblr's ban on pornography)</a>
+      <p>Kon Ham<br /> PSY403<br /> Find an Article Related to the Topic<br /> https://www.nytimes.com/2018/12/06/opinion/tumblr-adult-content-pornography-ban.html<br /> Provide a Description of the Selected Article and Issue<br /> A. Provide a Brief Summary...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/psy389-cross-cultural-psychology/">PSY389 Cross-Cultural Psychology (On Observations of my own life compared to a colleague's)</a>
+      <p>Introduction<br /> Culture is the mechanism by which we view the world. “As culture is a meaning and information system, it is basically an abstraction that we use to refer...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/psy375-biological-basis-of-behavior/">PSY375 Biological Basis of Behavior Final Project (On schizophrenia)</a>
+      <p>Schizophrenia is a mental illness that affects over 51 million people worldwide. (Getz, 2014) Many of those affected with schizophrenia have auditory hallucinations, paranoia, significant social dysfunction, and cognitive decline....
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/psy355-child-growth-and-development-final-project/">PSY355 Child Growth and Development Final Project (Vygotsky vs. Piaget)</a>
+      <p>“Developmental psychology is a scientific approach which aims to explain growth, change, and consistency through the lifespan. Developmental psychology looks at how thinking, feeling, and behavior change throughout a person’s...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/psy322-personality-theories-final-project/">PSY322 Personality Theories Final Project (On Mother Theresa)</a>
+      <p>“My child, never eat a single mouthful unless you are sharing it with others”, said Dranafile Bojaxhiu to her daughter, Agnes Gonxha Bojaxhiu. (Biography.com Editors, 2018) What Dranafile said to...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/psy321-statistics-for-behavioral-sciences/">PSY321 Statistics for Behavioral Sciences (Relationship on social media vs. GPA)</a>
+      <p>Introduction<br /> Hypothesis 1: Students that have lower GPAs (Less than 3.0) tend to spend more than 10 hours a week on social media.<br /> Hypothesis 2: Students that say...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/psy312-lifespan-development/">PSY312 Lifespan Development Final Project (Observation of myself in the light of life span developmental theory)</a>
+      <p>Bronfenfenner’s theory is based upon an idea of ecological theory. Ecological theory is the idea that “human development is inseparable from the environmental contexts in which a person develops.” In...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/psy311-experimental-psychology-final-project/">PSY311 Experimental Psychology Final Project (The validity of online learning amidst coronavirus shutdown, or how we yold you so)</a>
+      <p>The Future Need for Online Learning<br /> As the global population around the world continues to swell, the need for nontraditional methods of learning will also grow in demand. Our...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/psy302-learning-theory/">PSY302 Learning Theory Final Project (Hypothetical case Study of immigrant employees and business organizations utilizing social learning)</a>
+      <p>This study seeks to find the relationship between social learning and self-efficacy upon individuals and its impact upon professional growth of the individuals. Using social learning and self-efficacy concepts proposed...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/psy301-psychological-testing-and-assessment/">PSY301 Psychological Testing and Assessment Final Project (My recommendation of the Fagan Infant Intelligence Test)</a>
+      <p>Psychological tests can be fun. Those taking these tests can gain insights into an aspect of one’s personality that may have never been discovered if it were not for these...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/psy221-psychology/">PSY221 Psychology Final Project (On David Rockefeller's wealth; did his past influence his future?)</a>
+      <p>What would your adult life look like when you grow up roller-skating down Fifth Avenue while your limousine drives behind you in case you get tired? What if your grandfather...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/eng204-interdisciplinary-reading-and-writing/">ENG204 Interdisciplinary Reading and Writing Final Project (The role of the manager in the light of human action and the age of information. Not happy with this paper.)</a>
+      <p>Those in business management must factor in the element of human action when structuring change in policies or organization in the business. In order to understand the impact of human...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/edu445-advancing-the-professional-final-project-1/">EDU445 Advancing the Profession Final Project 1 (I explore advocacy roles)</a>
+      <p>Kon Ham<br /> EDU445<br /> Determine Your Role in the Advocacy Effort<br /> The advocacy role I have determined to use in this approach is the self-advocacy approach. Specifically, self-advocacy...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/edu445-advancing-the-profession-2-final-project/">EDU445 Advancing the Profession Final Project 2 (My letter to preschool Teachers on professional goal setting)</a>
+      <p>Educate the Preschool Teachers on Professional Goal Setting<br /> Educators,<br /> Have you ever thought to sit and count the amount of thoughts that go through your mind in a...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/edu435-adminstration-ii-leadership-and-supervision/">EDU435 Adminstration II: Leadership and Supervision Final Project (A hypothetical leader of introduction to new employees of my day care center)</a>
+      <p>Kon Ham<br /> EDU435<br /> Introduction<br /> My name is Kon Ham, and I am most especially honored and pleased to be a part of your team. Please allow me...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/edu425-adminstration-i-program-management/">EDU425 Adminstration I: Program Management Final Project (Organizational framework of hypothetical child care center)</a>
+      <p>Organizational Framework – Vision Statement<br /> Imagination Day Care Center is a Christian day care ministry that provides high quality child care that results in children reading before they enter...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/edu365-teaching-young-children-in-a-diverse-society-final-project/">EDU365 Teaching Young Children in a Diverse Society Final Project (Hypothetical assessments of observations of young yhildren from diverse backgrounds)</a>
+      <p>A<br /> The first problem that I have noticed is the lack of communication and support from Yolanda and the community of educators involved in the process of teaching Daniel....
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/edu345-observation-and-assessment-final-project/">EDU345 Observation and Assessment Final Project (Hypothetical Portfolio of Young Child directed to Parents)</a>
+      <p>Portfolio of Observation and Assessment for<br /> Josue<br /> Permission Form<br /> To Observe, to Make Assessment, and to Create a Portfolio<br /> Student and Parent Agreement<br /> I am...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/edu335-intro-to-children-with-special-needs-final-project/">EDU335 Intro to Children with Special Needs Final Project (Cerebral palsy and therapy methods)</a>
+      <p>Describe the Types of Characteristics That Lead to a Professional Diagnosis<br /> Although there are signs that are visible to professionals when attempting to diagnose cerebral palsy, not all of...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/edu325-infant-and-toddler-growth-and-development-final-project/">EDU325 Infant and Toddler Growth and Development Final Project (Infant milestones and hypothetical pathways to improvements for early childhood educators)</a>
+      <p>This is a case study of the infants and toddlers of Newberry Child Care Center. Newberry Child Care Center is located in Newberry, South Carolina. This center provides for infants...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/com146-communication-final-project/">COM146 Communication (Powerpoint transcript on hypothetical situation where I try to convince my boss to allow me to telecommute. Relevant to Coronavirus threat in 2021)</a>
+      <p>Youtube Link to Video: https://youtu.be/U4jzbKAQ5fc<br /> (Scott is my imaginary boss)</p> <p>Name: Kon Ham<br /> Topic: Telecommuting Benefits<br /> General Purpose: To Persuade<br /> Specific Purpose: To persuade my boss...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/cis101-computer-literacy-final-project/">CIS101 Computer Literacy Final Project (Benefits of hypothetical printing company to switch to software as a service (SaaS) model)</a>
+      <p>System Background and Functionality</p> <p>Software as a service is a major function of larger companies who are looking towards the future of internet connectivity and increased efficiency between businesses and...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/bus209-financial-accounting-final-project/">BUS209 Financial Accounting Final Project (Terrible accounting analysis of hypothetical company. Fire me!)</a>
+      <p>Table of Contents and Report Objective:<br /> Summary of Background, Mission, and Product Lines<br /> Summary of Organization’s Outlook and Future Investments<br /> Summary of Revenue, Assets, Liabilities, and Shareholder’s...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/bus-220-microeconomics-final-project/">BUS220 Microeconomics Final Project (Netflix analysis and further suggestions. Relevant as of 20MAR20. I recommend and predict that Netflix will implement &#8220;social viewings&#8221; of movies in order to differentiate itself from other streaming services)</a>
+      <p>Netflix is a company founded by Reed Hastings in 1999. The company originally<br /> started with a mail-by-order DVD rental service. (“How Netflix got started”, 2009)<br /> Although Netflix still...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jfku%20final%20projects/2020/03/20/art_220-introduction-to-film-final-project/">ART220 Introduction to Film Final Project (Analysis of 'The Godfather')</a>
+      <p>We are introduced to the Corleone family through a wedding. It is the wedding of Connie Corleone, daughter of Vito Corleone. Vito Corleone is the Don, or head executive of...
+      <time datetime="2020-03-20T00:00:00-04:00" class="post-date">20 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/jekyll/2020/03/01/whats-jekyll/">What's Jekyll?</a>
+      <p><a href="https://jekyllrb.com">Jekyll</a> is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From <a href="https://github.com/jekyll/jekyll/blob/master/README.markdown">the project’s readme</a>:</p> <blockquote> <p>Jekyll is a...
+      <time datetime="2020-03-01T00:00:00-05:00" class="post-date">01 Mar 2020</time>
+    &lt;/li&gt;
+  
+    <li>
+      <a href="/me%20mudder/poetry/2020/01/11/a-poem-to-me-mudder-anonymous/">A Poem To Me Mudder (Anonymous)</a>
+      <p>When my prayers were poorly said,</p> <p>Who Tucked me in my widdle bed,</p> <p>And spanked me till me ass was red?</p> <p>Me Mudder.</p> <p>Who took me from me cozy cot,</p>...
+      <time datetime="2020-01-11T00:00:00-05:00" class="post-date">11 Jan 2020</time>
+    </li>
+  
+&lt;/ul&gt;
+
+
+
+
+## Contact Information:
+My email is: [contact@konkham.com](mailto:contact@konkham.com) or [info.konham@gmail.com](mailto:info.konham@gmail.com)
+My Github is: [github.com/kon-ham](github.com/kon-ham)
+My LinkedIn is: [linkedin.com/in/kon-ham](linkedin.com/in/kon-ham)
+</p></blockquote></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></ol></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></blockquote></li></p></li></p></li></strong></p></blockquote></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></ul>
+:ET
