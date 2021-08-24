@@ -1,11 +1,6 @@
 ---
-id: 3223
-title: In this time of isolation, be thankful.
-date: 2021-03-18T01:58:21+00:00
-author: Kon
 layout: post
-guid: https://konkham.com/?p=3223
-permalink: /in-this-time-of-isolation-be-thankful/
+title: In this time of isolation, be thankful
 categories: [Thankfulness, Death]
 ---
 I think the natural tendency as you get older is to know of people that have died. Looking back I know of people that have had their life taken away unexpectedly and even while in the midst of trying to have a little fun. 
