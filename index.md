@@ -24,7 +24,7 @@ Thanks for visiting!
 
 <strong>I'm looking to join a great team.</strong><br>
 Do you know of any junior-mid level openings? Here's my <a
-href="https://github.com/kon-ham/kon-ham.github.io/blob/main/resume.pdf">resume.</a>
+href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume.pdf">resume.</a>
 </p>
 
 ---
