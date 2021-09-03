@@ -4,13 +4,44 @@
  <title>Kon Ham</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-08-24T15:36:25-04:00</updated>
+ <updated>2021-09-02T20:05:54-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Breaking Demeter Explained</title>
+   <link href="http://localhost:4000/2021/09/02/breaking-demeter-explained/"/>
+   <updated>2021-09-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2021/09/02/breaking-demeter-explained</id>
+   <content type="html">&lt;h1 id=&quot;breaking-demeter&quot;&gt;Breaking Demeter&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/kon-ham/breaking_demeter&quot;&gt;Breaking Demeter - An obnoxious (and mostly useless) study in the (im)proper selection of nested classes and collections&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I had shared this post earlier - but I think it’s due for an explanation of what this repo is meant to accomplish.&lt;/p&gt;
+
+&lt;p&gt;For context, I was learning to code with Ruby as I was attending Turing School of Software and Design. Other students and myself were having trouble visualizing or understanding how nested collections could be accessed. In order to help deepend our understanding, I created a tutorial on how to do just that - except in the most obnoxious way possible.&lt;/p&gt;
+
+&lt;p&gt;Of course, it’s not ideal to access one object’s attributes if you must go through two or three objects in order to get what you need - if you are doing this you probably could afford to rethink some of your design as doing so is not very Object Oriented Programming-like, hence why we have general design guidelines like the Law of Demeter which suggest that you minimize the amount of reaching through different objects to simply one. One object to reach through another. No more.&lt;/p&gt;
+
+&lt;p&gt;This repo and tutorial is a play-on the name of the Law of Demeter and without shame breaks the Law of Demeter many, many times.&lt;/p&gt;
+
+&lt;p&gt;I justify breaking such a design principle here in order to help learners visualize with &lt;code class=&quot;highlighter-rouge&quot;&gt;binding.pry&lt;/code&gt; how you could access one object through another, ad nauseum.&lt;/p&gt;
+
+&lt;p&gt;My hope is that at the very minimum, a person going through this test will eventually come to realize that while yes, you can access the attributes of one object by going through three or four different objects, it’s obnoxious and not very suited for developer empathy.&lt;/p&gt;
+
+&lt;p&gt;Plus, you miss out on some of the benefits of object oriented programming like being able to abstract out the purpose of an object into more simple objects. (One object, one job.)&lt;/p&gt;
+
+&lt;p&gt;I wrote the lesson with the hope of being a short primer into nested collections and objects while injecting a bit of humor into the material in order to keep things relatively interesting.&lt;/p&gt;
+
+&lt;p&gt;Hope you enjoy!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/kon-ham/breaking_demeter&quot;&gt;Breaking Demeter - An obnoxious (and mostly useless) study in the (im)proper selection of nested classes and collections&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>LinkedIn Posts pt. 5</title>
@@ -1652,7 +1683,7 @@ BELIEVE IN THAT! the play – always, ALWAYS BE PREPARED FOR ANY CIRCUMSTANCE AN
 
 &lt;p&gt;Poole is the butler for &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, the static site generator. It’s designed and developed by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt; to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.&lt;/p&gt;
 
-&lt;p&gt;This demo site was last updated August 24, 2021.&lt;/p&gt;
+&lt;p&gt;This demo site was last updated September 02, 2021.&lt;/p&gt;
 
 &lt;p&gt;There are currently two themes built on Poole:&lt;/p&gt;
 

@@ -1,0 +1,103 @@
+I"�<h1 id="hi-kon-here">Hi! Kon here.</h1>
+
+<p>Use the top right panel to navigate through the site.</p>
+
+<h3 id="table-of-contents">Table of Contents:</h3>
+
+<ul>
+  <li>
+    <h3 id="announcements"><a href="#announcements">Announcements</a></h3>
+  </li>
+  <li>
+    <h3 id="my-latest-coding-projects"><a href="#my-latest-coding-projects">My Latest Coding Projects</a></h3>
+  </li>
+  <li>
+    <h3 id="my-recent-posts"><a href="#my-recent-posts">My Recent Posts</a></h3>
+  </li>
+  <li>
+    <h3 id="contact-information"><a href="#contact-information">Contact Information</a></h3>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="-announcements"><a name="announcements"></a> Announcements:</h2>
+
+<p class="message">
+
+<strong>I'm looking to join a great team.</strong><br />
+Do you know of any junior-mid level openings? Here's my <a href="https://github.com/kon-ham/kon-ham.github.io/blob/main/resume.pdf">resume.</a>
+</p>
+
+<hr />
+
+<h2 id="my-latest-coding-projects-1">My Latest Coding Projects:</h2>
+
+<ul>
+  <li>
+    <p><strong>Pawty-Trainer</strong> is a web-application to track your dog’s training. Manage a training schedule via calendar. Users can customize dogs through name, breed, age. CRUD functionality. Earn badges for completed your dog’s training.</p>
+
+    <ul>
+      <li>Link to the front-end Github repository: <a href="https://github.com/Pawty-Trainer/pawty-trainer">here</a></li>
+      <li>Link to the back-end Github repository: <a href="https://github.com/Pawty-Trainer/pawty-trainer-api">here</a></li>
+      <li>Link to the live site: <a href="https://pawty-trainer.github.io/pawty-trainer">here</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Find My City</strong> is a city finding web application that allows users to search and sort cities by criteria they find most important. Get scores for major cities. Save your favorite cities.</p>
+
+    <ul>
+      <li>Link to the front-end Github repository:  <a href="https://github.com/NoahZinter/find_my_city_fe">here</a>.</li>
+      <li>Link to the back-end Github repository:  <a href="https://github.com/NoahZinter/find_my_city_be">here</a>.</li>
+      <li>Link to the live site:    <a href="https://helpmefindmycity.herokuapp.com">here</a>.</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Sweater Weather</strong> is an API-only application. Find weather data for the city you are traveling to. Know what the weather will be like whether you arrive three hours later or three days later.</p>
+
+    <ul>
+      <li>Link to the Github repository: <a href="https://github.com/kon-ham/sweater_weather">here</a>.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="my-recent-posts">My Recent Posts:</h2>
+<ul>
+  
+  <li>
+      <a href="/2021/09/02/breaking-demeter-explained/">Breaking Demeter Explained</a>
+        <!-- <h1 id="breaking-demeter">Breaking Demeter</h1> <p><a href="https://github.com/kon-ham/breaking_demeter">Breaking Demeter - An obnoxious (and mostly useless) study in the (im)proper selection of nested classes and collections</a></p> <p>I had shared this post earlier - but... -->
+        <!-- <time  datetime="2021-09-02T00:00:00-04:00"  class="post-date">02 Sep 2021</time> -->
+  </li>
+  
+  <li>
+      <a href="/pessimism/outlook/boundaries/trust/discernment/2021/07/09/linkedin-posts-pt-5/">LinkedIn Posts pt. 5</a>
+        <!-- <p>The biggest cost of a pessimistic outlook is that you are likely to convince yourself that there is no reason to leave behind a legacy.</p> <p>A pessimistic civilization no longer... -->
+        <!-- <time  datetime="2021-07-09T00:00:00-04:00"  class="post-date">09 Jul 2021</time> -->
+  </li>
+  
+  <li>
+      <a href="/schooling/society/education/2021/07/09/future-of-school-and-society/">The Future of School and Society</a>
+        <!-- <p>A child can finish a K-12 curriculum through Khan Academy for $0.00. It will probably take 4-8 years, depending on innate aptitude and assuming the average student.</p> <p>You are making... -->
+        <!-- <time  datetime="2021-07-09T00:00:00-04:00"  class="post-date">09 Jul 2021</time> -->
+  </li>
+  
+  <li>
+      <a href="/emt-b/drowning/drinking/holiday/guns/safety/4th%20of%20july/2021/07/07/thoughts-as-a-fresh-emt-grad/">Thoughts As A Fresh EMT-B Grad</a>
+        <!-- <p>By the time I graduated EMT school, I learned there was a million and one ways to die.</p> <p>Here are a few tips from an EMT newbie that might save... -->
+        <!-- <time  datetime="2021-07-07T00:00:00-04:00"  class="post-date">07 Jul 2021</time> -->
+  </li>
+  
+  <li>
+      <a href="/writing/patience/forgiveness/rest/worklife%20balance/boundaries/joel%20salatin/michael%20c.%20pollan/omnivore's%20dilemma/creative%20desert/linkedin/travel/story%20telling/dating%20sites/danny%20trejo/honesty/salesmanship/illiteracy/advocacy/income%20share%20agreements/hyundai/advertising/2021/07/07/linkedin-posts-pt-4/">LinkedIn Posts pt. 4</a>
+        <!-- <p>I see a lot of posts from people that say they are open to work.</p> <p>Yet they hardly post anything else.</p> <p>Part of life is being OK with rejection. Not... -->
+        <!-- <time  datetime="2021-07-07T00:00:00-04:00"  class="post-date">07 Jul 2021</time> -->
+  </li>
+  
+</ul>
+
+<h3 id="contact-information-1">Contact Information:<a name="contact-information"></a></h3>
+<p>My email is: <a href="mailto:contact@konkham.com">contact@konkham.com</a> or <a href="mailto:info.konham@gmail.com">info.konham@gmail.com</a><br />
+My Github is: <a href="github.com/kon-ham">github.com/kon-ham</a><br />
+My LinkedIn is: <a href="linkedin.com/in/kon-ham">linkedin.com/in/kon-ham</a></p>
+:ET
