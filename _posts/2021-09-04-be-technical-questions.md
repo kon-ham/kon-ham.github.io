@@ -167,6 +167,16 @@ CORS is a solution to that problem. CORS is cross-origin resource sharing. While
 
 ### What is the difference between synchronous vs. asynchronous?
 
+We can refer to synchronous vs asynchronous as relating to work done. Synchronous work means that work is done in a specific order, whereas asynchronous work means that work is not done in a specific order. 
+
+Synchronous work means that work is not done until a specific task is completed. Asynchronous work could mean the work is started immediately or not until some amount of time in the future. 
+
 ### What is the difference between a function declaration vs a function expression
 
+Function declarations are loaded before any code is executed whereas function expressions are executed as the interpretor reaches that line of code. You may want to utilize a function expression if you are trying to avoid global scope. Function declaratives may be utilized if you need them more often than not. (Is it being needed often?)
+
 ### In as much detail as possible, tell me about JSON Web Tokens
+
+A JSON webtoken is an open standard that allows for securely transmitted data between parties. It is sent as a JSON object and can be sent with a digital signature - sometimes an encryption or a key pair.
+
+We normally use JSON web tokens to transmit information or to provide authorization for users.
