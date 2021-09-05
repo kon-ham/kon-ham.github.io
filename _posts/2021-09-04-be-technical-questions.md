@@ -25,7 +25,7 @@ array.count => 4
 
 ```
 
-- Enumerable#drop(n) will iterate through each element of the collection and drop the (n) number of elements in the collection, starting from the first element. It will return the rest of the elements in the array
+- Enumerable#drop(n) will iterate through each element of the collection and drop the (n) number of elements in the collection, starting from the first element. It will return the rest of the elements in the array.
 
 ```
 
@@ -131,23 +131,70 @@ This is unlike Ruby or JavaScript, which is what we call an interpreted language
 
 ### Tell me two advantages of testing your code
 
-- I know that potentially the code will run without errors in production
+- I know that potentially the code will run without errors in production.
 
-- Testing my code allows me to overcome bias in my own assumptions about what I expect my code to do
+- Testing my code allows me to overcome bias in my own assumptions about what I expect my code to do.
 
 ### How would you describe the prototype in Javascript?
 
+A prototype is a means by which a user is able to inherit all of the methods of an instance to all objects of that instance. 
+
 ### Here at Turing you have used two types of testing Minitest and RSpec. Please give your opinion/comparison of the two.
+
+As far as I know, Minitest does not allow for integration testing where as RSpec does. I have no particular affection for one or the other - I will use what is utilized within my organization. I am aware that RSpec is probably more often than not what is used in organizations, so luckily I have ample experience with RSpec. 
 
 ### My production and development environments are using large sets of data. What are some ways to optimize my tests to run quickly, but be thorough?
 
+- By ensuring that the testing environment only needs to be set up once or as little as possible. 
+
+- Utilization of CI which begins testing immediately upon committing to Github. 
+
+- Stubbing network requests through the use of Rails gems like `Webmock` or `VCR`.
+
+- If budget allows, update computer hardware in which testing is done.
+
+- Run parallel tests on multiple machines to reduce the amount of core usage for each CPU.
+
+- Limit the number of gem dependencies by utilizing Gem blocks i.e, does this gem need to be in both development and test?
+
+- Rely less on database operations and utilize tools like `Faker` and `Factorybot`.
+
 ### What is a Mock vs. a Stub in testing? When would you use each?
+
+Stubs replace your methods by implmenting hard-coded data. Mocks have expectations in that it is dependent upon how an assertion is made.
 
 ### What is yield in Ruby? What is it useful for? Give an example of where you would put it.
 
+A yield is utilized in Ruby when calling a block of code. Yield allows me to forgo having to name a variable - the `yield` keyword itself acts as a variable that allows me to insert any number of arguments. I might use a `yield` when I am developing a block of code in which I am not exactly sure about specific variable names - utilizing `yield` I can forgo naming my variables until later when I am ready to define my work. 
+
+```
+def a_greeting
+    yield "Kon"
+    yield "Ham"
+end
+
+a_greeting { |name| puts "Hello, my name is #{name}!" }
+```
+results in:
+
+```
+Hello, my name is Kon!
+Hello, my name is Ham!
+```
+
 ### Describe each of the four fundamental concepts of object-oriented programming.
 
+- Polymorphism - Objects can have similarities to parent classes while at the same time having its own unique set of methods or functions.
+
+- Abstraction - Only relevant information about that object is shown. 
+
+- Encapsulation - Limiting the amount of access one object has to another.
+
+- Inheritance - Objects can inherit methods or functions from its parent classes for the sake of reusability. 
+
 ### An enumerable by any other name still behaves the same. Give the other name for these 3 Ruby enumerables Detect, Select, Collect
+
+`.select_all` (I'm not sure I understand this question. I'll come back to it later.)
 
 ### In as much detail as possible, describe DNS.
 
