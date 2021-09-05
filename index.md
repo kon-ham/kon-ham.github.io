@@ -11,10 +11,10 @@ Thanks for visiting!
 
 ### Table of Contents: 
 
- - ### [Announcements](#announcements-link) 
- - ### [My Latest Coding Projects](#my-latest-coding-projects-link) 
- - ### [My Recent Posts](#my-recent-posts-link) 
- - ### [Contact Information](#contact-information-link)
+ - #### [Announcements](#announcements-link) 
+ - #### [My Latest Coding Projects](#my-latest-coding-projects-link) 
+ - #### [My Recent Posts](#my-recent-posts-link) 
+ - #### [Contact Information](#contact-information-link)
 
 ---
 
