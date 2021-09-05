@@ -33,6 +33,13 @@ array.include? 9000 => false
 ### In as much detail as possible, describe the request-response cycle.
 ### What’s a module in Ruby? What’s the difference between a class and a module? What are some good use cases for modules?
 ### What are a few ways to optimize a Rails application?
+One example would be to utilize Active Record methods when making database queries. For example, `.length` is not actually an ActiveRecord method - but rather a Ruby method. While this would work, it technically is not very good practice. Instead of `.length`, you can utilize `.size`, which is much faster and efficient in terms of memory usage.
+
+Another way is the utilization of well-known or widely appreciated Ruby gems like the `Bullet gem`, which address the `N+1` problem. Usually this could mean that in a one-to-many relationship, a database will often times make a query for the parent database as well as a query for each child database of that parent. In a larger scale application, this can lead to your database being overrun with queries. Sometimes this redundancy can be hard to see so gems like `Bullet gem` can help us to reduce the total number of `N+1` problems.
+
+You could also utilize indexes in a database, which act as placeholders for a query. Since a database has to check every individual cell to grab the information needed from a request, a large database would get very tedious for your Rails application. 
+
+And another way is to utilize caching: [https://guides.rubyonrails.org/v3.2/caching_with_rails.html#page-caching](https://guides.rubyonrails.org/v3.2/caching_with_rails.html#page-caching)
 ### What is HTTP and give a brief definition?
 HTTP stands for hyper-text transfer protocol. We can understand protocol as a system of rules by which information or data is exchanged between computers. Usually a client, which we can understand as a web browser, will send out messages to another computer or server, which we call requests. Then that computer (server) will then respond with its own messages which we call a response. 
 
