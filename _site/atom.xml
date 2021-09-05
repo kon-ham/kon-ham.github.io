@@ -4,7 +4,7 @@
  <title>Kon Ham</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-09-02T20:05:54-04:00</updated>
+ <updated>2021-09-05T09:44:46-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -13,10 +13,283 @@
 
  
  <entry>
+   <title>BE Technical Questions for Interview Prep</title>
+   <link href="http://localhost:4000/tech/backend%20engineering/2021/09/04/be-technical-questions/"/>
+   <updated>2021-09-04T00:00:00-04:00</updated>
+   <id>http://localhost:4000/tech/backend%20engineering/2021/09/04/be-technical-questions</id>
+   <content type="html">&lt;h3 id=&quot;what-is-the-difference-between-arraymap-and-arrayeach&quot;&gt;What is the difference between Array#map and Array#each?&lt;/h3&gt;
+
+&lt;p&gt;Whenever you finish iterating over your elements, &lt;code class=&quot;highlighter-rouge&quot;&gt;Array#each&lt;/code&gt; will return the original array while &lt;code class=&quot;highlighter-rouge&quot;&gt;Array#map&lt;/code&gt; will return a new array. Both iterative methods iterate. &lt;code class=&quot;highlighter-rouge&quot;&gt;Array#map&lt;/code&gt; actually incorporates the Array#each method while transforming the values of the array in a new array.&lt;/p&gt;
+
+&lt;h3 id=&quot;name-4-ruby-enumerables-excluding-each-and-map-and-give-a-brief-example-of-whats-unique-about-each&quot;&gt;Name 4 ruby enumerables excluding each and map and give a brief example of what’s unique about each.&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Enumerable#all?&lt;/code&gt; method iterates through each element of the collection and returns true if the included argument is never false or nil.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;array = ['cat', 'bat', 'sat']
+
+array.all? { | word | word.length == 3 } =&amp;gt; true
+
+array.all? { |word | word.length == 0 } =&amp;gt; false
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Enumerable#count&lt;/code&gt; method iterates through each element in the collection and returns the total amount of elements inside of the collection.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+array = ['john', 'ny', 'apple', 'seed']
+
+array.count =&amp;gt; 4
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Enumerable#drop(n)&lt;/code&gt; will iterate through each element of the collection and drop the (n) number of elements in the collection, starting from the first element. It will return the rest of the elements in the array.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+array = [1, 2, 3, 4, 5]
+
+array.drop(1) =&amp;gt; [2, 3, 4, 5]
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Enumerable#include?&lt;/code&gt; will iterate through each element and return true if any of the elements match the argument.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+array = [1, 2, 3, 4, 5, 6, 7]
+
+array.include? 9000 =&amp;gt; false
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;in-as-much-detail-as-possible-describe-the-request-response-cycle&quot;&gt;In as much detail as possible, describe the request-response cycle.&lt;/h3&gt;
+
+&lt;p&gt;A user types in a request utilizing their client which we call a browser. The request eventually will make its way through the servers to our Rails &lt;code class=&quot;highlighter-rouge&quot;&gt;routes.rb&lt;/code&gt; file. Our &lt;code class=&quot;highlighter-rouge&quot;&gt;routes.rb&lt;/code&gt; file will then determine the closest match with the URL and HTTP request and match it with the controllers and action in our Rails application. Then the view is generated and the response is sent back to the user.&lt;/p&gt;
+
+&lt;h3 id=&quot;whats-a-module-in-ruby-whats-the-difference-between-a-class-and-a-module-what-are-some-good-use-cases-for-modules&quot;&gt;What’s a module in Ruby? What’s the difference between a class and a module? What are some good use cases for modules?&lt;/h3&gt;
+
+&lt;p&gt;A module is a collection of methods and constants (otherwise known as a library of methods). Unlike classes, modules cannot generate an instance of an object. Classes can have instance variables and objects.&lt;/p&gt;
+
+&lt;p&gt;Modules may not inherit anything whereas a class can inherit from another class.&lt;/p&gt;
+
+&lt;p&gt;Modules are great for augmenting a class’s functionality.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-are-a-few-ways-to-optimize-a-rails-application&quot;&gt;What are a few ways to optimize a Rails application?&lt;/h3&gt;
+
+&lt;p&gt;One example would be to utilize Active Record methods when making database queries. For example, &lt;code class=&quot;highlighter-rouge&quot;&gt;.length&lt;/code&gt; is not actually an ActiveRecord method - but rather a Ruby method. While this would work, it technically is not very good practice. Instead of &lt;code class=&quot;highlighter-rouge&quot;&gt;.length&lt;/code&gt;, you can utilize &lt;code class=&quot;highlighter-rouge&quot;&gt;.size&lt;/code&gt;, which is much faster and efficient in terms of memory usage.&lt;/p&gt;
+
+&lt;p&gt;Another way is the utilization of well-known or widely appreciated Ruby gems like the &lt;code class=&quot;highlighter-rouge&quot;&gt;Bullet gem&lt;/code&gt;, which address the &lt;code class=&quot;highlighter-rouge&quot;&gt;N+1&lt;/code&gt; problem. Usually this could mean that in a one-to-many relationship, a database will often times make a query for the parent database as well as a query for each child database of that parent. In a larger scale application, this can lead to your database being overrun with queries. Sometimes this redundancy can be hard to see so gems like &lt;code class=&quot;highlighter-rouge&quot;&gt;Bullet gem&lt;/code&gt; can help us to reduce the total number of &lt;code class=&quot;highlighter-rouge&quot;&gt;N+1&lt;/code&gt; problems.&lt;/p&gt;
+
+&lt;p&gt;You could also utilize indexes in a database, which act as placeholders for a query. Since a database has to check every individual cell to grab the information needed from a request, a large database would get very tedious for your Rails application.&lt;/p&gt;
+
+&lt;p&gt;And another way is to utilize caching: &lt;a href=&quot;https://guides.rubyonrails.org/v3.2/caching_with_rails.html#page-caching&quot;&gt;https://guides.rubyonrails.org/v3.2/caching_with_rails.html#page-caching&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-http-and-give-a-brief-definition&quot;&gt;What is HTTP and give a brief definition?&lt;/h3&gt;
+
+&lt;p&gt;HTTP stands for hyper-text transfer protocol. We can understand protocol as a system of rules by which information or data is exchanged between computers. Usually a client, which we can understand as a web browser, will send out messages to another computer or server, which we call requests. Then that computer (server) will then respond with its own messages which we call a response.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-are-three-tools-or-strategies-you-use-to-prevent-shipping-unstable-code-to-production&quot;&gt;What are three tools or strategies you use to prevent shipping unstable code to production?&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The use of continuous integration which would catch any potential errors before the code is shipped to production.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The use of clear workflow between developers as well as adequate code review integrated in the Git workflow.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The practice of releasing smaller production code often as opposed to releasing a large set of code with down time in between each shipping interval.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;whats-a-background-worker-when-would-we-want-to-use-a-background-worker&quot;&gt;What’s a background worker? When would we want to use a background worker?&lt;/h3&gt;
+
+&lt;p&gt;A background worker is a job that extends beyond the typical request a client could make to our application. Sometimes we don’t want an job to be completed instantaneously or we need a feature to do work once a user completes a task, which could take longer than the usual instantaneous response we’d expect. Sometimes the advantage of this background worker is that it enables you to queue work to be done at a later time. This also allows for us to retry work if sometimes the work fails the first time.&lt;/p&gt;
+
+&lt;p&gt;This means that we do not have to rely upon the User to act as a catalyst for events.&lt;/p&gt;
+
+&lt;h3 id=&quot;whats-the-difference-between-a-session-and-a-cookie&quot;&gt;What’s the difference between a session and a cookie?&lt;/h3&gt;
+
+&lt;p&gt;The biggest difference between a session and a cookie is that a cookie is data that is stored on a user’s browser, whereas a session involves storing a user’s data on a server.&lt;/p&gt;
+
+&lt;p&gt;A cookie’s maximum allowed data is 4KB whereas on a session the amount of data we can store for each user is unlimited. Cookies are set to be destroyed at a given amount of lifetime whereas sessions are usually deleted whenever a user logs out or closes the browser.&lt;/p&gt;
+
+&lt;h3 id=&quot;explain-a-git-merge-workflow-vs-a-git-rebase-workflow&quot;&gt;Explain a git merge workflow vs a git rebase workflow&lt;/h3&gt;
+
+&lt;p&gt;A git merge workflow allows for a timeline of events. It is also non-destructive as in existing branches are not changed in any way. However, if your &lt;code class=&quot;highlighter-rouge&quot;&gt;main&lt;/code&gt; branch is very active, you may have a lot of extra data that you’d not be very interested in. Utilizing git rebase allows for a much more cleaner git history interface. We can see commits happen in a history of time-line by feature rather than by commits. This also allows for you to avoid having to merge to main.&lt;/p&gt;
+
+&lt;p&gt;As long as we can utilize the Golden Rule of Rebase, which is to never rebase on public branches, rebase can be a workflow for specific uses!&lt;/p&gt;
+
+&lt;h3 id=&quot;whats-the-difference-between-authentication-and-authorization-what-tools-have-you-used-to-set-up-auth-in-the-past&quot;&gt;What’s the difference between authentication and authorization? What tools have you used to set up auth in the past?&lt;/h3&gt;
+
+&lt;p&gt;Authentication is making sure that the user is actually who they say they are. Authorization is giving someone access once authentication has been made.&lt;/p&gt;
+
+&lt;p&gt;An example of this is when you go to a venue that sells alcohol. Perhaps there is a bouncer at the front door. You know the deal. You must show your ID to the bouncer. The bouncer checks the ID (or pretends to check it) and looks at your face. They are happy with your ID and facial recognition. You’ve now been authenticated.&lt;/p&gt;
+
+&lt;p&gt;The bouncer then allows you to enter the venue. This is now authorization. You have user authorization to enter the venue. Happy drinking!&lt;/p&gt;
+
+&lt;p&gt;We’ve utilized authentication by creating a User’s controller in which a user must provide email and password. Once the account is created, we then confirm the user has the correct password and then give the user authorization to access the site.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-tdd-and-give-a-brief-definition&quot;&gt;What is TDD and give a brief definition?&lt;/h3&gt;
+
+&lt;p&gt;TDD is an acronym for test driven development. This is a method of development in which unit test cases are built before the code is developed. It is iterative, or repeated over and over again, combining programming, creation of unit tets, and refactoring.&lt;/p&gt;
+
+&lt;p&gt;This process is sometimes reflected in the phrase “red-green-refactor”:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Red: Build tests. Run tests. Tests are failing.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Green: Build code to pass test. Run tests. Code is built. Tests are passing.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Refactor: Optimize code. Run tests. Tests are passing.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;what-does-api-stand-for-and-how-do-you-define-it&quot;&gt;What does API stand for and how do you define it?&lt;/h3&gt;
+
+&lt;p&gt;An API is short for application programming interface. APIs are a convenient means to allow users to access only very specific portions of data that exists on your server. An API is a type of software interface, which means that an API is a software designed to talk to another software. Users do not usually consume raw API data. It is usually converted into useful data that humans can digest easily. A very common format of an API is JSON. GraphQL is a competitor to JSON.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-does-it-mean-to-compile-code&quot;&gt;What does it mean to compile code?&lt;/h3&gt;
+
+&lt;p&gt;Compiling code means that you take the source code, which we can refer to as human readable language, and it then translates source code into machine code. Machine code is known as binary code which reflects the transistor state of computers. Essentially on and off switches. Since it’s not very useful for humans to know binary, we can utilize a compiler to translate the hard work of taking human readable language into machine code.&lt;/p&gt;
+
+&lt;p&gt;This is unlike Ruby or JavaScript, which is what we call an interpreted language. This means that the language is interpreted into machine code without the use of a compiler. There are pros and cons to each approach, of which I will not get into here.&lt;/p&gt;
+
+&lt;h3 id=&quot;tell-me-two-advantages-of-testing-your-code&quot;&gt;Tell me two advantages of testing your code&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;I know that potentially the code will run without errors in production.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Testing my code allows me to overcome bias in my own assumptions about what I expect my code to do.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;how-would-you-describe-the-prototype-in-javascript&quot;&gt;How would you describe the prototype in Javascript?&lt;/h3&gt;
+
+&lt;p&gt;A prototype is a means by which a user is able to inherit all of the methods of an instance to all objects of that instance.&lt;/p&gt;
+
+&lt;h3 id=&quot;here-at-turing-you-have-used-two-types-of-testing-minitest-and-rspec-please-give-your-opinioncomparison-of-the-two&quot;&gt;Here at Turing you have used two types of testing Minitest and RSpec. Please give your opinion/comparison of the two.&lt;/h3&gt;
+
+&lt;p&gt;As far as I know, Minitest does not allow for integration testing where as RSpec does. I have no particular affection for one or the other - I will use what is utilized within my organization. I am aware that RSpec is probably more often than not what is used in organizations, so luckily I have ample experience with RSpec.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-production-and-development-environments-are-using-large-sets-of-data-what-are-some-ways-to-optimize-my-tests-to-run-quickly-but-be-thorough&quot;&gt;My production and development environments are using large sets of data. What are some ways to optimize my tests to run quickly, but be thorough?&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;By ensuring that the testing environment only needs to be set up once or as little as possible.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Utilization of CI which begins testing immediately upon committing to Github.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Stubbing network requests through the use of Rails gems like &lt;code class=&quot;highlighter-rouge&quot;&gt;Webmock&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;VCR&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If budget allows, update computer hardware in which testing is done.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Run parallel tests on multiple machines to reduce the amount of core usage for each CPU.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Limit the number of gem dependencies by utilizing Gem blocks i.e, does this gem need to be in both development and test?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Rely less on database operations and utilize tools like &lt;code class=&quot;highlighter-rouge&quot;&gt;Faker&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;Factorybot&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;what-is-a-mock-vs-a-stub-in-testing-when-would-you-use-each&quot;&gt;What is a Mock vs. a Stub in testing? When would you use each?&lt;/h3&gt;
+
+&lt;p&gt;Stubs replace your methods by implementing hard-coded data. Mocks have expectations in that it is dependent upon how an assertion is made.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-yield-in-ruby-what-is-it-useful-for-give-an-example-of-where-you-would-put-it&quot;&gt;What is yield in Ruby? What is it useful for? Give an example of where you would put it.&lt;/h3&gt;
+
+&lt;p&gt;A yield is utilized in Ruby when calling a block of code. Yield allows me to forgo having to name a variable - the &lt;code class=&quot;highlighter-rouge&quot;&gt;yield&lt;/code&gt; keyword itself acts as a variable that allows me to insert any number of arguments. I might use a &lt;code class=&quot;highlighter-rouge&quot;&gt;yield&lt;/code&gt; when I am developing a block of code in which I am not exactly sure about specific variable names - utilizing &lt;code class=&quot;highlighter-rouge&quot;&gt;yield&lt;/code&gt; I can forgo naming my variables until later when I am ready to define my work.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;def a_greeting
+    yield &quot;Kon&quot;
+    yield &quot;Ham&quot;
+end
+
+a_greeting { |name| puts &quot;Hello, my name is #{name}!&quot; }
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;results in:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Hello, my name is Kon!
+Hello, my name is Ham!
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;describe-each-of-the-four-fundamental-concepts-of-object-oriented-programming&quot;&gt;Describe each of the four fundamental concepts of object-oriented programming.&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Polymorphism - Objects can have similarities to parent classes while at the same time having its own unique set of methods or functions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Abstraction - Only relevant information about that object is shown.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Encapsulation - Limiting the amount of access one object has to another.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Inheritance - Objects can inherit methods or functions from its parent classes for the sake of reusability.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;an-enumerable-by-any-other-name-still-behaves-the-same-give-the-other-name-for-these-3-ruby-enumerables-detect-select-collect&quot;&gt;An enumerable by any other name still behaves the same. Give the other name for these 3 Ruby enumerables Detect, Select, Collect&lt;/h3&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;.select_all&lt;/code&gt; (I’m not sure I understand this question. I’ll come back to it later.)&lt;/p&gt;
+
+&lt;h3 id=&quot;in-as-much-detail-as-possible-describe-dns&quot;&gt;In as much detail as possible, describe DNS.&lt;/h3&gt;
+
+&lt;p&gt;DNS solves the problem of translating domain names like &lt;code class=&quot;highlighter-rouge&quot;&gt;google.com&lt;/code&gt; into actual IP addresses. IP addresses are how client requests are directed to go to the exact server.&lt;/p&gt;
+
+&lt;p&gt;For humans, IP addresses are not an ideal way form of data. It is much harder to remember &lt;code class=&quot;highlighter-rouge&quot;&gt;192.168.1.1&lt;/code&gt; than it is to remember &lt;code class=&quot;highlighter-rouge&quot;&gt;google.com&lt;/code&gt;. DNS solves this problem by giving humans a way to remember website names and conveniently acting as an interpreter for computers to direct the domain name to the actual corresponding IP address.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-does-it-mean-for-a-function-to-be-deprecated&quot;&gt;What does it mean for a function to be deprecated?&lt;/h3&gt;
+
+&lt;p&gt;Programming syntax or language evolves over time to reflect user and real world needs - this means that as version updates happen, certain functions may lose relevance or more robust functions eventually replace older functions. Deprecated means that the function is being phased out, or that it is in the process of being replaced by another function.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-does-cors-stand-for-and-what-issue-does-it-address&quot;&gt;What does CORS stand for and what issue does it address?&lt;/h3&gt;
+
+&lt;p&gt;A website usually implements a security feature called same-origin policy, which means that the browser by default will restrict access of data for websites which have a different origin. By origin we mean protocol, domain name, and port number. Which this is a great feature for security as it keeps one website from attacking another website, sometimes we need to implement the sharing of data between two websites so that they are able to communicate back and forth for the benefit of a user.&lt;/p&gt;
+
+&lt;p&gt;CORS is a solution to that problem. CORS is cross-origin resource sharing. While normally websites are restricted from resource sharing, CORS will specify to which origin a website is allowed access to another, while blocking off resource sharing from other origins. You can even set CORS to share with all origins on the internet, but this is generally considered bad practice since it’s the equivalent of keeping your house door permanently open.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-the-difference-between-synchronous-vs-asynchronous&quot;&gt;What is the difference between synchronous vs. asynchronous?&lt;/h3&gt;
+
+&lt;p&gt;We can refer to synchronous vs asynchronous as relating to work done. Synchronous work means that work is done in a specific order, whereas asynchronous work means that work is not done in a specific order.&lt;/p&gt;
+
+&lt;p&gt;Synchronous work means that work is not done until a specific task is completed. Asynchronous work could mean the work is started immediately or not until some amount of time in the future.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-the-difference-between-a-function-declaration-vs-a-function-expression&quot;&gt;What is the difference between a function declaration vs a function expression&lt;/h3&gt;
+
+&lt;p&gt;Function declarations are loaded before any code is executed whereas function expressions are executed as the interpreter reaches that line of code. You may want to utilize a function expression if you are trying to avoid global scope. Function declarations may be utilized if you need them more often than not. (Is it being needed often?)&lt;/p&gt;
+
+&lt;h3 id=&quot;in-as-much-detail-as-possible-tell-me-about-json-web-tokens&quot;&gt;In as much detail as possible, tell me about JSON Web Tokens&lt;/h3&gt;
+
+&lt;p&gt;A JSON web token is an open standard that allows for securely transmitted data between parties. It is sent as a JSON object and can be sent with a digital signature - sometimes an encryption or a key pair.&lt;/p&gt;
+
+&lt;p&gt;We normally use JSON web tokens to transmit information or to provide authorization for users.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Breaking Demeter Explained</title>
-   <link href="http://localhost:4000/2021/09/02/breaking-demeter-explained/"/>
+   <link href="http://localhost:4000/tech/backend%20engineering/ruby/2021/09/02/breaking-demeter-explained/"/>
    <updated>2021-09-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2021/09/02/breaking-demeter-explained</id>
+   <id>http://localhost:4000/tech/backend%20engineering/ruby/2021/09/02/breaking-demeter-explained</id>
    <content type="html">&lt;h1 id=&quot;breaking-demeter&quot;&gt;Breaking Demeter&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/kon-ham/breaking_demeter&quot;&gt;Breaking Demeter - An obnoxious (and mostly useless) study in the (im)proper selection of nested classes and collections&lt;/a&gt;&lt;/p&gt;
@@ -1683,7 +1956,7 @@ BELIEVE IN THAT! the play – always, ALWAYS BE PREPARED FOR ANY CIRCUMSTANCE AN
 
 &lt;p&gt;Poole is the butler for &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, the static site generator. It’s designed and developed by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt; to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.&lt;/p&gt;
 
-&lt;p&gt;This demo site was last updated September 02, 2021.&lt;/p&gt;
+&lt;p&gt;This demo site was last updated September 05, 2021.&lt;/p&gt;
 
 &lt;p&gt;There are currently two themes built on Poole:&lt;/p&gt;
 

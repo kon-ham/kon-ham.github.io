@@ -1,0 +1,366 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>
+    
+      BE Technical Questions for Interview Prep &middot; Kon Ham
+    
+  </title>
+
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="/assets/favicon.ico">
+  <link rel="alternate" type="application/atom+xml" title="Kon Ham" href="/atom.xml">
+
+  <!-- Begin Jekyll SEO tag v2.6.1 -->
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="BE Technical Questions for Interview Prep" />
+<meta name="author" content="Mark Otto" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="What is the difference between Array#map and Array#each?" />
+<meta property="og:description" content="What is the difference between Array#map and Array#each?" />
+<link rel="canonical" href="http://localhost:4000/tech/backend%20engineering/2021/09/04/be-technical-questions/" />
+<meta property="og:url" content="http://localhost:4000/tech/backend%20engineering/2021/09/04/be-technical-questions/" />
+<meta property="og:site_name" content="Kon Ham" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-09-04T00:00:00-04:00" />
+<script type="application/ld+json">
+{"@type":"BlogPosting","description":"What is the difference between Array#map and Array#each?","headline":"BE Technical Questions for Interview Prep","dateModified":"2021-09-04T00:00:00-04:00","datePublished":"2021-09-04T00:00:00-04:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/tech/backend%20engineering/2021/09/04/be-technical-questions/"},"author":{"@type":"Person","name":"Mark Otto"},"url":"http://localhost:4000/tech/backend%20engineering/2021/09/04/be-technical-questions/","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+</head>
+
+
+  <body>
+    
+    <div class="container content">
+      <div class="nav-bar"><nav>
+    <a href="/">Home</a>
+    <a href="/about">About</a>
+    <a href="/posts">Posts</a>
+    <a href="/projects">Projects</a>
+</nav></div>
+      <header class="masthead">
+        <h3 class="masthead-title">
+          <a href="/" title="Home">Kon Ham</a>
+          <small>Where I write about everything</small>
+        </h3>
+      </header>
+      <main>
+        <article class="post">
+  <h1 class="post-title">BE Technical Questions for Interview Prep</h1>
+  <time datetime="2021-09-04T00:00:00-04:00" class="post-date">04 Sep 2021</time>
+  <h3 id="what-is-the-difference-between-arraymap-and-arrayeach">What is the difference between Array#map and Array#each?</h3>
+
+<p>Whenever you finish iterating over your elements, <code class="highlighter-rouge">Array#each</code> will return the original array while <code class="highlighter-rouge">Array#map</code> will return a new array. Both iterative methods iterate. <code class="highlighter-rouge">Array#map</code> actually incorporates the Array#each method while transforming the values of the array in a new array.</p>
+
+<h3 id="name-4-ruby-enumerables-excluding-each-and-map-and-give-a-brief-example-of-whats-unique-about-each">Name 4 ruby enumerables excluding each and map and give a brief example of what’s unique about each.</h3>
+
+<ul>
+  <li><code class="highlighter-rouge">Enumerable#all?</code> method iterates through each element of the collection and returns true if the included argument is never false or nil.</li>
+</ul>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>array = ['cat', 'bat', 'sat']
+
+array.all? { | word | word.length == 3 } =&gt; true
+
+array.all? { |word | word.length == 0 } =&gt; false
+
+</code></pre></div></div>
+
+<ul>
+  <li><code class="highlighter-rouge">Enumerable#count</code> method iterates through each element in the collection and returns the total amount of elements inside of the collection.</li>
+</ul>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+array = ['john', 'ny', 'apple', 'seed']
+
+array.count =&gt; 4
+
+</code></pre></div></div>
+
+<ul>
+  <li><code class="highlighter-rouge">Enumerable#drop(n)</code> will iterate through each element of the collection and drop the (n) number of elements in the collection, starting from the first element. It will return the rest of the elements in the array.</li>
+</ul>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+array = [1, 2, 3, 4, 5]
+
+array.drop(1) =&gt; [2, 3, 4, 5]
+
+</code></pre></div></div>
+
+<ul>
+  <li><code class="highlighter-rouge">Enumerable#include?</code> will iterate through each element and return true if any of the elements match the argument.</li>
+</ul>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+array = [1, 2, 3, 4, 5, 6, 7]
+
+array.include? 9000 =&gt; false
+
+</code></pre></div></div>
+
+<h3 id="in-as-much-detail-as-possible-describe-the-request-response-cycle">In as much detail as possible, describe the request-response cycle.</h3>
+
+<p>A user types in a request utilizing their client which we call a browser. The request eventually will make its way through the servers to our Rails <code class="highlighter-rouge">routes.rb</code> file. Our <code class="highlighter-rouge">routes.rb</code> file will then determine the closest match with the URL and HTTP request and match it with the controllers and action in our Rails application. Then the view is generated and the response is sent back to the user.</p>
+
+<h3 id="whats-a-module-in-ruby-whats-the-difference-between-a-class-and-a-module-what-are-some-good-use-cases-for-modules">What’s a module in Ruby? What’s the difference between a class and a module? What are some good use cases for modules?</h3>
+
+<p>A module is a collection of methods and constants (otherwise known as a library of methods). Unlike classes, modules cannot generate an instance of an object. Classes can have instance variables and objects.</p>
+
+<p>Modules may not inherit anything whereas a class can inherit from another class.</p>
+
+<p>Modules are great for augmenting a class’s functionality.</p>
+
+<h3 id="what-are-a-few-ways-to-optimize-a-rails-application">What are a few ways to optimize a Rails application?</h3>
+
+<p>One example would be to utilize Active Record methods when making database queries. For example, <code class="highlighter-rouge">.length</code> is not actually an ActiveRecord method - but rather a Ruby method. While this would work, it technically is not very good practice. Instead of <code class="highlighter-rouge">.length</code>, you can utilize <code class="highlighter-rouge">.size</code>, which is much faster and efficient in terms of memory usage.</p>
+
+<p>Another way is the utilization of well-known or widely appreciated Ruby gems like the <code class="highlighter-rouge">Bullet gem</code>, which address the <code class="highlighter-rouge">N+1</code> problem. Usually this could mean that in a one-to-many relationship, a database will often times make a query for the parent database as well as a query for each child database of that parent. In a larger scale application, this can lead to your database being overrun with queries. Sometimes this redundancy can be hard to see so gems like <code class="highlighter-rouge">Bullet gem</code> can help us to reduce the total number of <code class="highlighter-rouge">N+1</code> problems.</p>
+
+<p>You could also utilize indexes in a database, which act as placeholders for a query. Since a database has to check every individual cell to grab the information needed from a request, a large database would get very tedious for your Rails application.</p>
+
+<p>And another way is to utilize caching: <a href="https://guides.rubyonrails.org/v3.2/caching_with_rails.html#page-caching">https://guides.rubyonrails.org/v3.2/caching_with_rails.html#page-caching</a></p>
+
+<h3 id="what-is-http-and-give-a-brief-definition">What is HTTP and give a brief definition?</h3>
+
+<p>HTTP stands for hyper-text transfer protocol. We can understand protocol as a system of rules by which information or data is exchanged between computers. Usually a client, which we can understand as a web browser, will send out messages to another computer or server, which we call requests. Then that computer (server) will then respond with its own messages which we call a response.</p>
+
+<h3 id="what-are-three-tools-or-strategies-you-use-to-prevent-shipping-unstable-code-to-production">What are three tools or strategies you use to prevent shipping unstable code to production?</h3>
+
+<ul>
+  <li>
+    <p>The use of continuous integration which would catch any potential errors before the code is shipped to production.</p>
+  </li>
+  <li>
+    <p>The use of clear workflow between developers as well as adequate code review integrated in the Git workflow.</p>
+  </li>
+  <li>
+    <p>The practice of releasing smaller production code often as opposed to releasing a large set of code with down time in between each shipping interval.</p>
+  </li>
+</ul>
+
+<h3 id="whats-a-background-worker-when-would-we-want-to-use-a-background-worker">What’s a background worker? When would we want to use a background worker?</h3>
+
+<p>A background worker is a job that extends beyond the typical request a client could make to our application. Sometimes we don’t want an job to be completed instantaneously or we need a feature to do work once a user completes a task, which could take longer than the usual instantaneous response we’d expect. Sometimes the advantage of this background worker is that it enables you to queue work to be done at a later time. This also allows for us to retry work if sometimes the work fails the first time.</p>
+
+<p>This means that we do not have to rely upon the User to act as a catalyst for events.</p>
+
+<h3 id="whats-the-difference-between-a-session-and-a-cookie">What’s the difference between a session and a cookie?</h3>
+
+<p>The biggest difference between a session and a cookie is that a cookie is data that is stored on a user’s browser, whereas a session involves storing a user’s data on a server.</p>
+
+<p>A cookie’s maximum allowed data is 4KB whereas on a session the amount of data we can store for each user is unlimited. Cookies are set to be destroyed at a given amount of lifetime whereas sessions are usually deleted whenever a user logs out or closes the browser.</p>
+
+<h3 id="explain-a-git-merge-workflow-vs-a-git-rebase-workflow">Explain a git merge workflow vs a git rebase workflow</h3>
+
+<p>A git merge workflow allows for a timeline of events. It is also non-destructive as in existing branches are not changed in any way. However, if your <code class="highlighter-rouge">main</code> branch is very active, you may have a lot of extra data that you’d not be very interested in. Utilizing git rebase allows for a much more cleaner git history interface. We can see commits happen in a history of time-line by feature rather than by commits. This also allows for you to avoid having to merge to main.</p>
+
+<p>As long as we can utilize the Golden Rule of Rebase, which is to never rebase on public branches, rebase can be a workflow for specific uses!</p>
+
+<h3 id="whats-the-difference-between-authentication-and-authorization-what-tools-have-you-used-to-set-up-auth-in-the-past">What’s the difference between authentication and authorization? What tools have you used to set up auth in the past?</h3>
+
+<p>Authentication is making sure that the user is actually who they say they are. Authorization is giving someone access once authentication has been made.</p>
+
+<p>An example of this is when you go to a venue that sells alcohol. Perhaps there is a bouncer at the front door. You know the deal. You must show your ID to the bouncer. The bouncer checks the ID (or pretends to check it) and looks at your face. They are happy with your ID and facial recognition. You’ve now been authenticated.</p>
+
+<p>The bouncer then allows you to enter the venue. This is now authorization. You have user authorization to enter the venue. Happy drinking!</p>
+
+<p>We’ve utilized authentication by creating a User’s controller in which a user must provide email and password. Once the account is created, we then confirm the user has the correct password and then give the user authorization to access the site.</p>
+
+<h3 id="what-is-tdd-and-give-a-brief-definition">What is TDD and give a brief definition?</h3>
+
+<p>TDD is an acronym for test driven development. This is a method of development in which unit test cases are built before the code is developed. It is iterative, or repeated over and over again, combining programming, creation of unit tets, and refactoring.</p>
+
+<p>This process is sometimes reflected in the phrase “red-green-refactor”:</p>
+
+<ul>
+  <li>
+    <p>Red: Build tests. Run tests. Tests are failing.</p>
+  </li>
+  <li>
+    <p>Green: Build code to pass test. Run tests. Code is built. Tests are passing.</p>
+  </li>
+  <li>
+    <p>Refactor: Optimize code. Run tests. Tests are passing.</p>
+  </li>
+</ul>
+
+<h3 id="what-does-api-stand-for-and-how-do-you-define-it">What does API stand for and how do you define it?</h3>
+
+<p>An API is short for application programming interface. APIs are a convenient means to allow users to access only very specific portions of data that exists on your server. An API is a type of software interface, which means that an API is a software designed to talk to another software. Users do not usually consume raw API data. It is usually converted into useful data that humans can digest easily. A very common format of an API is JSON. GraphQL is a competitor to JSON.</p>
+
+<h3 id="what-does-it-mean-to-compile-code">What does it mean to compile code?</h3>
+
+<p>Compiling code means that you take the source code, which we can refer to as human readable language, and it then translates source code into machine code. Machine code is known as binary code which reflects the transistor state of computers. Essentially on and off switches. Since it’s not very useful for humans to know binary, we can utilize a compiler to translate the hard work of taking human readable language into machine code.</p>
+
+<p>This is unlike Ruby or JavaScript, which is what we call an interpreted language. This means that the language is interpreted into machine code without the use of a compiler. There are pros and cons to each approach, of which I will not get into here.</p>
+
+<h3 id="tell-me-two-advantages-of-testing-your-code">Tell me two advantages of testing your code</h3>
+
+<ul>
+  <li>
+    <p>I know that potentially the code will run without errors in production.</p>
+  </li>
+  <li>
+    <p>Testing my code allows me to overcome bias in my own assumptions about what I expect my code to do.</p>
+  </li>
+</ul>
+
+<h3 id="how-would-you-describe-the-prototype-in-javascript">How would you describe the prototype in Javascript?</h3>
+
+<p>A prototype is a means by which a user is able to inherit all of the methods of an instance to all objects of that instance.</p>
+
+<h3 id="here-at-turing-you-have-used-two-types-of-testing-minitest-and-rspec-please-give-your-opinioncomparison-of-the-two">Here at Turing you have used two types of testing Minitest and RSpec. Please give your opinion/comparison of the two.</h3>
+
+<p>As far as I know, Minitest does not allow for integration testing where as RSpec does. I have no particular affection for one or the other - I will use what is utilized within my organization. I am aware that RSpec is probably more often than not what is used in organizations, so luckily I have ample experience with RSpec.</p>
+
+<h3 id="my-production-and-development-environments-are-using-large-sets-of-data-what-are-some-ways-to-optimize-my-tests-to-run-quickly-but-be-thorough">My production and development environments are using large sets of data. What are some ways to optimize my tests to run quickly, but be thorough?</h3>
+
+<ul>
+  <li>
+    <p>By ensuring that the testing environment only needs to be set up once or as little as possible.</p>
+  </li>
+  <li>
+    <p>Utilization of CI which begins testing immediately upon committing to Github.</p>
+  </li>
+  <li>
+    <p>Stubbing network requests through the use of Rails gems like <code class="highlighter-rouge">Webmock</code> or <code class="highlighter-rouge">VCR</code>.</p>
+  </li>
+  <li>
+    <p>If budget allows, update computer hardware in which testing is done.</p>
+  </li>
+  <li>
+    <p>Run parallel tests on multiple machines to reduce the amount of core usage for each CPU.</p>
+  </li>
+  <li>
+    <p>Limit the number of gem dependencies by utilizing Gem blocks i.e, does this gem need to be in both development and test?</p>
+  </li>
+  <li>
+    <p>Rely less on database operations and utilize tools like <code class="highlighter-rouge">Faker</code> and <code class="highlighter-rouge">Factorybot</code>.</p>
+  </li>
+</ul>
+
+<h3 id="what-is-a-mock-vs-a-stub-in-testing-when-would-you-use-each">What is a Mock vs. a Stub in testing? When would you use each?</h3>
+
+<p>Stubs replace your methods by implementing hard-coded data. Mocks have expectations in that it is dependent upon how an assertion is made.</p>
+
+<h3 id="what-is-yield-in-ruby-what-is-it-useful-for-give-an-example-of-where-you-would-put-it">What is yield in Ruby? What is it useful for? Give an example of where you would put it.</h3>
+
+<p>A yield is utilized in Ruby when calling a block of code. Yield allows me to forgo having to name a variable - the <code class="highlighter-rouge">yield</code> keyword itself acts as a variable that allows me to insert any number of arguments. I might use a <code class="highlighter-rouge">yield</code> when I am developing a block of code in which I am not exactly sure about specific variable names - utilizing <code class="highlighter-rouge">yield</code> I can forgo naming my variables until later when I am ready to define my work.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>def a_greeting
+    yield "Kon"
+    yield "Ham"
+end
+
+a_greeting { |name| puts "Hello, my name is #{name}!" }
+</code></pre></div></div>
+<p>results in:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Hello, my name is Kon!
+Hello, my name is Ham!
+</code></pre></div></div>
+
+<h3 id="describe-each-of-the-four-fundamental-concepts-of-object-oriented-programming">Describe each of the four fundamental concepts of object-oriented programming.</h3>
+
+<ul>
+  <li>
+    <p>Polymorphism - Objects can have similarities to parent classes while at the same time having its own unique set of methods or functions.</p>
+  </li>
+  <li>
+    <p>Abstraction - Only relevant information about that object is shown.</p>
+  </li>
+  <li>
+    <p>Encapsulation - Limiting the amount of access one object has to another.</p>
+  </li>
+  <li>
+    <p>Inheritance - Objects can inherit methods or functions from its parent classes for the sake of reusability.</p>
+  </li>
+</ul>
+
+<h3 id="an-enumerable-by-any-other-name-still-behaves-the-same-give-the-other-name-for-these-3-ruby-enumerables-detect-select-collect">An enumerable by any other name still behaves the same. Give the other name for these 3 Ruby enumerables Detect, Select, Collect</h3>
+
+<p><code class="highlighter-rouge">.select_all</code> (I’m not sure I understand this question. I’ll come back to it later.)</p>
+
+<h3 id="in-as-much-detail-as-possible-describe-dns">In as much detail as possible, describe DNS.</h3>
+
+<p>DNS solves the problem of translating domain names like <code class="highlighter-rouge">google.com</code> into actual IP addresses. IP addresses are how client requests are directed to go to the exact server.</p>
+
+<p>For humans, IP addresses are not an ideal way form of data. It is much harder to remember <code class="highlighter-rouge">192.168.1.1</code> than it is to remember <code class="highlighter-rouge">google.com</code>. DNS solves this problem by giving humans a way to remember website names and conveniently acting as an interpreter for computers to direct the domain name to the actual corresponding IP address.</p>
+
+<h3 id="what-does-it-mean-for-a-function-to-be-deprecated">What does it mean for a function to be deprecated?</h3>
+
+<p>Programming syntax or language evolves over time to reflect user and real world needs - this means that as version updates happen, certain functions may lose relevance or more robust functions eventually replace older functions. Deprecated means that the function is being phased out, or that it is in the process of being replaced by another function.</p>
+
+<h3 id="what-does-cors-stand-for-and-what-issue-does-it-address">What does CORS stand for and what issue does it address?</h3>
+
+<p>A website usually implements a security feature called same-origin policy, which means that the browser by default will restrict access of data for websites which have a different origin. By origin we mean protocol, domain name, and port number. Which this is a great feature for security as it keeps one website from attacking another website, sometimes we need to implement the sharing of data between two websites so that they are able to communicate back and forth for the benefit of a user.</p>
+
+<p>CORS is a solution to that problem. CORS is cross-origin resource sharing. While normally websites are restricted from resource sharing, CORS will specify to which origin a website is allowed access to another, while blocking off resource sharing from other origins. You can even set CORS to share with all origins on the internet, but this is generally considered bad practice since it’s the equivalent of keeping your house door permanently open.</p>
+
+<h3 id="what-is-the-difference-between-synchronous-vs-asynchronous">What is the difference between synchronous vs. asynchronous?</h3>
+
+<p>We can refer to synchronous vs asynchronous as relating to work done. Synchronous work means that work is done in a specific order, whereas asynchronous work means that work is not done in a specific order.</p>
+
+<p>Synchronous work means that work is not done until a specific task is completed. Asynchronous work could mean the work is started immediately or not until some amount of time in the future.</p>
+
+<h3 id="what-is-the-difference-between-a-function-declaration-vs-a-function-expression">What is the difference between a function declaration vs a function expression</h3>
+
+<p>Function declarations are loaded before any code is executed whereas function expressions are executed as the interpreter reaches that line of code. You may want to utilize a function expression if you are trying to avoid global scope. Function declarations may be utilized if you need them more often than not. (Is it being needed often?)</p>
+
+<h3 id="in-as-much-detail-as-possible-tell-me-about-json-web-tokens">In as much detail as possible, tell me about JSON Web Tokens</h3>
+
+<p>A JSON web token is an open standard that allows for securely transmitted data between parties. It is sent as a JSON object and can be sent with a digital signature - sometimes an encryption or a key pair.</p>
+
+<p>We normally use JSON web tokens to transmit information or to provide authorization for users.</p>
+
+</article>
+
+
+<aside class="related">
+  <h3>Related posts</h3>
+  <ul class="related-posts">
+    
+      <li>
+        <a href="/tech/backend%20engineering/ruby/2021/09/02/breaking-demeter-explained/">
+          Breaking Demeter Explained
+          <small><time datetime="2021-09-02T00:00:00-04:00">02 Sep 2021</time></small>
+        </a>
+      </li>
+    
+      <li>
+        <a href="/pessimism/outlook/boundaries/trust/discernment/2021/07/09/linkedin-posts-pt-5/">
+          LinkedIn Posts pt. 5
+          <small><time datetime="2021-07-09T00:00:00-04:00">09 Jul 2021</time></small>
+        </a>
+      </li>
+    
+      <li>
+        <a href="/schooling/society/education/2021/07/09/future-of-school-and-society/">
+          The Future of School and Society
+          <small><time datetime="2021-07-09T00:00:00-04:00">09 Jul 2021</time></small>
+        </a>
+      </li>
+    
+  </ul>
+</aside>
+
+
+      </main>
+
+      <footer class="footer">
+        <small>
+          &copy; <time datetime="2021-09-05T09:44:46-04:00">2021</time>. All rights reserved.
+        </small>
+      </footer>
+    </div>
+
+    
+  </body>
+</html>

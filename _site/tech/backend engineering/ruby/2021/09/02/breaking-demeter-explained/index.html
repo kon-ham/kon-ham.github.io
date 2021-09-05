@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>
+    
+      Breaking Demeter Explained &middot; Kon Ham
+    
+  </title>
+
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="/assets/favicon.ico">
+  <link rel="alternate" type="application/atom+xml" title="Kon Ham" href="/atom.xml">
+
+  <!-- Begin Jekyll SEO tag v2.6.1 -->
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="Breaking Demeter Explained" />
+<meta name="author" content="Mark Otto" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Breaking Demeter" />
+<meta property="og:description" content="Breaking Demeter" />
+<link rel="canonical" href="http://localhost:4000/tech/backend%20engineering/ruby/2021/09/02/breaking-demeter-explained/" />
+<meta property="og:url" content="http://localhost:4000/tech/backend%20engineering/ruby/2021/09/02/breaking-demeter-explained/" />
+<meta property="og:site_name" content="Kon Ham" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-09-02T00:00:00-04:00" />
+<script type="application/ld+json">
+{"@type":"BlogPosting","description":"Breaking Demeter","headline":"Breaking Demeter Explained","dateModified":"2021-09-02T00:00:00-04:00","datePublished":"2021-09-02T00:00:00-04:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/tech/backend%20engineering/ruby/2021/09/02/breaking-demeter-explained/"},"author":{"@type":"Person","name":"Mark Otto"},"url":"http://localhost:4000/tech/backend%20engineering/ruby/2021/09/02/breaking-demeter-explained/","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+</head>
+
+
+  <body>
+    
+    <div class="container content">
+      <div class="nav-bar"><nav>
+    <a href="/">Home</a>
+    <a href="/about">About</a>
+    <a href="/posts">Posts</a>
+    <a href="/projects">Projects</a>
+</nav></div>
+      <header class="masthead">
+        <h3 class="masthead-title">
+          <a href="/" title="Home">Kon Ham</a>
+          <small>Where I write about everything</small>
+        </h3>
+      </header>
+      <main>
+        <article class="post">
+  <h1 class="post-title">Breaking Demeter Explained</h1>
+  <time datetime="2021-09-02T00:00:00-04:00" class="post-date">02 Sep 2021</time>
+  <h1 id="breaking-demeter">Breaking Demeter</h1>
+
+<p><a href="https://github.com/kon-ham/breaking_demeter">Breaking Demeter - An obnoxious (and mostly useless) study in the (im)proper selection of nested classes and collections</a></p>
+
+<p>I had shared this post earlier - but I think it’s due for an explanation of what this repo is meant to accomplish.</p>
+
+<p>For context, I was learning to code with Ruby as I was attending Turing School of Software and Design. Other students and myself were having trouble visualizing or understanding how nested collections could be accessed. In order to help deepend our understanding, I created a tutorial on how to do just that - except in the most obnoxious way possible.</p>
+
+<p>Of course, it’s not ideal to access one object’s attributes if you must go through two or three objects in order to get what you need - if you are doing this you probably could afford to rethink some of your design as doing so is not very Object Oriented Programming-like, hence why we have general design guidelines like the Law of Demeter which suggest that you minimize the amount of reaching through different objects to simply one. One object to reach through another. No more.</p>
+
+<p>This repo and tutorial is a play-on the name of the Law of Demeter and without shame breaks the Law of Demeter many, many times.</p>
+
+<p>I justify breaking such a design principle here in order to help learners visualize with <code class="highlighter-rouge">binding.pry</code> how you could access one object through another, ad nauseum.</p>
+
+<p>My hope is that at the very minimum, a person going through this test will eventually come to realize that while yes, you can access the attributes of one object by going through three or four different objects, it’s obnoxious and not very suited for developer empathy.</p>
+
+<p>Plus, you miss out on some of the benefits of object oriented programming like being able to abstract out the purpose of an object into more simple objects. (One object, one job.)</p>
+
+<p>I wrote the lesson with the hope of being a short primer into nested collections and objects while injecting a bit of humor into the material in order to keep things relatively interesting.</p>
+
+<p>Hope you enjoy!</p>
+
+<p><a href="https://github.com/kon-ham/breaking_demeter">Breaking Demeter - An obnoxious (and mostly useless) study in the (im)proper selection of nested classes and collections</a></p>
+
+</article>
+
+
+<aside class="related">
+  <h3>Related posts</h3>
+  <ul class="related-posts">
+    
+      <li>
+        <a href="/tech/backend%20engineering/2021/09/04/be-technical-questions/">
+          BE Technical Questions for Interview Prep
+          <small><time datetime="2021-09-04T00:00:00-04:00">04 Sep 2021</time></small>
+        </a>
+      </li>
+    
+      <li>
+        <a href="/pessimism/outlook/boundaries/trust/discernment/2021/07/09/linkedin-posts-pt-5/">
+          LinkedIn Posts pt. 5
+          <small><time datetime="2021-07-09T00:00:00-04:00">09 Jul 2021</time></small>
+        </a>
+      </li>
+    
+      <li>
+        <a href="/schooling/society/education/2021/07/09/future-of-school-and-society/">
+          The Future of School and Society
+          <small><time datetime="2021-07-09T00:00:00-04:00">09 Jul 2021</time></small>
+        </a>
+      </li>
+    
+  </ul>
+</aside>
+
+
+      </main>
+
+      <footer class="footer">
+        <small>
+          &copy; <time datetime="2021-09-05T09:44:46-04:00">2021</time>. All rights reserved.
+        </small>
+      </footer>
+    </div>
+
+    
+  </body>
+</html>

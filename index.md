@@ -52,8 +52,8 @@ href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume.pdf"
   {% for post in site.posts limit: 5 %}
   <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-        <!-- {{ post.content | truncatewords: 30 }} -->
         <!-- <time  datetime="{{ post.date | date_to_xmlschema }}"  class="post-date">{{ post.date | date_to_string }}</time> -->
+        <!-- {{ post.content | truncatewords: 120 }} -->
   </li>
   {% endfor %}
 </ul>
