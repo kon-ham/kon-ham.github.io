@@ -1,3 +1,9 @@
+---
+layout: post
+title: Breaking Demeter Explained
+categories: [Tech, Backend Engineering, Ruby]
+---
+
 # Breaking Demeter
 
 [Breaking Demeter - An obnoxious (and mostly useless) study in the (im)proper selection of nested classes and collections](https://github.com/kon-ham/breaking_demeter)

@@ -1,3 +1,9 @@
+---
+layout: post
+title: BE Technical Questions for Interview Prep
+categories: [Tech, Backend Engineering]
+---
+
 ### What is the difference between Array#map and Array#each?
 
 Whenever you finish iterating over your elements, Array#each will return the original array while Array#map will return a new array. Both iterative methods iterate. Array#map actually incorporates the Array#each method while transforming the values of the array in a new array.
