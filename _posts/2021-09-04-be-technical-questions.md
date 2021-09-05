@@ -83,11 +83,11 @@ HTTP stands for hyper-text transfer protocol. We can understand protocol as a sy
 
 - The use of clear workflow between developers as well as adequate code review integrated in the Git workflow. 
 
-- The practice of releasing smaller production code often as opposed to releasing a large set of code with down time inbetween each shipping interval. 
+- The practice of releasing smaller production code often as opposed to releasing a large set of code with down time in between each shipping interval. 
 
 ### What’s a background worker? When would we want to use a background worker?
 
-A background worker is a job that extends beyond the typical request a client could make to our application. Sometimes we don't want an job to be completed instantaneously or we need a feature to do work once a user completes a task, which could take longer than the usual instantaneous response we'd expect. Sometimes the advantange of this background worker is that it enables you to queue work to be done at a later time. This also allows for us to retry work if sometimes the work fails the first time.  
+A background worker is a job that extends beyond the typical request a client could make to our application. Sometimes we don't want an job to be completed instantaneously or we need a feature to do work once a user completes a task, which could take longer than the usual instantaneous response we'd expect. Sometimes the advantage of this background worker is that it enables you to queue work to be done at a later time. This also allows for us to retry work if sometimes the work fails the first time.  
 
 This means that we do not have to rely upon the User to act as a catalyst for events.
 
@@ -167,7 +167,7 @@ As far as I know, Minitest does not allow for integration testing where as RSpec
 
 ### What is a Mock vs. a Stub in testing? When would you use each?
 
-Stubs replace your methods by implmenting hard-coded data. Mocks have expectations in that it is dependent upon how an assertion is made.
+Stubs replace your methods by implementing hard-coded data. Mocks have expectations in that it is dependent upon how an assertion is made.
 
 ### What is yield in Ruby? What is it useful for? Give an example of where you would put it.
 
@@ -226,10 +226,10 @@ Synchronous work means that work is not done until a specific task is completed.
 
 ### What is the difference between a function declaration vs a function expression
 
-Function declarations are loaded before any code is executed whereas function expressions are executed as the interpretor reaches that line of code. You may want to utilize a function expression if you are trying to avoid global scope. Function declaratives may be utilized if you need them more often than not. (Is it being needed often?)
+Function declarations are loaded before any code is executed whereas function expressions are executed as the interpreter reaches that line of code. You may want to utilize a function expression if you are trying to avoid global scope. Function declarations may be utilized if you need them more often than not. (Is it being needed often?)
 
 ### In as much detail as possible, tell me about JSON Web Tokens
 
-A JSON webtoken is an open standard that allows for securely transmitted data between parties. It is sent as a JSON object and can be sent with a digital signature - sometimes an encryption or a key pair.
+A JSON web token is an open standard that allows for securely transmitted data between parties. It is sent as a JSON object and can be sent with a digital signature - sometimes an encryption or a key pair.
 
 We normally use JSON web tokens to transmit information or to provide authorization for users.
