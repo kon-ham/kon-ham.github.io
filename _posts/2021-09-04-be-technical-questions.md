@@ -6,11 +6,11 @@ categories: [Tech, Backend Engineering]
 
 ### What is the difference between Array#map and Array#each?
 
-Whenever you finish iterating over your elements, Array#each will return the original array while Array#map will return a new array. Both iterative methods iterate. Array#map actually incorporates the Array#each method while transforming the values of the array in a new array.
+Whenever you finish iterating over your elements, `Array#each` will return the original array while `Array#map` will return a new array. Both iterative methods iterate. `Array#map` actually incorporates the Array#each method while transforming the values of the array in a new array.
 
 ### Name 4 ruby enumerables excluding each and map and give a brief example of what’s unique about each.
 
-- Enumerable#all? method iterates through each element of the collection and returns true if the included argument is never false or nil.
+- `Enumerable#all?` method iterates through each element of the collection and returns true if the included argument is never false or nil.
 
 ```
 array = ['cat', 'bat', 'sat']
@@ -21,7 +21,7 @@ array.all? { |word | word.length == 0 } => false
 
 ```
 
-- Enumerable#count method iterates through each element in the collection and returns the total amount of elements inside of the collection.
+- `Enumerable#count` method iterates through each element in the collection and returns the total amount of elements inside of the collection.
 
 ```
 
@@ -31,7 +31,7 @@ array.count => 4
 
 ```
 
-- Enumerable#drop(n) will iterate through each element of the collection and drop the (n) number of elements in the collection, starting from the first element. It will return the rest of the elements in the array.
+- `Enumerable#drop(n)` will iterate through each element of the collection and drop the (n) number of elements in the collection, starting from the first element. It will return the rest of the elements in the array.
 
 ```
 
@@ -41,7 +41,7 @@ array.drop(1) => [2, 3, 4, 5]
 
 ```
 
-- Enumerable#include? will iterate through each element and return true if any of the elements match the argument.
+- `Enumerable#include?` will iterate through each element and return true if any of the elements match the argument.
 
 ```
 
