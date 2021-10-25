@@ -15,16 +15,22 @@ Use `return` if you need to simply return a value without indicating a need for 
 Here's an example of an output:
 
     ```
+    # Defining our array variable
     irb(main):001:0> array = ["chicken", "butt", " ", nil, 9001]
+
     => ["chicken", "butt", " ", nil, 9001]
 
     # Using p
     irb(main):002:0> p array
     ["chicken", "butt", " ", nil, 9001]
+
+    # Your output using p
     => ["chicken", "butt", " ", nil, 9001]
 
     # Using puts
     irb(main):003:0> puts array
+
+    # Your output using puts
     chicken
     butt
 
@@ -34,6 +40,8 @@ Here's an example of an output:
 
     # Using print
     irb(main):004:0> print array
+
+    # Your output using print
     ["chicken", "butt", " ", nil, 9001]=> nil
     ```
 
