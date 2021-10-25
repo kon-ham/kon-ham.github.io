@@ -47,7 +47,8 @@ Here's an example of an output:
     ["chicken", "butt", " ", nil, 9001]=> nil
     ```
 
-*If* you are still confused about specific use cases for each of these I would encourage you not to worry about it. You can use this for reference later and if you have a specific use-case you need, try to figure it out then.
+## Still Confused?
+I would encourage you not to worry about it.
 
 What's really important to know between all of these methods is that they're similar but not the same.
 
