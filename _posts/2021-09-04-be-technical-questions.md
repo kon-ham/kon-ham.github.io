@@ -235,6 +235,6 @@ A JSON web token is an open standard that allows for securely transmitted data b
 We normally use JSON web tokens to transmit information or to provide authorization for users.
 
 ## Was this helpful?
-I may have gotten some information incorrectly or my grammar might be hard to read. Please let me know.
+I may have gotten some information incorrect or my grammar might be hard to read. Please let me know.
 
 Contact me at [info.konham@gmail.com](mailto:info.konham@gmail.com) or [contact@konkham.com](mailto:contact@konkham.com)

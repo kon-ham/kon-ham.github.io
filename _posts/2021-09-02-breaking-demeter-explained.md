@@ -29,6 +29,6 @@ Hope you enjoy!
 [Breaking Demeter - An obnoxious (and mostly useless) study in the (im)proper selection of nested classes and collections](https://github.com/kon-ham/breaking_demeter)
 
 ## Was this helpful?
-I may have gotten some information incorrectly or my grammar might be hard to read. Please let me know.
+I may have gotten some information incorrect or my grammar might be hard to read. Please let me know.
 
 Contact me at [info.konham@gmail.com](mailto:info.konham@gmail.com) or [contact@konkham.com](mailto:contact@konkham.com)

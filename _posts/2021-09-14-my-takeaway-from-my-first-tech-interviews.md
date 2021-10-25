@@ -65,6 +65,6 @@ The flip-side of scheduling things by spacing them out is, for me, I get anxious
 So scheduling is something to consider with your energy levels. Hard to feign enthusiasm when you’re tired.
 
 ## Was this helpful?
-I may have gotten some information incorrectly or my grammar might be hard to read. Please let me know.
+I may have gotten some information incorrect or my grammar might be hard to read. Please let me know.
 
 Contact me at [info.konham@gmail.com](mailto:info.konham@gmail.com) or [contact@konkham.com](mailto:contact@konkham.com)

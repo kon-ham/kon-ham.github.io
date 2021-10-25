@@ -25,6 +25,6 @@ It’s common for young people to graduate even college without a clue of what t
 Why should we blame them? We stick them in white cinderblock buildings for over 15,000 hours.
 
 ## Was this helpful?
-I may have gotten some information incorrectly or my grammar might be hard to read. Please let me know.
+I may have gotten some information incorrect or my grammar might be hard to read. Please let me know.
 
 Contact me at [info.konham@gmail.com](mailto:info.konham@gmail.com) or [contact@konkham.com](mailto:contact@konkham.com)

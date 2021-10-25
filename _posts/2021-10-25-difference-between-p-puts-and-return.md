@@ -53,6 +53,6 @@ I would encourage you not to worry about it.
 What's really important to know between all of these methods is that they're similar but not the same.
 
 ## Was this helpful?
-I may have gotten some information incorrectly or my grammar might be hard to read. Please let me know.
+I may have gotten some information incorrect or my grammar might be hard to read. Please let me know.
 
 Contact me at [info.konham@gmail.com](mailto:info.konham@gmail.com) or [contact@konkham.com](mailto:contact@konkham.com)
