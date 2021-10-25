@@ -34,3 +34,8 @@ You repeat this process until you eventually reach your destination.
 So don't feel awkward nor ashamed about asking for networking opportunities. Most people want to help. Asking for directions is always a reasonable request.
 
 So try asking for some directions today. It's a great way to start your networking journey.
+
+## Was this helpful?
+I may have gotten some information incorrectly or my grammar might be hard to read. Please let me know.
+
+Contact me at [info.konham@gmail.com](mailto:info.konham@gmail.com) or [contact@konkham.com](mailto:contact@konkham.com)

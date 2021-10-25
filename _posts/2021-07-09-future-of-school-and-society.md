@@ -23,3 +23,8 @@ We can do this by savagely trimming away the fat that is the total number of yea
 It’s common for young people to graduate even college without a clue of what they want to do to contribute to our world.
 
 Why should we blame them? We stick them in white cinderblock buildings for over 15,000 hours.
+
+## Was this helpful?
+I may have gotten some information incorrectly or my grammar might be hard to read. Please let me know.
+
+Contact me at [info.konham@gmail.com](mailto:info.konham@gmail.com) or [contact@konkham.com](mailto:contact@konkham.com)

@@ -233,3 +233,8 @@ Function declarations are loaded before any code is executed whereas function ex
 A JSON web token is an open standard that allows for securely transmitted data between parties. It is sent as a JSON object and can be sent with a digital signature - sometimes an encryption or a key pair.
 
 We normally use JSON web tokens to transmit information or to provide authorization for users.
+
+## Was this helpful?
+I may have gotten some information incorrectly or my grammar might be hard to read. Please let me know.
+
+Contact me at [info.konham@gmail.com](mailto:info.konham@gmail.com) or [contact@konkham.com](mailto:contact@konkham.com)
