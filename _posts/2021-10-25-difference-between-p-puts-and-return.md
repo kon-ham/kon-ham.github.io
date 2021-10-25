@@ -48,9 +48,9 @@ Here's an example of an output:
     ```
 
 ## Still Confused?
-I would encourage you not to worry about it.
+I would encourage you not to worry about it. You'll get more solid on your understanding when you have a need for it on a case-by-case basis.
 
-What's really important to know between all of these methods is that they're similar but not the same.
+What's really important to know between all of these methods is that they're *similar* but *not the same*.
 
 ## Was this helpful?
 I may have gotten some information incorrect or my grammar might be hard to read. Please let me know.
