@@ -2,19 +2,16 @@
 layout: post
 title: The (Super Short) Difference Between P, Puts, Print, and Return
 ---
-
-### Summary:
-
-##### Using `p`
+## Using `p`
 * Use `p` if you need your output to look more closely to what your Ruby code looks like.
 
-##### Using `puts`
+## Using `puts`
 * Use `puts` if you need to output your value *and* create a new line afterwards. You'll notice in the example below `puts` does not literally output values in our array example.
 
-##### Using `print`
+## Using `print`
 * Use `print` if you need to output your value *with no new line*.
 
-##### Using `return`
+## Using `return`
 * Use `return` if you need to simply return a value without indicating a need for a visible output for your value.
 
 Here's an example of an output:
