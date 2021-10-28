@@ -19,3 +19,9 @@ We were reading Chaucer's Canterbury Tales but none of the students were able to
 Like most students currently entering college, they were able to interpret words but they were not able to grasp the concepts behind the words.
 
 This is typical for many people entering college, never mind that most students can barely count numbers.
+
+The biggest advantage that holding a college degree has is the implied value that you are were reliably boring enough to sit through four years of college classes. 
+
+This in turn means you'll probably show up to work, attend all the meetings, and you can be expected to turn in your work when given a deadline. 
+
+You can train animals to do this with Pavlovian conditioning and some of those animals will even forgo a salary in exchange for peanuts. 
