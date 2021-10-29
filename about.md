@@ -23,7 +23,7 @@ My hope is that at least one post on this site contributes to adding value to yo
 
 ## Contact Me
 My email is: [contact@konkham.com](mailto:contact@konkham.com) or [info.konham@gmail.com](mailto:info.konham@gmail.com)    
-My Github is: [github.com/kon-ham](github.com/kon-ham)  
+My Github is: [github.com/kon-ham](https://github.com/kon-ham)  
 My LinkedIn is: [linkedin.com/in/kon-ham](https://www.linkedin.com/in/kon-ham)
 
 Hope to be in touch with you soon. 

@@ -25,3 +25,8 @@ The biggest advantage that holding a college degree has is the implied value tha
 This in turn means you'll probably show up to work, attend all the meetings, and you can be expected to turn in your work when given a deadline. 
 
 You can train animals to do this with Pavlovian conditioning and some of those animals will even forgo a salary in exchange for peanuts. 
+
+## Was this helpful?
+I may have gotten some information incorrect or my grammar might be hard to read. Please let me know.
+
+Contact me at [info.konham@gmail.com](mailto:info.konham@gmail.com) or [contact@konkham.com](mailto:contact@konkham.com)

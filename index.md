@@ -60,5 +60,5 @@ href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume.pdf"
 
 ### Contact Me <a name="contact-me-link"></a>
 My email is: [contact@konkham.com](mailto:contact@konkham.com) or [info.konham@gmail.com](mailto:info.konham@gmail.com)    
-My Github is: [github.com/kon-ham](github.com/kon-ham)  
+My Github is: [github.com/kon-ham](https://github.com/kon-ham)  
 My LinkedIn is: [linkedin.com/in/kon-ham](https://www.linkedin.com/in/kon-ham)
