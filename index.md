@@ -14,7 +14,7 @@ Thanks for visiting!
  - #### [Announcements](#announcements-link) 
  - #### [My Latest Coding Projects](#my-latest-coding-projects-link) 
  - #### [My Recent Posts](#my-recent-posts-link) 
- - #### [Contact Information](#contact-information-link)
+ - #### [Contact Me](#contact-me-link)
 
 ---
 
@@ -58,9 +58,7 @@ href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume.pdf"
   {% endfor %}
 </ul>
 
-
-
-### Contact Information: <a name="contact-information-link"></a>
-My email is: [contact@konkham.com](mailto:contact@konkham.com) or [info.konham@gmail.com](mailto:info.konham@gmail.com)  
+### Contact Me <a name="contact-me-link"></a>
+My email is: [contact@konkham.com](mailto:contact@konkham.com) or [info.konham@gmail.com](mailto:info.konham@gmail.com)    
 My Github is: [github.com/kon-ham](github.com/kon-ham)  
-My LinkedIn is: [linkedin.com/in/kon-ham](linkedin.com/in/kon-ham)  
+My LinkedIn is: [linkedin.com/in/kon-ham](https://www.linkedin.com/in/kon-ham)

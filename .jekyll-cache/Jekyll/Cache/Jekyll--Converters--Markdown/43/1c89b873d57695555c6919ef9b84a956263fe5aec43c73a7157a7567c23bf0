@@ -1,4 +1,5 @@
-I"‡	<h1 id="breaking-demeter">Breaking Demeter</h1>
+I"Ð
+<h1 id="breaking-demeter">Breaking Demeter</h1>
 
 <p><a href="https://github.com/kon-ham/breaking_demeter">Breaking Demeter - An obnoxious (and mostly useless) study in the (im)proper selection of nested classes and collections</a></p>
 
@@ -10,7 +11,7 @@
 
 <p>This repo and tutorial is a play-on the name of the Law of Demeter and without shame breaks the Law of Demeter many, many times.</p>
 
-<p>I justify breaking such a design principle here in order to help learners visualize with <code class="highlighter-rouge">binding.pry</code> how you could access one object through another, ad nauseum.</p>
+<p>I justify breaking such a design principle here in order to help learners visualize with <code class="language-plaintext highlighter-rouge">binding.pry</code> how you could access one object through another, ad nauseum.</p>
 
 <p>My hope is that at the very minimum, a person going through this test will eventually come to realize that while yes, you can access the attributes of one object by going through three or four different objects, itâ€™s obnoxious and not very suited for developer empathy.</p>
 
@@ -21,4 +22,9 @@
 <p>Hope you enjoy!</p>
 
 <p><a href="https://github.com/kon-ham/breaking_demeter">Breaking Demeter - An obnoxious (and mostly useless) study in the (im)proper selection of nested classes and collections</a></p>
+
+<h2 id="was-this-helpful">Was this helpful?</h2>
+<p>I may have gotten some information incorrect or my grammar might be hard to read. Please let me know.</p>
+
+<p>Contact me at <a href="mailto:info.konham@gmail.com">info.konham@gmail.com</a> or <a href="mailto:contact@konkham.com">contact@konkham.com</a></p>
 :ET

@@ -1,14 +1,14 @@
-I"�P<h3 id="what-is-the-difference-between-arraymap-and-arrayeach">What is the difference between Array#map and Array#each?</h3>
+I"T<h3 id="what-is-the-difference-between-arraymap-and-arrayeach">What is the difference between Array#map and Array#each?</h3>
 
-<p>Whenever you finish iterating over your elements, <code class="highlighter-rouge">Array#each</code> will return the original array while <code class="highlighter-rouge">Array#map</code> will return a new array. Both iterative methods iterate. <code class="highlighter-rouge">Array#map</code> actually incorporates the Array#each method while transforming the values of the array in a new array.</p>
+<p>Whenever you finish iterating over your elements, <code class="language-plaintext highlighter-rouge">Array#each</code> will return the original array while <code class="language-plaintext highlighter-rouge">Array#map</code> will return a new array. Both iterative methods iterate. <code class="language-plaintext highlighter-rouge">Array#map</code> actually incorporates the Array#each method while transforming the values of the array in a new array.</p>
 
 <h3 id="name-4-ruby-enumerables-excluding-each-and-map-and-give-a-brief-example-of-whats-unique-about-each">Name 4 ruby enumerables excluding each and map and give a brief example of what’s unique about each.</h3>
 
 <ul>
-  <li><code class="highlighter-rouge">Enumerable#all?</code> method iterates through each element of the collection and returns true if the included argument is never false or nil.</li>
+  <li><code class="language-plaintext highlighter-rouge">Enumerable#all?</code> method iterates through each element of the collection and returns true if the included argument is never false or nil.</li>
 </ul>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>array = ['cat', 'bat', 'sat']
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>array = ['cat', 'bat', 'sat']
 
 array.all? { | word | word.length == 3 } =&gt; true
 
@@ -17,10 +17,10 @@ array.all? { |word | word.length == 0 } =&gt; false
 </code></pre></div></div>
 
 <ul>
-  <li><code class="highlighter-rouge">Enumerable#count</code> method iterates through each element in the collection and returns the total amount of elements inside of the collection.</li>
+  <li><code class="language-plaintext highlighter-rouge">Enumerable#count</code> method iterates through each element in the collection and returns the total amount of elements inside of the collection.</li>
 </ul>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
 array = ['john', 'ny', 'apple', 'seed']
 
 array.count =&gt; 4
@@ -28,10 +28,10 @@ array.count =&gt; 4
 </code></pre></div></div>
 
 <ul>
-  <li><code class="highlighter-rouge">Enumerable#drop(n)</code> will iterate through each element of the collection and drop the (n) number of elements in the collection, starting from the first element. It will return the rest of the elements in the array.</li>
+  <li><code class="language-plaintext highlighter-rouge">Enumerable#drop(n)</code> will iterate through each element of the collection and drop the (n) number of elements in the collection, starting from the first element. It will return the rest of the elements in the array.</li>
 </ul>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
 array = [1, 2, 3, 4, 5]
 
 array.drop(1) =&gt; [2, 3, 4, 5]
@@ -39,10 +39,10 @@ array.drop(1) =&gt; [2, 3, 4, 5]
 </code></pre></div></div>
 
 <ul>
-  <li><code class="highlighter-rouge">Enumerable#include?</code> will iterate through each element and return true if any of the elements match the argument.</li>
+  <li><code class="language-plaintext highlighter-rouge">Enumerable#include?</code> will iterate through each element and return true if any of the elements match the argument.</li>
 </ul>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
 array = [1, 2, 3, 4, 5, 6, 7]
 
 array.include? 9000 =&gt; false
@@ -51,7 +51,7 @@ array.include? 9000 =&gt; false
 
 <h3 id="in-as-much-detail-as-possible-describe-the-request-response-cycle">In as much detail as possible, describe the request-response cycle.</h3>
 
-<p>A user types in a request utilizing their client which we call a browser. The request eventually will make its way through the servers to our Rails <code class="highlighter-rouge">routes.rb</code> file. Our <code class="highlighter-rouge">routes.rb</code> file will then determine the closest match with the URL and HTTP request and match it with the controllers and action in our Rails application. Then the view is generated and the response is sent back to the user.</p>
+<p>A user types in a request utilizing their client which we call a browser. The request eventually will make its way through the servers to our Rails <code class="language-plaintext highlighter-rouge">routes.rb</code> file. Our <code class="language-plaintext highlighter-rouge">routes.rb</code> file will then determine the closest match with the URL and HTTP request and match it with the controllers and action in our Rails application. Then the view is generated and the response is sent back to the user.</p>
 
 <h3 id="whats-a-module-in-ruby-whats-the-difference-between-a-class-and-a-module-what-are-some-good-use-cases-for-modules">What’s a module in Ruby? What’s the difference between a class and a module? What are some good use cases for modules?</h3>
 
@@ -63,9 +63,9 @@ array.include? 9000 =&gt; false
 
 <h3 id="what-are-a-few-ways-to-optimize-a-rails-application">What are a few ways to optimize a Rails application?</h3>
 
-<p>One example would be to utilize Active Record methods when making database queries. For example, <code class="highlighter-rouge">.length</code> is not actually an ActiveRecord method - but rather a Ruby method. While this would work, it technically is not very good practice. Instead of <code class="highlighter-rouge">.length</code>, you can utilize <code class="highlighter-rouge">.size</code>, which is much faster and efficient in terms of memory usage.</p>
+<p>One example would be to utilize Active Record methods when making database queries. For example, <code class="language-plaintext highlighter-rouge">.length</code> is not actually an ActiveRecord method - but rather a Ruby method. While this would work, it technically is not very good practice. Instead of <code class="language-plaintext highlighter-rouge">.length</code>, you can utilize <code class="language-plaintext highlighter-rouge">.size</code>, which is much faster and efficient in terms of memory usage.</p>
 
-<p>Another way is the utilization of well-known or widely appreciated Ruby gems like the <code class="highlighter-rouge">Bullet gem</code>, which address the <code class="highlighter-rouge">N+1</code> problem. Usually this could mean that in a one-to-many relationship, a database will often times make a query for the parent database as well as a query for each child database of that parent. In a larger scale application, this can lead to your database being overrun with queries. Sometimes this redundancy can be hard to see so gems like <code class="highlighter-rouge">Bullet gem</code> can help us to reduce the total number of <code class="highlighter-rouge">N+1</code> problems.</p>
+<p>Another way is the utilization of well-known or widely appreciated Ruby gems like the <code class="language-plaintext highlighter-rouge">Bullet gem</code>, which address the <code class="language-plaintext highlighter-rouge">N+1</code> problem. Usually this could mean that in a one-to-many relationship, a database will often times make a query for the parent database as well as a query for each child database of that parent. In a larger scale application, this can lead to your database being overrun with queries. Sometimes this redundancy can be hard to see so gems like <code class="language-plaintext highlighter-rouge">Bullet gem</code> can help us to reduce the total number of <code class="language-plaintext highlighter-rouge">N+1</code> problems.</p>
 
 <p>You could also utilize indexes in a database, which act as placeholders for a query. Since a database has to check every individual cell to grab the information needed from a request, a large database would get very tedious for your Rails application.</p>
 
@@ -103,7 +103,7 @@ array.include? 9000 =&gt; false
 
 <h3 id="explain-a-git-merge-workflow-vs-a-git-rebase-workflow">Explain a git merge workflow vs a git rebase workflow</h3>
 
-<p>A git merge workflow allows for a timeline of events. It is also non-destructive as in existing branches are not changed in any way. However, if your <code class="highlighter-rouge">main</code> branch is very active, you may have a lot of extra data that you’d not be very interested in. Utilizing git rebase allows for a much more cleaner git history interface. We can see commits happen in a history of time-line by feature rather than by commits. This also allows for you to avoid having to merge to main.</p>
+<p>A git merge workflow allows for a timeline of events. It is also non-destructive as in existing branches are not changed in any way. However, if your <code class="language-plaintext highlighter-rouge">main</code> branch is very active, you may have a lot of extra data that you’d not be very interested in. Utilizing git rebase allows for a much more cleaner git history interface. We can see commits happen in a history of time-line by feature rather than by commits. This also allows for you to avoid having to merge to main.</p>
 
 <p>As long as we can utilize the Golden Rule of Rebase, which is to never rebase on public branches, rebase can be a workflow for specific uses!</p>
 
@@ -174,7 +174,7 @@ array.include? 9000 =&gt; false
     <p>Utilization of CI which begins testing immediately upon committing to Github.</p>
   </li>
   <li>
-    <p>Stubbing network requests through the use of Rails gems like <code class="highlighter-rouge">Webmock</code> or <code class="highlighter-rouge">VCR</code>.</p>
+    <p>Stubbing network requests through the use of Rails gems like <code class="language-plaintext highlighter-rouge">Webmock</code> or <code class="language-plaintext highlighter-rouge">VCR</code>.</p>
   </li>
   <li>
     <p>If budget allows, update computer hardware in which testing is done.</p>
@@ -186,7 +186,7 @@ array.include? 9000 =&gt; false
     <p>Limit the number of gem dependencies by utilizing Gem blocks i.e, does this gem need to be in both development and test?</p>
   </li>
   <li>
-    <p>Rely less on database operations and utilize tools like <code class="highlighter-rouge">Faker</code> and <code class="highlighter-rouge">Factorybot</code>.</p>
+    <p>Rely less on database operations and utilize tools like <code class="language-plaintext highlighter-rouge">Faker</code> and <code class="language-plaintext highlighter-rouge">Factorybot</code>.</p>
   </li>
 </ul>
 
@@ -196,9 +196,9 @@ array.include? 9000 =&gt; false
 
 <h3 id="what-is-yield-in-ruby-what-is-it-useful-for-give-an-example-of-where-you-would-put-it">What is yield in Ruby? What is it useful for? Give an example of where you would put it.</h3>
 
-<p>A yield is utilized in Ruby when calling a block of code. Yield allows me to forgo having to name a variable - the <code class="highlighter-rouge">yield</code> keyword itself acts as a variable that allows me to insert any number of arguments. I might use a <code class="highlighter-rouge">yield</code> when I am developing a block of code in which I am not exactly sure about specific variable names - utilizing <code class="highlighter-rouge">yield</code> I can forgo naming my variables until later when I am ready to define my work.</p>
+<p>A yield is utilized in Ruby when calling a block of code. Yield allows me to forgo having to name a variable - the <code class="language-plaintext highlighter-rouge">yield</code> keyword itself acts as a variable that allows me to insert any number of arguments. I might use a <code class="language-plaintext highlighter-rouge">yield</code> when I am developing a block of code in which I am not exactly sure about specific variable names - utilizing <code class="language-plaintext highlighter-rouge">yield</code> I can forgo naming my variables until later when I am ready to define my work.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>def a_greeting
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>def a_greeting
     yield "Kon"
     yield "Ham"
 end
@@ -207,7 +207,7 @@ a_greeting { |name| puts "Hello, my name is #{name}!" }
 </code></pre></div></div>
 <p>results in:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Hello, my name is Kon!
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Hello, my name is Kon!
 Hello, my name is Ham!
 </code></pre></div></div>
 
@@ -230,13 +230,13 @@ Hello, my name is Ham!
 
 <h3 id="an-enumerable-by-any-other-name-still-behaves-the-same-give-the-other-name-for-these-3-ruby-enumerables-detect-select-collect">An enumerable by any other name still behaves the same. Give the other name for these 3 Ruby enumerables Detect, Select, Collect</h3>
 
-<p><code class="highlighter-rouge">.select_all</code> (I’m not sure I understand this question. I’ll come back to it later.)</p>
+<p><code class="language-plaintext highlighter-rouge">.select_all</code> (I’m not sure I understand this question. I’ll come back to it later.)</p>
 
 <h3 id="in-as-much-detail-as-possible-describe-dns">In as much detail as possible, describe DNS.</h3>
 
-<p>DNS solves the problem of translating domain names like <code class="highlighter-rouge">google.com</code> into actual IP addresses. IP addresses are how client requests are directed to go to the exact server.</p>
+<p>DNS solves the problem of translating domain names like <code class="language-plaintext highlighter-rouge">google.com</code> into actual IP addresses. IP addresses are how client requests are directed to go to the exact server.</p>
 
-<p>For humans, IP addresses are not an ideal way form of data. It is much harder to remember <code class="highlighter-rouge">192.168.1.1</code> than it is to remember <code class="highlighter-rouge">google.com</code>. DNS solves this problem by giving humans a way to remember website names and conveniently acting as an interpreter for computers to direct the domain name to the actual corresponding IP address.</p>
+<p>For humans, IP addresses are not an ideal way form of data. It is much harder to remember <code class="language-plaintext highlighter-rouge">192.168.1.1</code> than it is to remember <code class="language-plaintext highlighter-rouge">google.com</code>. DNS solves this problem by giving humans a way to remember website names and conveniently acting as an interpreter for computers to direct the domain name to the actual corresponding IP address.</p>
 
 <h3 id="what-does-it-mean-for-a-function-to-be-deprecated">What does it mean for a function to be deprecated?</h3>
 
@@ -263,4 +263,9 @@ Hello, my name is Ham!
 <p>A JSON web token is an open standard that allows for securely transmitted data between parties. It is sent as a JSON object and can be sent with a digital signature - sometimes an encryption or a key pair.</p>
 
 <p>We normally use JSON web tokens to transmit information or to provide authorization for users.</p>
+
+<h2 id="was-this-helpful">Was this helpful?</h2>
+<p>I may have gotten some information incorrect or my grammar might be hard to read. Please let me know.</p>
+
+<p>Contact me at <a href="mailto:info.konham@gmail.com">info.konham@gmail.com</a> or <a href="mailto:contact@konkham.com">contact@konkham.com</a></p>
 :ET

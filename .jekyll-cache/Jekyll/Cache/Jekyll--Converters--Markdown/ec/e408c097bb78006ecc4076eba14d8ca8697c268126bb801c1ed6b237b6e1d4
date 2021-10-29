@@ -1,0 +1,64 @@
+I"�	<h2 id="using-p">Using <code class="language-plaintext highlighter-rouge">p</code></h2>
+<ul>
+  <li>Use <code class="language-plaintext highlighter-rouge">p</code> if you need your output to look more closely to what your Ruby code looks like.</li>
+</ul>
+
+<h2 id="using-puts">Using <code class="language-plaintext highlighter-rouge">puts</code></h2>
+<ul>
+  <li>Use <code class="language-plaintext highlighter-rouge">puts</code> if you need to output your value <em>and</em> create a new line afterwards. You’ll notice in the example below <code class="language-plaintext highlighter-rouge">puts</code> does not literally output values in our array example.</li>
+</ul>
+
+<h2 id="using-print">Using <code class="language-plaintext highlighter-rouge">print</code></h2>
+<ul>
+  <li>Use <code class="language-plaintext highlighter-rouge">print</code> if you need to output your value <em>with no new line</em>.</li>
+</ul>
+
+<h2 id="using-return">Using <code class="language-plaintext highlighter-rouge">return</code></h2>
+<ul>
+  <li>Use <code class="language-plaintext highlighter-rouge">return</code> if you need to simply return a value without indicating a need for a visible output for your value.</li>
+</ul>
+
+<p>Here’s an example of an output:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>```
+# Defining our array variable
+irb(main):001:0&gt; array = ["chicken", "butt", " ", nil, 9001]
+
+=&gt; ["chicken", "butt", " ", nil, 9001]
+
+# Using p
+irb(main):002:0&gt; p array
+["chicken", "butt", " ", nil, 9001]
+
+# Your output using p
+=&gt; ["chicken", "butt", " ", nil, 9001]
+
+# Using puts
+irb(main):003:0&gt; puts array
+
+# Your output using puts
+chicken
+butt
+
+
+9001
+=&gt; nil
+
+# Using print
+irb(main):004:0&gt; print array
+
+# Your output using print
+["chicken", "butt", " ", nil, 9001]=&gt; nil
+```
+</code></pre></div></div>
+
+<h2 id="still-confused">Still Confused?</h2>
+<p>I would encourage you not to worry about it. You’ll get more solid on your understanding when you have a need for it on a case-by-case basis.</p>
+
+<p>What’s really important to know between all of these methods is that they’re <em>similar</em> but <em>not the same</em>.</p>
+
+<h2 id="was-this-helpful">Was this helpful?</h2>
+<p>I may have gotten some information incorrect or my grammar might be hard to read. Please let me know.</p>
+
+<p>Contact me at <a href="mailto:info.konham@gmail.com">info.konham@gmail.com</a> or <a href="mailto:contact@konkham.com">contact@konkham.com</a></p>
+:ET

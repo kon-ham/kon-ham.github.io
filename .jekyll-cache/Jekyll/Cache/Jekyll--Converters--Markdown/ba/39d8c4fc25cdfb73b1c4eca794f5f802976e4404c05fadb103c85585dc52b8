@@ -1,4 +1,4 @@
-I"0<p>With Poole as a baseline theme for Jekyll, there aren’t many options available out of the box. Basic light and dark mode support is included. Colors are also provided for your own customization, while other Poole themes build on this to create more unique looks.</p>
+I"�<p>With Poole as a baseline theme for Jekyll, there aren’t many options available out of the box. Basic light and dark mode support is included. Colors are also provided for your own customization, while other Poole themes build on this to create more unique looks.</p>
 
 <ul id="markdown-toc">
   <li><a href="#dark-mode" id="markdown-toc-dark-mode">Dark mode</a></li>
@@ -10,7 +10,7 @@
 
 <h2 id="dark-mode">Dark mode</h2>
 
-<p><strong>Dark mode is enabled automatically</strong> via CSS media query—you’ll find the source code for this in the <code class="highlighter-rouge">_sass/_variables.scss</code> stylesheet. If you’re familiar with CSS custom properties, you can also use this method to build your own color schemes.</p>
+<p><strong>Dark mode is enabled automatically</strong> via CSS media query—you’ll find the source code for this in the <code class="language-plaintext highlighter-rouge">_sass/_variables.scss</code> stylesheet. If you’re familiar with CSS custom properties, you can also use this method to build your own color schemes.</p>
 
 <p><a href="https://markdotto.com/2018/11/05/css-dark-mode/">Read more about using CSS dark mode</a> via media queries like this:</p>
 
@@ -22,7 +22,7 @@
 
 <h2 id="creating-themes">Creating themes</h2>
 
-<p>If you want to make your own color schemes, modify the CSS variables in the <code class="highlighter-rouge">_sass/_variables.scss</code> stylesheet with a scoped data attribute or class name.</p>
+<p>If you want to make your own color schemes, modify the CSS variables in the <code class="language-plaintext highlighter-rouge">_sass/_variables.scss</code> stylesheet with a scoped data attribute or class name.</p>
 
 <p>For example, below we’ve created the beginnings of a blue theme:</p>
 
@@ -33,7 +33,7 @@
 <span class="p">}</span>
 </code></pre></div></div>
 
-<p>Then, apply the theme by adding <code class="highlighter-rouge">data-theme="blue"</code> to the <code class="highlighter-rouge"><span class="nt">&lt;html&gt;</span></code> element.</p>
+<p>Then, apply the theme by adding <code class="language-plaintext highlighter-rouge">data-theme="blue"</code> to the <code class="language-plaintext highlighter-rouge">&lt;html&gt;</code> element.</p>
 
 <h2 id="colors">Colors</h2>
 
@@ -156,7 +156,7 @@
 
 <h2 id="google-analytics">Google Analytics</h2>
 
-<p>Specify <code class="highlighter-rouge">ga_analytics</code> in your <code class="highlighter-rouge">_config.yml</code> and restart the server to add Google Analytics tracking code.</p>
+<p>Specify <code class="language-plaintext highlighter-rouge">ga_analytics</code> in your <code class="language-plaintext highlighter-rouge">_config.yml</code> and restart the server to add Google Analytics tracking code.</p>
 
 <div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Google Analytics example</span>
 <span class="ss">ga_analytics: </span><span class="no">UA</span><span class="o">-</span><span class="mo">000000</span><span class="o">-</span><span class="mi">0</span>

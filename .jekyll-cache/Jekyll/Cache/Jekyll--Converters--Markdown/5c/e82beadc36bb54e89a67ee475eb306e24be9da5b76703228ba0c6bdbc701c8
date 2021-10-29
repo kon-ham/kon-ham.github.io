@@ -1,4 +1,4 @@
-I"�<p>I’ve created two Github repositories – both of which are free for you to explore and, if you want, to contribute to.</p>
+I"1<p>I’ve created two Github repositories – both of which are free for you to explore and, if you want, to contribute to.</p>
 
 <p>The first is called Breaking Demeter. The law of Demeter states that you should not have two uniquely defined methods called on each other. Doing so is redundant and it can get confusing for another developer combing through your code. Of course, while the law is more of a guideline for readability and general methodology, (if you are breaking Demeter consider asking yourself if you need a helper method) there are general exceptions and sometimes the best solution can be to ignore the law completely.</p>
 
@@ -6,9 +6,9 @@
 
 <p>You can find the Breaking Demeter exercise here: <a href="https://github.com/ignored-comment/breaking_demeter">https://github.com/ignored-comment/breaking_demeter</a></p>
 
-<p>The Enumerables repository is to help you explore through enumerables through a series of short and easy tests. If you’ve been grinding through Leetcode or Exercism, these tests will probably be a waste of time for you. If, however, you want a <em>gentle introduction</em> to enumerables, then this is for you. For now, you have enumerables practices for <code class="highlighter-rouge">find_all</code>, <code class="highlighter-rouge">any</code> and <code class="highlighter-rouge">map</code>. I will continue to update the repository with more as time passes.</p>
+<p>The Enumerables repository is to help you explore through enumerables through a series of short and easy tests. If you’ve been grinding through Leetcode or Exercism, these tests will probably be a waste of time for you. If, however, you want a <em>gentle introduction</em> to enumerables, then this is for you. For now, you have enumerables practices for <code class="language-plaintext highlighter-rouge">find_all</code>, <code class="language-plaintext highlighter-rouge">any</code> and <code class="language-plaintext highlighter-rouge">map</code>. I will continue to update the repository with more as time passes.</p>
 
-<p>And, I should say, the biggest advantage of engaging in something like my Enumerables exercise is that you might write your own tests for an enumerable you’ve been wanting to explore. This will deepen your knowledge. See the <code class="highlighter-rouge">README.md</code> for more information.</p>
+<p>And, I should say, the biggest advantage of engaging in something like my Enumerables exercise is that you might write your own tests for an enumerable you’ve been wanting to explore. This will deepen your knowledge. See the <code class="language-plaintext highlighter-rouge">README.md</code> for more information.</p>
 
 <p>You can find the Enumerable exercise here: <a href="https://github.com/ignored-comment/enumerables">https://github.com/ignored-comment/enumerables</a></p>
 

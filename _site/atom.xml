@@ -4,7 +4,7 @@
  <title>Kon Ham</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-09-05T09:44:46-04:00</updated>
+ <updated>2021-10-29T14:28:15-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -13,21 +13,268 @@
 
  
  <entry>
+   <title>The Religious View of College Degrees</title>
+   <link href="http://localhost:4000/2021/10/28/the-religious-view-of-college-degrees/"/>
+   <updated>2021-10-28T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2021/10/28/the-religious-view-of-college-degrees</id>
+   <content type="html">&lt;p&gt;People are afraid to make mistakes and it’s easier to assume that a college graduate is a safer choice.&lt;/p&gt;
+
+&lt;p&gt;It’s really a mindset that will take generations to change. People have been challenging the paradigm that college degrees imply greater value for decades now - still no change, only more debt.&lt;/p&gt;
+
+&lt;p&gt;Also, not always but gate keepers to employment tend to have degrees which exacerbates the issue.&lt;/p&gt;
+
+&lt;p&gt;The problem is that no amount of rational discussion will cause companies to change their mindset about the value of a college degree.&lt;/p&gt;
+
+&lt;p&gt;Inherently the view that college graduates hold greater value is a religious view rather than a rational and objective view. It’s a waste of breath to argue religious views.&lt;/p&gt;
+
+&lt;p&gt;Anecdotally, I briefly attended a small liberal arts college where students were barely able to grasp reading comprehension.&lt;/p&gt;
+
+&lt;p&gt;We were reading Chaucer’s Canterbury Tales but none of the students were able to understand the material was written as satire.&lt;/p&gt;
+
+&lt;p&gt;Like most students currently entering college, they were able to interpret words but they were not able to grasp the concepts behind the words.&lt;/p&gt;
+
+&lt;p&gt;This is typical for many people entering college, never mind that most students can barely count numbers.&lt;/p&gt;
+
+&lt;p&gt;The biggest advantage that holding a college degree has is the implied value that you are were reliably boring enough to sit through four years of college classes.&lt;/p&gt;
+
+&lt;p&gt;This in turn means you’ll probably show up to work, attend all the meetings, and you can be expected to turn in your work when given a deadline.&lt;/p&gt;
+
+&lt;p&gt;You can train animals to do this with Pavlovian conditioning and some of those animals will even forgo a salary in exchange for peanuts.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The (Super Short) Difference Between P, Puts, Print, and Return</title>
+   <link href="http://localhost:4000/2021/10/25/difference-between-p-puts-and-return/"/>
+   <updated>2021-10-25T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2021/10/25/difference-between-p-puts-and-return</id>
+   <content type="html">&lt;h2 id=&quot;using-p&quot;&gt;Using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;p&lt;/code&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;p&lt;/code&gt; if you need your output to look more closely to what your Ruby code looks like.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;using-puts&quot;&gt;Using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;puts&lt;/code&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;puts&lt;/code&gt; if you need to output your value &lt;em&gt;and&lt;/em&gt; create a new line afterwards. You’ll notice in the example below &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;puts&lt;/code&gt; does not literally output values in our array example.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;using-print&quot;&gt;Using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;print&lt;/code&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;print&lt;/code&gt; if you need to output your value &lt;em&gt;with no new line&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;using-return&quot;&gt;Using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;return&lt;/code&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;return&lt;/code&gt; if you need to simply return a value without indicating a need for a visible output for your value.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here’s an example of an output:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;```
+# Defining our array variable
+irb(main):001:0&amp;gt; array = [&quot;chicken&quot;, &quot;butt&quot;, &quot; &quot;, nil, 9001]
+
+=&amp;gt; [&quot;chicken&quot;, &quot;butt&quot;, &quot; &quot;, nil, 9001]
+
+# Using p
+irb(main):002:0&amp;gt; p array
+[&quot;chicken&quot;, &quot;butt&quot;, &quot; &quot;, nil, 9001]
+
+# Your output using p
+=&amp;gt; [&quot;chicken&quot;, &quot;butt&quot;, &quot; &quot;, nil, 9001]
+
+# Using puts
+irb(main):003:0&amp;gt; puts array
+
+# Your output using puts
+chicken
+butt
+
+
+9001
+=&amp;gt; nil
+
+# Using print
+irb(main):004:0&amp;gt; print array
+
+# Your output using print
+[&quot;chicken&quot;, &quot;butt&quot;, &quot; &quot;, nil, 9001]=&amp;gt; nil
+```
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;still-confused&quot;&gt;Still Confused?&lt;/h2&gt;
+&lt;p&gt;I would encourage you not to worry about it. You’ll get more solid on your understanding when you have a need for it on a case-by-case basis.&lt;/p&gt;
+
+&lt;p&gt;What’s really important to know between all of these methods is that they’re &lt;em&gt;similar&lt;/em&gt; but &lt;em&gt;not the same&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;was-this-helpful&quot;&gt;Was this helpful?&lt;/h2&gt;
+&lt;p&gt;I may have gotten some information incorrect or my grammar might be hard to read. Please let me know.&lt;/p&gt;
+
+&lt;p&gt;Contact me at &lt;a href=&quot;mailto:info.konham@gmail.com&quot;&gt;info.konham@gmail.com&lt;/a&gt; or &lt;a href=&quot;mailto:contact@konkham.com&quot;&gt;contact@konkham.com&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Changing Your Mindset About Networking</title>
+   <link href="http://localhost:4000/2021/10/22/changing-your-mindset-about-networking/"/>
+   <updated>2021-10-22T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2021/10/22/changing-your-mindset-about-networking</id>
+   <content type="html">&lt;p&gt;Feeling Shy and Awkward About Networking?&lt;/p&gt;
+
+&lt;p&gt;Here’s a way to change your mindset:&lt;/p&gt;
+
+&lt;p&gt;Networking is asking for directions.&lt;/p&gt;
+
+&lt;p&gt;Let’s say you’re lost. No GPS signal. But there’s plenty of people around to ask for directions. They’re all friendly enough people.&lt;/p&gt;
+
+&lt;p&gt;Choose one.&lt;/p&gt;
+
+&lt;p&gt;Obviously you do not approach this person and demand that they take you to your destination.&lt;/p&gt;
+
+&lt;p&gt;No. You want directions. You want to do the work yourself to get you where you need. You aren’t asking that they chauffeur you to where you need to go. Asking for directions is always going to be a reasonable request. Nobody will deny this to you.&lt;/p&gt;
+
+&lt;p&gt;So you begin your reasonable proposition with a reasonable (and quick) greeting introducing yourself, your situation and how you’re looking for someone that might have directions to take you where you want to go.&lt;/p&gt;
+
+&lt;p&gt;They themselves might not be locals to the area and will apologize and let you know that they actually are new to the area so they cannot help you.&lt;/p&gt;
+
+&lt;p&gt;No big deal. Thank them for their time. Say goodbye with hopes to maybe run into them later (after all, it was a pleasant enough experience, was it not?)&lt;/p&gt;
+
+&lt;p&gt;Now you try the next person.&lt;/p&gt;
+
+&lt;p&gt;The next person says actually, “I sort of know how to get there from here but not exactly. Here’s what I know”&lt;/p&gt;
+
+&lt;p&gt;You take notes, you maybe share a funny moment or an anecdote but you tie up the loose ends and you thank them for their time, say your goodbyes and move on.&lt;/p&gt;
+
+&lt;p&gt;You repeat this process until you eventually reach your destination.&lt;/p&gt;
+
+&lt;p&gt;So don’t feel awkward nor ashamed about asking for networking opportunities. Most people want to help. Asking for directions is always a reasonable request.&lt;/p&gt;
+
+&lt;p&gt;So try asking for some directions today. It’s a great way to start your networking journey.&lt;/p&gt;
+
+&lt;h2 id=&quot;was-this-helpful&quot;&gt;Was this helpful?&lt;/h2&gt;
+&lt;p&gt;I may have gotten some information incorrect or my grammar might be hard to read. Please let me know.&lt;/p&gt;
+
+&lt;p&gt;Contact me at &lt;a href=&quot;mailto:info.konham@gmail.com&quot;&gt;info.konham@gmail.com&lt;/a&gt; or &lt;a href=&quot;mailto:contact@konkham.com&quot;&gt;contact@konkham.com&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My Key Takeaways From My First Tech Interviews</title>
+   <link href="http://localhost:4000/2021/09/14/my-takeaway-from-my-first-tech-interviews/"/>
+   <updated>2021-09-14T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2021/09/14/my-takeaway-from-my-first-tech-interviews</id>
+   <content type="html">&lt;h1 id=&quot;my-key-takeaways-from-my-two-interviews-from-last-week-one-technical-one-behavioral&quot;&gt;My key takeaways from my two interviews from last week (one technical, one behavioral)&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Interviewers are there to help you. Hiring is exhausting for all parties involved. They want you to be the last person they interview. Approach the situation with a “let’s both help each other out” attitude. We want to be a good match!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Be sure to demonstrate that you’ve done adequate research on the company. Try to find out company values, question about the business model, and demonstrate that you are there because you honestly find the business interesting. They will ask you the “why did you apply” question and it’s a bad look if you cannot answer beyond “I think it’s a cool company”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Have your “tell me about yourself” pitch down pat. You probably haven’t practiced this enough. You should be able to do this in your sleep. I think I saw somewhere that 2 minutes is the max you should be talking about yourself. Anything less seems like you haven’t figured out yourself yet.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Be ready to talk about how you worked with other teams (“As a backender, I would work with front-enders by engaging in daily standups, communicating asynchronously with team via Slack…” so on so forth)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Be ready to discuss how you like to work. (This one is tough for me since I would describe myself as being “fluid/adaptable”)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;When you don’t know, tell them you aren’t sure and that your best answer is XYZ, ask if that’s close to what they want, and if it’s not, apologize and let them know you’d love to follow up with them about that at a later time&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Have pen and paper or your choice of documentation ready to go. My behavioral interview involved my interviewer giving me about a 10 minute “35k feet” look at the business model. Lots of information, very fast. No way I could remember all of it. Lots of unfamiliar technical terminology. At the end they asked me “so what questions do you have about that”. It’s not a good look if you cannot ask thoughtful and interesting questions from their pitch.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Smile a lot. Even if it’s a voice chat. It’s scientifically proven that people can tell when you’re smiling even when just listening to your voice on the phone. And you made it this far anyways. Celebrate that you’re now moving on from Mod0 and Mod1 to interviewing! It’s really a reason to celebrate. Try to celebrate that in every interview&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Really give yourself permission to be yourself. Be kind. Be respectful. Be thoughtful, but be yourself. I was professional but looking back I regretted not being more “me”.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Have really great questions you want to ask your interviewer. And, ask those questions in your own language. You don’t have to talk like an aristocrat!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You may do a pretty good job and still be rejected. It doesn’t mean you sucked. It means that something in someone else made them just slightly more competitive than you. No big deal. Rejection is great because you can move on!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Follow up thank you emails are super important. You’re a networker! You don’t let loose connections die! Following up allows for more space for discussion - and who knows? Maybe they’ll remember you later. It’s a small world!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Nothing prepares you like the real thing. I am so thankful to Turing that I’ve been given so much practice (and continue to get practice) for interviewing but NOTHING is like the real deal. You will feel anxious. Smiling, breathing, and giving yourself permission to really be yourself will help you loosen up.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;about-the-technical-problem&quot;&gt;About the Technical Problem&lt;/h1&gt;
+&lt;p&gt;My technical problem was sorting through 3 files of a million tweets per file. This was a file that had no extension. I had to ask about what these files were.&lt;/p&gt;
+
+&lt;p&gt;Each tweet had a NYC borough and a tweet separated by a tab indent. I was asked to sort through 3 million tweets and count the number of times a link appeared in each tweet and organize that number by NYC boroughs.&lt;/p&gt;
+
+&lt;p&gt;Looking back I froze up a couple times trying to think of Ruby methods to help me solve the problem. (That is, I did not immediately get to planning but instead thought about how to blindly solve the problem - that’s bad! Always plan first!)&lt;/p&gt;
+
+&lt;p&gt;But because I had practice, I went through the motions of pseudo coding. I asked questions. I explained what I thought I would do. I mentioned big O notation and that my solution was admittedly something like an o(n^2) or greater.We talked through it together and we had a good time.&lt;/p&gt;
+
+&lt;p&gt;My takeaway from this is:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;I did not ask enough questions. If you have time, ask enough questions until you aren’t as confused.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ask more questions after that. You probably haven’t asked enough questions. Since I’m a yokel I even had to ask about what a borough was.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;There were times I stopped communicating because I got lost in my thoughts. Verbalize those thoughts and make it clear to your interviewer that you’re verbalizing some thoughts. This helps them to know you’re thinking about stuff and not just crumbling in front of them.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ask more questions! Tell them where you’re confused about your thought process.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Your plan probably hasn’t been thought through enough! Talk it through with your interviewer. Sometimes you get hints. Keep building onto your plan.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Write the code and when you finished and they give you a better solution, express your intellectual curiosity and desire to learn by showing your excitement.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I got too granular with trying to solve the problem. The big picture was right in front of me. (I was trying to sort all of the tweets by borough first instead of just sorting through all of the tweets that have links, which ultimately would have cut my dataset from 3million to….50k? 20k? Anything but 3 million. I got too lost in the weeds trying to solve the problem instead of thinking big picture of what it was I was trying to solve. That is, who cares about all the other tweets? I just want to do something with the tweets that have links.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Smile and be happy you’re in a position where you’re now ACTUALLY INTERVIEWING AND DOING TECHNICAL INTERVIEWS. THATS REALLY IMPRESSIVE! And you even did it in more or less 6 months. You’re really awesome.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;about-scheduling-your-interviews&quot;&gt;About Scheduling Your Interviews&lt;/h1&gt;
+&lt;p&gt;Consider how you’ll space out interviews. I had 3 interviews that week, one with Turing and two actual real live ones. While I did knock out a bunch of them all at once, I feel I am still emotionally recovering from them.&lt;/p&gt;
+
+&lt;p&gt;The flip-side of scheduling things by spacing them out is, for me, I get anxious about upcoming interview events.&lt;/p&gt;
+
+&lt;p&gt;So scheduling is something to consider with your energy levels. Hard to feign enthusiasm when you’re tired.&lt;/p&gt;
+
+&lt;h2 id=&quot;was-this-helpful&quot;&gt;Was this helpful?&lt;/h2&gt;
+&lt;p&gt;I may have gotten some information incorrect or my grammar might be hard to read. Please let me know.&lt;/p&gt;
+
+&lt;p&gt;Contact me at &lt;a href=&quot;mailto:info.konham@gmail.com&quot;&gt;info.konham@gmail.com&lt;/a&gt; or &lt;a href=&quot;mailto:contact@konkham.com&quot;&gt;contact@konkham.com&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>BE Technical Questions for Interview Prep</title>
    <link href="http://localhost:4000/tech/backend%20engineering/2021/09/04/be-technical-questions/"/>
    <updated>2021-09-04T00:00:00-04:00</updated>
    <id>http://localhost:4000/tech/backend%20engineering/2021/09/04/be-technical-questions</id>
    <content type="html">&lt;h3 id=&quot;what-is-the-difference-between-arraymap-and-arrayeach&quot;&gt;What is the difference between Array#map and Array#each?&lt;/h3&gt;
 
-&lt;p&gt;Whenever you finish iterating over your elements, &lt;code class=&quot;highlighter-rouge&quot;&gt;Array#each&lt;/code&gt; will return the original array while &lt;code class=&quot;highlighter-rouge&quot;&gt;Array#map&lt;/code&gt; will return a new array. Both iterative methods iterate. &lt;code class=&quot;highlighter-rouge&quot;&gt;Array#map&lt;/code&gt; actually incorporates the Array#each method while transforming the values of the array in a new array.&lt;/p&gt;
+&lt;p&gt;Whenever you finish iterating over your elements, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Array#each&lt;/code&gt; will return the original array while &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Array#map&lt;/code&gt; will return a new array. Both iterative methods iterate. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Array#map&lt;/code&gt; actually incorporates the Array#each method while transforming the values of the array in a new array.&lt;/p&gt;
 
 &lt;h3 id=&quot;name-4-ruby-enumerables-excluding-each-and-map-and-give-a-brief-example-of-whats-unique-about-each&quot;&gt;Name 4 ruby enumerables excluding each and map and give a brief example of what’s unique about each.&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Enumerable#all?&lt;/code&gt; method iterates through each element of the collection and returns true if the included argument is never false or nil.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Enumerable#all?&lt;/code&gt; method iterates through each element of the collection and returns true if the included argument is never false or nil.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;array = ['cat', 'bat', 'sat']
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;array = [&apos;cat&apos;, &apos;bat&apos;, &apos;sat&apos;]
 
 array.all? { | word | word.length == 3 } =&amp;gt; true
 
@@ -36,21 +283,21 @@ array.all? { |word | word.length == 0 } =&amp;gt; false
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Enumerable#count&lt;/code&gt; method iterates through each element in the collection and returns the total amount of elements inside of the collection.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Enumerable#count&lt;/code&gt; method iterates through each element in the collection and returns the total amount of elements inside of the collection.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
-array = ['john', 'ny', 'apple', 'seed']
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+array = [&apos;john&apos;, &apos;ny&apos;, &apos;apple&apos;, &apos;seed&apos;]
 
 array.count =&amp;gt; 4
 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Enumerable#drop(n)&lt;/code&gt; will iterate through each element of the collection and drop the (n) number of elements in the collection, starting from the first element. It will return the rest of the elements in the array.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Enumerable#drop(n)&lt;/code&gt; will iterate through each element of the collection and drop the (n) number of elements in the collection, starting from the first element. It will return the rest of the elements in the array.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
 array = [1, 2, 3, 4, 5]
 
 array.drop(1) =&amp;gt; [2, 3, 4, 5]
@@ -58,10 +305,10 @@ array.drop(1) =&amp;gt; [2, 3, 4, 5]
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Enumerable#include?&lt;/code&gt; will iterate through each element and return true if any of the elements match the argument.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Enumerable#include?&lt;/code&gt; will iterate through each element and return true if any of the elements match the argument.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
 array = [1, 2, 3, 4, 5, 6, 7]
 
 array.include? 9000 =&amp;gt; false
@@ -70,7 +317,7 @@ array.include? 9000 =&amp;gt; false
 
 &lt;h3 id=&quot;in-as-much-detail-as-possible-describe-the-request-response-cycle&quot;&gt;In as much detail as possible, describe the request-response cycle.&lt;/h3&gt;
 
-&lt;p&gt;A user types in a request utilizing their client which we call a browser. The request eventually will make its way through the servers to our Rails &lt;code class=&quot;highlighter-rouge&quot;&gt;routes.rb&lt;/code&gt; file. Our &lt;code class=&quot;highlighter-rouge&quot;&gt;routes.rb&lt;/code&gt; file will then determine the closest match with the URL and HTTP request and match it with the controllers and action in our Rails application. Then the view is generated and the response is sent back to the user.&lt;/p&gt;
+&lt;p&gt;A user types in a request utilizing their client which we call a browser. The request eventually will make its way through the servers to our Rails &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;routes.rb&lt;/code&gt; file. Our &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;routes.rb&lt;/code&gt; file will then determine the closest match with the URL and HTTP request and match it with the controllers and action in our Rails application. Then the view is generated and the response is sent back to the user.&lt;/p&gt;
 
 &lt;h3 id=&quot;whats-a-module-in-ruby-whats-the-difference-between-a-class-and-a-module-what-are-some-good-use-cases-for-modules&quot;&gt;What’s a module in Ruby? What’s the difference between a class and a module? What are some good use cases for modules?&lt;/h3&gt;
 
@@ -82,9 +329,9 @@ array.include? 9000 =&amp;gt; false
 
 &lt;h3 id=&quot;what-are-a-few-ways-to-optimize-a-rails-application&quot;&gt;What are a few ways to optimize a Rails application?&lt;/h3&gt;
 
-&lt;p&gt;One example would be to utilize Active Record methods when making database queries. For example, &lt;code class=&quot;highlighter-rouge&quot;&gt;.length&lt;/code&gt; is not actually an ActiveRecord method - but rather a Ruby method. While this would work, it technically is not very good practice. Instead of &lt;code class=&quot;highlighter-rouge&quot;&gt;.length&lt;/code&gt;, you can utilize &lt;code class=&quot;highlighter-rouge&quot;&gt;.size&lt;/code&gt;, which is much faster and efficient in terms of memory usage.&lt;/p&gt;
+&lt;p&gt;One example would be to utilize Active Record methods when making database queries. For example, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.length&lt;/code&gt; is not actually an ActiveRecord method - but rather a Ruby method. While this would work, it technically is not very good practice. Instead of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.length&lt;/code&gt;, you can utilize &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.size&lt;/code&gt;, which is much faster and efficient in terms of memory usage.&lt;/p&gt;
 
-&lt;p&gt;Another way is the utilization of well-known or widely appreciated Ruby gems like the &lt;code class=&quot;highlighter-rouge&quot;&gt;Bullet gem&lt;/code&gt;, which address the &lt;code class=&quot;highlighter-rouge&quot;&gt;N+1&lt;/code&gt; problem. Usually this could mean that in a one-to-many relationship, a database will often times make a query for the parent database as well as a query for each child database of that parent. In a larger scale application, this can lead to your database being overrun with queries. Sometimes this redundancy can be hard to see so gems like &lt;code class=&quot;highlighter-rouge&quot;&gt;Bullet gem&lt;/code&gt; can help us to reduce the total number of &lt;code class=&quot;highlighter-rouge&quot;&gt;N+1&lt;/code&gt; problems.&lt;/p&gt;
+&lt;p&gt;Another way is the utilization of well-known or widely appreciated Ruby gems like the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Bullet gem&lt;/code&gt;, which address the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;N+1&lt;/code&gt; problem. Usually this could mean that in a one-to-many relationship, a database will often times make a query for the parent database as well as a query for each child database of that parent. In a larger scale application, this can lead to your database being overrun with queries. Sometimes this redundancy can be hard to see so gems like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Bullet gem&lt;/code&gt; can help us to reduce the total number of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;N+1&lt;/code&gt; problems.&lt;/p&gt;
 
 &lt;p&gt;You could also utilize indexes in a database, which act as placeholders for a query. Since a database has to check every individual cell to grab the information needed from a request, a large database would get very tedious for your Rails application.&lt;/p&gt;
 
@@ -122,7 +369,7 @@ array.include? 9000 =&amp;gt; false
 
 &lt;h3 id=&quot;explain-a-git-merge-workflow-vs-a-git-rebase-workflow&quot;&gt;Explain a git merge workflow vs a git rebase workflow&lt;/h3&gt;
 
-&lt;p&gt;A git merge workflow allows for a timeline of events. It is also non-destructive as in existing branches are not changed in any way. However, if your &lt;code class=&quot;highlighter-rouge&quot;&gt;main&lt;/code&gt; branch is very active, you may have a lot of extra data that you’d not be very interested in. Utilizing git rebase allows for a much more cleaner git history interface. We can see commits happen in a history of time-line by feature rather than by commits. This also allows for you to avoid having to merge to main.&lt;/p&gt;
+&lt;p&gt;A git merge workflow allows for a timeline of events. It is also non-destructive as in existing branches are not changed in any way. However, if your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;main&lt;/code&gt; branch is very active, you may have a lot of extra data that you’d not be very interested in. Utilizing git rebase allows for a much more cleaner git history interface. We can see commits happen in a history of time-line by feature rather than by commits. This also allows for you to avoid having to merge to main.&lt;/p&gt;
 
 &lt;p&gt;As long as we can utilize the Golden Rule of Rebase, which is to never rebase on public branches, rebase can be a workflow for specific uses!&lt;/p&gt;
 
@@ -193,7 +440,7 @@ array.include? 9000 =&amp;gt; false
     &lt;p&gt;Utilization of CI which begins testing immediately upon committing to Github.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Stubbing network requests through the use of Rails gems like &lt;code class=&quot;highlighter-rouge&quot;&gt;Webmock&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;VCR&lt;/code&gt;.&lt;/p&gt;
+    &lt;p&gt;Stubbing network requests through the use of Rails gems like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Webmock&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;VCR&lt;/code&gt;.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;If budget allows, update computer hardware in which testing is done.&lt;/p&gt;
@@ -205,7 +452,7 @@ array.include? 9000 =&amp;gt; false
     &lt;p&gt;Limit the number of gem dependencies by utilizing Gem blocks i.e, does this gem need to be in both development and test?&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Rely less on database operations and utilize tools like &lt;code class=&quot;highlighter-rouge&quot;&gt;Faker&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;Factorybot&lt;/code&gt;.&lt;/p&gt;
+    &lt;p&gt;Rely less on database operations and utilize tools like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Faker&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Factorybot&lt;/code&gt;.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -215,9 +462,9 @@ array.include? 9000 =&amp;gt; false
 
 &lt;h3 id=&quot;what-is-yield-in-ruby-what-is-it-useful-for-give-an-example-of-where-you-would-put-it&quot;&gt;What is yield in Ruby? What is it useful for? Give an example of where you would put it.&lt;/h3&gt;
 
-&lt;p&gt;A yield is utilized in Ruby when calling a block of code. Yield allows me to forgo having to name a variable - the &lt;code class=&quot;highlighter-rouge&quot;&gt;yield&lt;/code&gt; keyword itself acts as a variable that allows me to insert any number of arguments. I might use a &lt;code class=&quot;highlighter-rouge&quot;&gt;yield&lt;/code&gt; when I am developing a block of code in which I am not exactly sure about specific variable names - utilizing &lt;code class=&quot;highlighter-rouge&quot;&gt;yield&lt;/code&gt; I can forgo naming my variables until later when I am ready to define my work.&lt;/p&gt;
+&lt;p&gt;A yield is utilized in Ruby when calling a block of code. Yield allows me to forgo having to name a variable - the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;yield&lt;/code&gt; keyword itself acts as a variable that allows me to insert any number of arguments. I might use a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;yield&lt;/code&gt; when I am developing a block of code in which I am not exactly sure about specific variable names - utilizing &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;yield&lt;/code&gt; I can forgo naming my variables until later when I am ready to define my work.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;def a_greeting
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;def a_greeting
     yield &quot;Kon&quot;
     yield &quot;Ham&quot;
 end
@@ -226,7 +473,7 @@ a_greeting { |name| puts &quot;Hello, my name is #{name}!&quot; }
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p&gt;results in:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Hello, my name is Kon!
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Hello, my name is Kon!
 Hello, my name is Ham!
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -249,13 +496,13 @@ Hello, my name is Ham!
 
 &lt;h3 id=&quot;an-enumerable-by-any-other-name-still-behaves-the-same-give-the-other-name-for-these-3-ruby-enumerables-detect-select-collect&quot;&gt;An enumerable by any other name still behaves the same. Give the other name for these 3 Ruby enumerables Detect, Select, Collect&lt;/h3&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;.select_all&lt;/code&gt; (I’m not sure I understand this question. I’ll come back to it later.)&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.select_all&lt;/code&gt; (I’m not sure I understand this question. I’ll come back to it later.)&lt;/p&gt;
 
 &lt;h3 id=&quot;in-as-much-detail-as-possible-describe-dns&quot;&gt;In as much detail as possible, describe DNS.&lt;/h3&gt;
 
-&lt;p&gt;DNS solves the problem of translating domain names like &lt;code class=&quot;highlighter-rouge&quot;&gt;google.com&lt;/code&gt; into actual IP addresses. IP addresses are how client requests are directed to go to the exact server.&lt;/p&gt;
+&lt;p&gt;DNS solves the problem of translating domain names like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;google.com&lt;/code&gt; into actual IP addresses. IP addresses are how client requests are directed to go to the exact server.&lt;/p&gt;
 
-&lt;p&gt;For humans, IP addresses are not an ideal way form of data. It is much harder to remember &lt;code class=&quot;highlighter-rouge&quot;&gt;192.168.1.1&lt;/code&gt; than it is to remember &lt;code class=&quot;highlighter-rouge&quot;&gt;google.com&lt;/code&gt;. DNS solves this problem by giving humans a way to remember website names and conveniently acting as an interpreter for computers to direct the domain name to the actual corresponding IP address.&lt;/p&gt;
+&lt;p&gt;For humans, IP addresses are not an ideal way form of data. It is much harder to remember &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;192.168.1.1&lt;/code&gt; than it is to remember &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;google.com&lt;/code&gt;. DNS solves this problem by giving humans a way to remember website names and conveniently acting as an interpreter for computers to direct the domain name to the actual corresponding IP address.&lt;/p&gt;
 
 &lt;h3 id=&quot;what-does-it-mean-for-a-function-to-be-deprecated&quot;&gt;What does it mean for a function to be deprecated?&lt;/h3&gt;
 
@@ -282,6 +529,11 @@ Hello, my name is Ham!
 &lt;p&gt;A JSON web token is an open standard that allows for securely transmitted data between parties. It is sent as a JSON object and can be sent with a digital signature - sometimes an encryption or a key pair.&lt;/p&gt;
 
 &lt;p&gt;We normally use JSON web tokens to transmit information or to provide authorization for users.&lt;/p&gt;
+
+&lt;h2 id=&quot;was-this-helpful&quot;&gt;Was this helpful?&lt;/h2&gt;
+&lt;p&gt;I may have gotten some information incorrect or my grammar might be hard to read. Please let me know.&lt;/p&gt;
+
+&lt;p&gt;Contact me at &lt;a href=&quot;mailto:info.konham@gmail.com&quot;&gt;info.konham@gmail.com&lt;/a&gt; or &lt;a href=&quot;mailto:contact@konkham.com&quot;&gt;contact@konkham.com&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -302,7 +554,7 @@ Hello, my name is Ham!
 
 &lt;p&gt;This repo and tutorial is a play-on the name of the Law of Demeter and without shame breaks the Law of Demeter many, many times.&lt;/p&gt;
 
-&lt;p&gt;I justify breaking such a design principle here in order to help learners visualize with &lt;code class=&quot;highlighter-rouge&quot;&gt;binding.pry&lt;/code&gt; how you could access one object through another, ad nauseum.&lt;/p&gt;
+&lt;p&gt;I justify breaking such a design principle here in order to help learners visualize with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;binding.pry&lt;/code&gt; how you could access one object through another, ad nauseum.&lt;/p&gt;
 
 &lt;p&gt;My hope is that at the very minimum, a person going through this test will eventually come to realize that while yes, you can access the attributes of one object by going through three or four different objects, it’s obnoxious and not very suited for developer empathy.&lt;/p&gt;
 
@@ -313,6 +565,11 @@ Hello, my name is Ham!
 &lt;p&gt;Hope you enjoy!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/kon-ham/breaking_demeter&quot;&gt;Breaking Demeter - An obnoxious (and mostly useless) study in the (im)proper selection of nested classes and collections&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;was-this-helpful&quot;&gt;Was this helpful?&lt;/h2&gt;
+&lt;p&gt;I may have gotten some information incorrect or my grammar might be hard to read. Please let me know.&lt;/p&gt;
+
+&lt;p&gt;Contact me at &lt;a href=&quot;mailto:info.konham@gmail.com&quot;&gt;info.konham@gmail.com&lt;/a&gt; or &lt;a href=&quot;mailto:contact@konkham.com&quot;&gt;contact@konkham.com&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -385,6 +642,11 @@ It is possible to drown someone with too much support. Sometimes it’s best giv
 &lt;p&gt;It’s common for young people to graduate even college without a clue of what they want to do to contribute to our world.&lt;/p&gt;
 
 &lt;p&gt;Why should we blame them? We stick them in white cinderblock buildings for over 15,000 hours.&lt;/p&gt;
+
+&lt;h2 id=&quot;was-this-helpful&quot;&gt;Was this helpful?&lt;/h2&gt;
+&lt;p&gt;I may have gotten some information incorrect or my grammar might be hard to read. Please let me know.&lt;/p&gt;
+
+&lt;p&gt;Contact me at &lt;a href=&quot;mailto:info.konham@gmail.com&quot;&gt;info.konham@gmail.com&lt;/a&gt; or &lt;a href=&quot;mailto:contact@konkham.com&quot;&gt;contact@konkham.com&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1240,7 +1502,7 @@ It is possible to drown someone with too much support. Sometimes it’s best giv
  </entry>
  
  <entry>
-   <title>Netflix and Tarantino's Hateful 8; A short Review and thoughts on Justice</title>
+   <title>Netflix and Tarantino&apos;s Hateful 8; A short Review and thoughts on Justice</title>
    <link href="http://localhost:4000/hateful%208/movie%20reviews/2021/03/29/netflix-and-tarantinos-hateful-8-a-short-review-and-thoughts-on-justice/"/>
    <updated>2021-03-29T00:00:00-04:00</updated>
    <id>http://localhost:4000/hateful%208/movie%20reviews/2021/03/29/netflix-and-tarantinos-hateful-8-a-short-review-and-thoughts-on-justice</id>
@@ -1281,7 +1543,7 @@ This documentary has broken my heart. It is also a very good documentary.&lt;/p&
  </entry>
  
  <entry>
-   <title>It's the Simple Thangs</title>
+   <title>It&apos;s the Simple Thangs</title>
    <link href="http://localhost:4000/covid-19/thankfulness/life/death/2021/03/21/its-the-simple-thangs/"/>
    <updated>2021-03-21T00:00:00-04:00</updated>
    <id>http://localhost:4000/covid-19/thankfulness/life/death/2021/03/21/its-the-simple-thangs</id>
@@ -1418,9 +1680,9 @@ This documentary has broken my heart. It is also a very good documentary.&lt;/p&
 
 &lt;p&gt;You can find the Breaking Demeter exercise here: &lt;a href=&quot;https://github.com/ignored-comment/breaking_demeter&quot;&gt;https://github.com/ignored-comment/breaking_demeter&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;The Enumerables repository is to help you explore through enumerables through a series of short and easy tests. If you’ve been grinding through Leetcode or Exercism, these tests will probably be a waste of time for you. If, however, you want a &lt;em&gt;gentle introduction&lt;/em&gt; to enumerables, then this is for you. For now, you have enumerables practices for &lt;code class=&quot;highlighter-rouge&quot;&gt;find_all&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;any&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;map&lt;/code&gt;. I will continue to update the repository with more as time passes.&lt;/p&gt;
+&lt;p&gt;The Enumerables repository is to help you explore through enumerables through a series of short and easy tests. If you’ve been grinding through Leetcode or Exercism, these tests will probably be a waste of time for you. If, however, you want a &lt;em&gt;gentle introduction&lt;/em&gt; to enumerables, then this is for you. For now, you have enumerables practices for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;find_all&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;any&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;map&lt;/code&gt;. I will continue to update the repository with more as time passes.&lt;/p&gt;
 
-&lt;p&gt;And, I should say, the biggest advantage of engaging in something like my Enumerables exercise is that you might write your own tests for an enumerable you’ve been wanting to explore. This will deepen your knowledge. See the &lt;code class=&quot;highlighter-rouge&quot;&gt;README.md&lt;/code&gt; for more information.&lt;/p&gt;
+&lt;p&gt;And, I should say, the biggest advantage of engaging in something like my Enumerables exercise is that you might write your own tests for an enumerable you’ve been wanting to explore. This will deepen your knowledge. See the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;README.md&lt;/code&gt; for more information.&lt;/p&gt;
 
 &lt;p&gt;You can find the Enumerable exercise here: &lt;a href=&quot;https://github.com/ignored-comment/enumerables&quot;&gt;https://github.com/ignored-comment/enumerables&lt;/a&gt;&lt;/p&gt;
 
@@ -1724,7 +1986,7 @@ This documentary has broken my heart. It is also a very good documentary.&lt;/p&
  </entry>
  
  <entry>
-   <title>Excerpts from Carol Dweck's Mindset</title>
+   <title>Excerpts from Carol Dweck&apos;s Mindset</title>
    <link href="http://localhost:4000/carol%20dweck/2020/09/05/excerpts-from-carol-dwecks-mindset/"/>
    <updated>2020-09-05T00:00:00-04:00</updated>
    <id>http://localhost:4000/carol%20dweck/2020/09/05/excerpts-from-carol-dwecks-mindset</id>
@@ -1956,7 +2218,7 @@ BELIEVE IN THAT! the play – always, ALWAYS BE PREPARED FOR ANY CIRCUMSTANCE AN
 
 &lt;p&gt;Poole is the butler for &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, the static site generator. It’s designed and developed by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt; to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.&lt;/p&gt;
 
-&lt;p&gt;This demo site was last updated September 05, 2021.&lt;/p&gt;
+&lt;p&gt;This demo site was last updated October 29, 2021.&lt;/p&gt;
 
 &lt;p&gt;There are currently two themes built on Poole:&lt;/p&gt;
 
@@ -1974,7 +2236,7 @@ BELIEVE IN THAT! the play – always, ALWAYS BE PREPARED FOR ANY CIRCUMSTANCE AN
 &lt;ul&gt;
   &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404.html&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, &lt;a href=&quot;/archive&quot;&gt;archive page&lt;/a&gt;, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
   &lt;li&gt;Mobile friendly design and development&lt;/li&gt;
-  &lt;li&gt;Easily scalable text and component sizing with &lt;code class=&quot;highlighter-rouge&quot;&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
+  &lt;li&gt;Easily scalable text and component sizing with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
   &lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
   &lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
   &lt;li&gt;Syntax highlighting, courtesy Jekyll’s built-in support for Rouge&lt;/li&gt;
@@ -2011,7 +2273,7 @@ BELIEVE IN THAT! the play – always, ALWAYS BE PREPARED FOR ANY CIRCUMSTANCE AN
 
 &lt;h2 id=&quot;dark-mode&quot;&gt;Dark mode&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Dark mode is enabled automatically&lt;/strong&gt; via CSS media query—you’ll find the source code for this in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_sass/_variables.scss&lt;/code&gt; stylesheet. If you’re familiar with CSS custom properties, you can also use this method to build your own color schemes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dark mode is enabled automatically&lt;/strong&gt; via CSS media query—you’ll find the source code for this in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_sass/_variables.scss&lt;/code&gt; stylesheet. If you’re familiar with CSS custom properties, you can also use this method to build your own color schemes.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://markdotto.com/2018/11/05/css-dark-mode/&quot;&gt;Read more about using CSS dark mode&lt;/a&gt; via media queries like this:&lt;/p&gt;
 
@@ -2023,7 +2285,7 @@ BELIEVE IN THAT! the play – always, ALWAYS BE PREPARED FOR ANY CIRCUMSTANCE AN
 
 &lt;h2 id=&quot;creating-themes&quot;&gt;Creating themes&lt;/h2&gt;
 
-&lt;p&gt;If you want to make your own color schemes, modify the CSS variables in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_sass/_variables.scss&lt;/code&gt; stylesheet with a scoped data attribute or class name.&lt;/p&gt;
+&lt;p&gt;If you want to make your own color schemes, modify the CSS variables in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_sass/_variables.scss&lt;/code&gt; stylesheet with a scoped data attribute or class name.&lt;/p&gt;
 
 &lt;p&gt;For example, below we’ve created the beginnings of a blue theme:&lt;/p&gt;
 
@@ -2034,7 +2296,7 @@ BELIEVE IN THAT! the play – always, ALWAYS BE PREPARED FOR ANY CIRCUMSTANCE AN
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Then, apply the theme by adding &lt;code class=&quot;highlighter-rouge&quot;&gt;data-theme=&quot;blue&quot;&lt;/code&gt; to the &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;&lt;/code&gt; element.&lt;/p&gt;
+&lt;p&gt;Then, apply the theme by adding &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;data-theme=&quot;blue&quot;&lt;/code&gt; to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;html&amp;gt;&lt;/code&gt; element.&lt;/p&gt;
 
 &lt;h2 id=&quot;colors&quot;&gt;Colors&lt;/h2&gt;
 
@@ -2157,7 +2419,7 @@ BELIEVE IN THAT! the play – always, ALWAYS BE PREPARED FOR ANY CIRCUMSTANCE AN
 
 &lt;h2 id=&quot;google-analytics&quot;&gt;Google Analytics&lt;/h2&gt;
 
-&lt;p&gt;Specify &lt;code class=&quot;highlighter-rouge&quot;&gt;ga_analytics&lt;/code&gt; in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; and restart the server to add Google Analytics tracking code.&lt;/p&gt;
+&lt;p&gt;Specify &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ga_analytics&lt;/code&gt; in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; and restart the server to add Google Analytics tracking code.&lt;/p&gt;
 
 &lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# Google Analytics example&lt;/span&gt;
 &lt;span class=&quot;ss&quot;&gt;ga_analytics: &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;UA&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mo&quot;&gt;000000&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
@@ -2183,24 +2445,24 @@ BELIEVE IN THAT! the play – always, ALWAYS BE PREPARED FOR ANY CIRCUMSTANCE AN
 &lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;mark&gt;To highlight&lt;/mark&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;mark&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code class=&quot;highlighter-rouge&quot;&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
-  &lt;li&gt;Citations, like &lt;cite&gt;— Mark Otto&lt;/cite&gt;, should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;mark&gt;To highlight&lt;/mark&gt;, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;mark&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
+  &lt;li&gt;Citations, like &lt;cite&gt;— Mark Otto&lt;/cite&gt;, should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
 
 &lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
 
-&lt;p&gt;Footnotes are supported as part of the Markdown syntax. Here’s one in action. Clicking this number&lt;sup id=&quot;fnref:fn-sample_footnote&quot;&gt;&lt;a href=&quot;#fn:fn-sample_footnote&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; will lead you to a footnote. The syntax looks like:&lt;/p&gt;
+&lt;p&gt;Footnotes are supported as part of the Markdown syntax. Here’s one in action. Clicking this number&lt;sup id=&quot;fnref:fn-sample_footnote&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:fn-sample_footnote&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; will lead you to a footnote. The syntax looks like:&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;Clicking this number[^fn-sample_footnote]&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Each footnote needs the &lt;code class=&quot;highlighter-rouge&quot;&gt;^fn-&lt;/code&gt; prefix and a unique ID to be referenced for the footnoted content. The syntax for that list looks something like this:&lt;/p&gt;
+&lt;p&gt;Each footnote needs the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;^fn-&lt;/code&gt; prefix and a unique ID to be referenced for the footnoted content. The syntax for that list looks something like this:&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;[^fn-sample_footnote]: Handy! Now click the return link to go back.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
@@ -2212,7 +2474,7 @@ BELIEVE IN THAT! the play – always, ALWAYS BE PREPARED FOR ANY CIRCUMSTANCE AN
 
 &lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
 
-&lt;p&gt;Inline code is available with the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;code&amp;gt;&lt;/code&gt; element. Snippets of multiple lines of code are supported through Rouge. Longer lines will automatically scroll horizontally when needed. You may also use code fencing (triple backticks) for rendering code.&lt;/p&gt;
+&lt;p&gt;Inline code is available with the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;code&amp;gt;&lt;/code&gt; element. Snippets of multiple lines of code are supported through Rouge. Longer lines will automatically scroll horizontally when needed. You may also use code fencing (triple backticks) for rendering code.&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt;
 
@@ -2223,7 +2485,7 @@ BELIEVE IN THAT! the play – always, ALWAYS BE PREPARED FOR ANY CIRCUMSTANCE AN
 &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;You may also optionally show code snippets with line numbers. Add &lt;code class=&quot;highlighter-rouge&quot;&gt;linenos&lt;/code&gt; to the Rouge tags.&lt;/p&gt;
+&lt;p&gt;You may also optionally show code snippets with line numbers. Add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;linenos&lt;/code&gt; to the Rouge tags.&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
 2
@@ -2339,10 +2601,10 @@ BELIEVE IN THAT! the play – always, ALWAYS BE PREPARED FOR ANY CIRCUMSTANCE AN
 
 &lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/poole/poole/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:fn-sample_footnote&quot;&gt;
-      &lt;p&gt;Handy! Now click the return link to go back. &lt;a href=&quot;#fnref:fn-sample_footnote&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:fn-sample_footnote&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Handy! Now click the return link to go back. &lt;a href=&quot;#fnref:fn-sample_footnote&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -3393,7 +3655,7 @@ Wehry, A. M., Beesdo-Baum, K., Hennelly, M. M., Connolly, S. D., &amp;amp
  </entry>
  
  <entry>
-   <title>PSY403 Human Sexuality Final Project (On Tumblr's ban on pornography)</title>
+   <title>PSY403 Human Sexuality Final Project (On Tumblr&apos;s ban on pornography)</title>
    <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/psy403-human-sexuality-final-project/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
    <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/psy403-human-sexuality-final-project</id>
@@ -3431,7 +3693,7 @@ Powell, J. (2018, December 7). Opinion | The Problem With Banning Pornography on
  </entry>
  
  <entry>
-   <title>PSY389 Cross-Cultural Psychology (On Observations of my own life compared to a colleague's)</title>
+   <title>PSY389 Cross-Cultural Psychology (On Observations of my own life compared to a colleague&apos;s)</title>
    <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/psy389-cross-cultural-psychology/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
    <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/psy389-cross-cultural-psychology</id>
@@ -3778,7 +4040,7 @@ http://www.nbme.org/PDF/SubjectExams/subexaminfoguide.pdf&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>PSY221 Psychology Final Project (On David Rockefeller's wealth; did his past influence his future?)</title>
+   <title>PSY221 Psychology Final Project (On David Rockefeller&apos;s wealth; did his past influence his future?)</title>
    <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/psy221-psychology/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
    <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/psy221-psychology</id>
@@ -4722,7 +4984,7 @@ une/index.htm&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>ART220 Introduction to Film Final Project (Analysis of 'The Godfather')</title>
+   <title>ART220 Introduction to Film Final Project (Analysis of &apos;The Godfather&apos;)</title>
    <link href="http://localhost:4000/jfku%20final%20projects/2020/03/20/art_220-introduction-to-film-final-project/"/>
    <updated>2020-03-20T00:00:00-04:00</updated>
    <id>http://localhost:4000/jfku%20final%20projects/2020/03/20/art_220-introduction-to-film-final-project</id>
@@ -4745,7 +5007,7 @@ And this new movement was commercially and artistically a major success for the 
  </entry>
  
  <entry>
-   <title>What's Jekyll?</title>
+   <title>What&apos;s Jekyll?</title>
    <link href="http://localhost:4000/jekyll/2020/03/01/whats-jekyll/"/>
    <updated>2020-03-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/jekyll/2020/03/01/whats-jekyll</id>
