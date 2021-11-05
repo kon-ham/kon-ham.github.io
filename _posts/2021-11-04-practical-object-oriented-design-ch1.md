@@ -3,12 +3,7 @@ layout: post
 title: Summary of "Practical Object-Oriented Design in Ruby", Ch. 1
 ---
 
-**Disclaimer**
-I am writing a summary of Metz's book by chapter. 
-
-Please be advised: None of what is written below are my original ideas nor thoughts. They are all Metz's ideas. They are all great. I just want to give credit where credit is due. 
-
-Please consider these writings a summary of her work.
+Please be advised: This is a summary of Metz's book "Practice Object-Oriented Design in Ruby", ch. 1. This means that credit goes to Sandi Metz and I am simply summarizing her ideas. Hope you enjoy!
 ## On Ruby
 
 Ruby is a great language to learn to program. In fact, because of it's accessibility, it can be easy to write code that lacks design or understanding of object oriented programming. Ruby will still function without this knowledge.
