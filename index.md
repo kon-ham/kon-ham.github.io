@@ -12,8 +12,8 @@ Thanks for visiting!
 ### Table of Contents: 
 
  - #### [Announcements](#announcements-link) 
- - #### [My Latest Coding Projects](#my-latest-coding-projects-link) 
  - #### [My Recent Posts](#my-recent-posts-link) 
+ - #### [My Latest Coding Projects](#my-latest-coding-projects-link) 
  - #### [Contact Me](#contact-me-link)
 
 ---
@@ -28,6 +28,16 @@ Do you know of any junior-mid level openings? Here's my <a
 href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume.pdf">resume.</a>
 </p>
 
+### My Recent Posts: <a name="my-recent-posts-link"></a>
+<ul>
+  {% for post in site.posts limit: 5 %}
+  <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+        <!-- <time  datetime="{{ post.date | date_to_xmlschema }}"  class="post-date">{{ post.date | date_to_string }}</time> -->
+        <!-- {{ post.content | truncatewords: 120 }} -->
+  </li>
+  {% endfor %}
+</ul>
 ---
 
 ### My Latest Coding Projects: <a name="my-latest-coding-projects-link"></a>
@@ -47,17 +57,6 @@ href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume.pdf"
  - **Sweater Weather** is an API-only application. Find weather data for the city you are traveling to. Know what the weather will be like whether you arrive three hours later or three days later.  
 
 	- Link to the Github repository: [here](https://github.com/kon-ham/sweater_weather).
-
-### My Recent Posts: <a name="my-recent-posts-link"></a>
-<ul>
-  {% for post in site.posts limit: 5 %}
-  <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-        <!-- <time  datetime="{{ post.date | date_to_xmlschema }}"  class="post-date">{{ post.date | date_to_string }}</time> -->
-        <!-- {{ post.content | truncatewords: 120 }} -->
-  </li>
-  {% endfor %}
-</ul>
 
 ### Contact Me <a name="contact-me-link"></a>
 My email is: [contact@konkham.com](mailto:contact@konkham.com) or [info.konham@gmail.com](mailto:info.konham@gmail.com)    
