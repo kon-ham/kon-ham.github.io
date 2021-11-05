@@ -21,6 +21,7 @@ Thanks for visiting!
 ### Announcements: <a name="announcements-link"></a>
 
 <p class="message">
+<strong>I'm currently mentoring approximately 11 students learning Ruby on Rails at [Code The Dream](https://codethedream.org/).</strong><br>This not-for-profit organization focuses on teaching tech skills to people from diverse backgrounds of which could be underrepresented, historically exluded, and or folks from immigrant backgrounds - all for free! It's a great mission and is a mission that is close to my heart. Check them out!
 
 <strong>I'm looking to join a great team.</strong><br>
 Do you know of any junior-mid level openings? Here's my <a
