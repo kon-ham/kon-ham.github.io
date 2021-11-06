@@ -34,7 +34,7 @@ Furthermore, new data-types cannot be created in procedural programming language
 
 When we think of OOP, or object-oriented programming, we can think of objects and the messages they pass between each other.
 
-OOP design is about managing the dependencies between our objects. We want to make sure that we arrange dependencies, or what each object knows about another object to a degree that change does not result in chaos because our objects.
+OOP design is about managing the dependencies between our objects. We want to make sure that we arrange dependencies, or what each object knows about another object, to a degree that change does not result in chaos. 
 
 When our objects know too much about each other, one change ends up resulting in a ripple affect where all other objects end up needing to be changed to reflect the original change. This tends to create a lot of chaos in our program and those changes tend to cost more and more each time we implement a change.
 
