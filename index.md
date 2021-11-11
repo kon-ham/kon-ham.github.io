@@ -22,7 +22,7 @@ Thanks for visiting!
 ### Announcements: <a name="announcements-link"></a>
 
 <p class="message">
-<strong>I'm mentoring around 10 students learning Ruby on Rails.</strong><br>This not-for-profit organization focuses on teaching tech skills to people from diverse backgrounds (underrepresented, historically exluded, and/or folks from immigrant backgrounds) - all for free!<br><br>It's a great mission and something very close to my heart.<br><br>Check out <a href="https://codethedream.org">Code the Dream!</a><br><br>
+<strong>I'm mentoring about 10 students learning Ruby on Rails.</strong><br>This not-for-profit organization focuses on teaching tech skills to people from diverse backgrounds (underrepresented, historically exluded, and/or folks from immigrant backgrounds) - all for free!<br><br>It's a great mission and something very close to my heart.<br><br>Check out <a href="https://codethedream.org">Code the Dream!</a><br><br>
 
 <strong>I'm looking to join a great team.</strong><br>
 Do you know of any junior-mid level openings? Here's my <a
