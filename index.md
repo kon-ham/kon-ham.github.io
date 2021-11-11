@@ -5,9 +5,7 @@ title: Home
 
 # Hi! Kon here.
 
-Use the top right panel to navigate through the site or use the links below to navigate through the home page.  
-
-Thanks for visiting!
+Use the top right panel to navigate through the site or use the links below to navigate through the home page. Thanks for visiting!
 
 ### Table of Contents: 
 
