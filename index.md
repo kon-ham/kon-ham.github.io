@@ -13,7 +13,8 @@ Thanks for visiting!
 
  - #### [Announcements](#announcements-link) 
  - #### [My Recent Posts](#my-recent-posts-link) 
- - #### [My Latest Coding Projects](#my-latest-coding-projects-link) 
+ - #### [My Current Coding Projects](#my-current-coding-projects-link)
+ - #### [My Past Coding Projects](#my-past-coding-projects-link) 
  - #### [Contact Me](#contact-me-link)
 
 ---
@@ -40,7 +41,15 @@ href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume.pdf"
 </ul>
 ---
 
-### My Latest Coding Projects: <a name="my-latest-coding-projects-link"></a>
+### My Current Coding Project(s): <a name="my-current-coding-projects-link"></a>
+
+ - **KnewHarvest** is a web-application that tracks a user's plant crops from seed to harvest. Authors of this application work closely in collaboration with end-user by implementing Agile methodology. MVP and sprint runs are utilized. End-user provides feedback with each sprint-run. Features are built incrementally.
+
+  This project is a practice in building an application in which goals and final deadlines are unknown. The authors of this application build small, iteratively, and collaboratively. 
+
+  Check out the current status of this application [here](https://github.com/wdk3)!
+
+### My Past Coding Projects: <a name="my-past-coding-projects-link"></a>
 
  - **Pawty-Trainer** is a web-application to track your dog’s training. Manage a training schedule via calendar. Users can customize dogs through name, breed, age. CRUD functionality. Earn badges for completed your dog's training.  
 
