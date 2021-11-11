@@ -45,9 +45,9 @@ href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume.pdf"
 
  - **KnewHarvest** is a web-application that tracks a user's plant crops from seed to harvest. Authors of this application work closely in collaboration with end-user by implementing Agile methodology. MVP and sprint runs are utilized. End-user provides feedback with each sprint-run. Features are built incrementally.
 
-  This project is a practice in building an application in which goals and final deadlines are unknown. The authors of this application build small, iteratively, and collaboratively. 
+    This project is a practice in building an application in which goals and final deadlines are unknown. The authors of this application build small, iteratively, and collaboratively. 
 
-  Check out the current status of this application [here](https://github.com/wdk3)!
+    Check out the current status of this application [here](https://github.com/wdk3)!
 
 ### My Past Coding Projects: <a name="my-past-coding-projects-link"></a>
 
