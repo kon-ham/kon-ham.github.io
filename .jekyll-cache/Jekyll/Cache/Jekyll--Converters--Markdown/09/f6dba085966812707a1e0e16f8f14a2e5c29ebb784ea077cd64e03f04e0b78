@@ -1,0 +1,84 @@
+I"�<p>Please be advised: This is a summary of Metz’s book “Practice Object-Oriented Design in Ruby”, ch. 1. This means that credit goes to Sandi Metz and I am simply summarizing her ideas. Hope you enjoy!</p>
+<h2 id="on-ruby">On Ruby</h2>
+
+<p>Ruby is a great language to learn to program. In fact, because of it’s accessibility, it can be easy to write code that lacks design or understanding of object oriented programming. Ruby will still function without this knowledge.</p>
+
+<p>In Ruby, all objects come pre-equipped with behavior because all objects (we can also refer to them as things that have traits and behaviors) inherit from its class.</p>
+
+<p>And since those classes are also objects that inherit from another class, we have an enormous amount of flexibility in creating data-types or behaviors.</p>
+
+<p>Classes themselves can be thought of as blueprints for our objects. Within each class is a set of methods and attributes that each instantiation of a class will inherit.</p>
+
+<p>Instantiation as a terminology is the act of creating a new instance of an object. As we mentioned before, creating a new instance of an object will result in that object inheriting behaviors from its class.</p>
+
+<p>However, while all newly created instances of an object may hold the same types of behavior, each of those objects differ in that each object can hold its own unique data.</p>
+
+<h2 id="differences-between-an-object-oriented-language-and-a-procedural-programming-language">Differences between an object-oriented language and a procedural programming language?</h2>
+
+<p>Ruby is different because there are no data-types, only objects. In fact, in Ruby, all things are objects.</p>
+
+<p>Procedural programming variables can store only one data-type.</p>
+
+<p>In Ruby, because what’s being stored in a variable is an object, that variable can store many different types of data in a single object.</p>
+
+<p>In fact, not only can Ruby store multiple data-types with each variable, but it can also store behavior. In procedural programming languages, behavior and data-types are separated and predefined.</p>
+
+<p>Furthermore, new data-types cannot be created in procedural programming languages. Neither can new operations.</p>
+
+<h2 id="on-oop">On OOP</h2>
+
+<p>When we think of OOP, or object-oriented programming, we can think of objects and the messages they pass between each other.</p>
+
+<p>OOP design is about managing the dependencies between our objects. We want to make sure that we arrange dependencies, or what each object knows about another object, to a degree that change does not result in chaos.</p>
+
+<p>When our objects know too much about each other, one change ends up resulting in a ripple affect where all other objects end up needing to be changed to reflect the original change. This tends to create a lot of chaos in our program and those changes tend to cost more and more each time we implement a change.</p>
+
+<p>We don’t want objects that are “picky”. We want objects that are resilient to change. Picky objects need circumstances to be “just-right” in order to work.</p>
+
+<p>This is where encapsulation comes into play. As we mentioned earlier, all objects have its own unique data while sharing behaviors from its class. Our objects encapsulate data, or hide its data from the world, and we decide how much data the object will convey to another object.</p>
+
+<p>Essentially, object-oriented applications are made up of objects and the messages that pass between them.</p>
+
+<h2 id="on-design-and-cost">On Design and Cost</h2>
+
+<p>Sandi Metz approaches design like sculpting. We must design as if we are artists in a studio that are creating custom applications for customers. It is this approach, says Metz, that is the art of arranging code.</p>
+
+<p>We want to be thoughtful of design because while we could write code that perfectly reflects our current needs, we do not live in an unchanging world. Even applications that work now must face the challenge of change when people simply want more of our application.</p>
+
+<p>This need for change is why design matters. Nothing is static. There is always change happening in the real world.</p>
+
+<p>Poorly designed applications are a nightmare to change because programmers get deeper and deeper into the problem. And once fixed, the next iteration that calls for change will cost even more.</p>
+
+<p>Undesigned programs are simple to write but impossible to change.</p>
+
+<p>Sooner or later code is arranged in a manner in which <em>some</em> design is reflected, however it is in the struggle between writing code that reflects current needs as well as arranging that code so that it has space to allow change for the future.</p>
+
+<p>Sometimes in anticipation of future needd, code is designed in a manner to reflect that anticipation. Metz says that this is overall a bad idea because practically, we never know what the future holds. Practical design does not anticipate change. Rather, it allows you room to change.</p>
+
+<p>While design is important, there is a great risk in over applying design patterns in an indiscriminate way, which results in confusing and complicated code. More intemediate programmers will tend to over design principles in an attempt to apply newly learned design practices to <em>all of the things</em>.</p>
+
+<p>It is up to each programmer to determine the safe zone between assessing for current needs as well as leaving space for future change. It is in this narrow space that arranging code for immediate need over practical design that our code tends to take on a technical debt, of which we will pay for in the future with each change after becoming increasingly costly.</p>
+
+<p>Ignoring the reality and need for practical design will cost a programmer and an organization.</p>
+
+<h2 id="on-agile-vs-bfud">On Agile vs. BFUD</h2>
+
+<p>Agile is an attempt at resolving what we do not know in terms of goals and deadline. Agile determines from the beginning that elimination of that uncertainty is impossible.</p>
+
+<p>Agile follows a practical design approach in that it immediately calls for a need for design since each iteration of Agile methodology guarantees change. Thus the code reflected must be malleable, flexible, and simple. (Metz)</p>
+
+<p>Agile is a collaborative approach between programmers and customers. It believes that customers simply cannot define software if those customers cannot see the product. Agile allows us to build iteratively to gradually hit customer’s needs. The interesting thing about this approach is that eventually the final product is different from what customers had imagined due to that collaborative approach.</p>
+
+<p>BFUD, or big upfront design, inherently causes an adversarial relationship with customers and developers since BFUD starts with specifications, of which may not actually be related to customer needs. Because of this, when a customer actually sees the product, dislikes it, requests change, the programmers resist this since likely the change is expensive and deadlines are being missed.</p>
+
+<p>Agile attempts to avoid this confrontational approach by building small, iteratively, and collaboratively with customers.</p>
+<h2 id="on-measuring-good-design">On Measuring Good Design</h2>
+
+<p>Good design can be (sort of) measured. The best metric to great design, according to Metz is the <em>cost per feature over the time interval that matters</em>. That is, measure the cost of each change that takes place in the future in the relevant areas.</p>
+
+<h2 id="was-this-helpful">Was this helpful?</h2>
+
+<p>I may have gotten some information incorrect or my grammar might be hard to read. Please let me know.</p>
+
+<p>Contact me at <a href="mailto:info.konham@gmail.com">info.konham@gmail.com</a> or <a href="mailto:contact@konkham.com">contact@konkham.com</a></p>
+:ET

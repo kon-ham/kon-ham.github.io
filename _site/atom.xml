@@ -4,13 +4,104 @@
  <title>Kon Ham</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-10-29T14:28:15-04:00</updated>
+ <updated>2021-11-11T17:20:37-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Summary of &quot;Practical Object-Oriented Design in Ruby&quot;, Ch. 1</title>
+   <link href="http://localhost:4000/2021/11/04/practical-object-oriented-design-ch1/"/>
+   <updated>2021-11-04T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2021/11/04/practical-object-oriented-design-ch1</id>
+   <content type="html">&lt;p&gt;Please be advised: This is a summary of Metz’s book “Practice Object-Oriented Design in Ruby”, ch. 1. This means that credit goes to Sandi Metz and I am simply summarizing her ideas. Hope you enjoy!&lt;/p&gt;
+&lt;h2 id=&quot;on-ruby&quot;&gt;On Ruby&lt;/h2&gt;
+
+&lt;p&gt;Ruby is a great language to learn to program. In fact, because of it’s accessibility, it can be easy to write code that lacks design or understanding of object oriented programming. Ruby will still function without this knowledge.&lt;/p&gt;
+
+&lt;p&gt;In Ruby, all objects come pre-equipped with behavior because all objects (we can also refer to them as things that have traits and behaviors) inherit from its class.&lt;/p&gt;
+
+&lt;p&gt;And since those classes are also objects that inherit from another class, we have an enormous amount of flexibility in creating data-types or behaviors.&lt;/p&gt;
+
+&lt;p&gt;Classes themselves can be thought of as blueprints for our objects. Within each class is a set of methods and attributes that each instantiation of a class will inherit.&lt;/p&gt;
+
+&lt;p&gt;Instantiation as a terminology is the act of creating a new instance of an object. As we mentioned before, creating a new instance of an object will result in that object inheriting behaviors from its class.&lt;/p&gt;
+
+&lt;p&gt;However, while all newly created instances of an object may hold the same types of behavior, each of those objects differ in that each object can hold its own unique data.&lt;/p&gt;
+
+&lt;h2 id=&quot;differences-between-an-object-oriented-language-and-a-procedural-programming-language&quot;&gt;Differences between an object-oriented language and a procedural programming language?&lt;/h2&gt;
+
+&lt;p&gt;Ruby is different because there are no data-types, only objects. In fact, in Ruby, all things are objects.&lt;/p&gt;
+
+&lt;p&gt;Procedural programming variables can store only one data-type.&lt;/p&gt;
+
+&lt;p&gt;In Ruby, because what’s being stored in a variable is an object, that variable can store many different types of data in a single object.&lt;/p&gt;
+
+&lt;p&gt;In fact, not only can Ruby store multiple data-types with each variable, but it can also store behavior. In procedural programming languages, behavior and data-types are separated and predefined.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, new data-types cannot be created in procedural programming languages. Neither can new operations.&lt;/p&gt;
+
+&lt;h2 id=&quot;on-oop&quot;&gt;On OOP&lt;/h2&gt;
+
+&lt;p&gt;When we think of OOP, or object-oriented programming, we can think of objects and the messages they pass between each other.&lt;/p&gt;
+
+&lt;p&gt;OOP design is about managing the dependencies between our objects. We want to make sure that we arrange dependencies, or what each object knows about another object, to a degree that change does not result in chaos.&lt;/p&gt;
+
+&lt;p&gt;When our objects know too much about each other, one change ends up resulting in a ripple affect where all other objects end up needing to be changed to reflect the original change. This tends to create a lot of chaos in our program and those changes tend to cost more and more each time we implement a change.&lt;/p&gt;
+
+&lt;p&gt;We don’t want objects that are “picky”. We want objects that are resilient to change. Picky objects need circumstances to be “just-right” in order to work.&lt;/p&gt;
+
+&lt;p&gt;This is where encapsulation comes into play. As we mentioned earlier, all objects have its own unique data while sharing behaviors from its class. Our objects encapsulate data, or hide its data from the world, and we decide how much data the object will convey to another object.&lt;/p&gt;
+
+&lt;p&gt;Essentially, object-oriented applications are made up of objects and the messages that pass between them.&lt;/p&gt;
+
+&lt;h2 id=&quot;on-design-and-cost&quot;&gt;On Design and Cost&lt;/h2&gt;
+
+&lt;p&gt;Sandi Metz approaches design like sculpting. We must design as if we are artists in a studio that are creating custom applications for customers. It is this approach, says Metz, that is the art of arranging code.&lt;/p&gt;
+
+&lt;p&gt;We want to be thoughtful of design because while we could write code that perfectly reflects our current needs, we do not live in an unchanging world. Even applications that work now must face the challenge of change when people simply want more of our application.&lt;/p&gt;
+
+&lt;p&gt;This need for change is why design matters. Nothing is static. There is always change happening in the real world.&lt;/p&gt;
+
+&lt;p&gt;Poorly designed applications are a nightmare to change because programmers get deeper and deeper into the problem. And once fixed, the next iteration that calls for change will cost even more.&lt;/p&gt;
+
+&lt;p&gt;Undesigned programs are simple to write but impossible to change.&lt;/p&gt;
+
+&lt;p&gt;Sooner or later code is arranged in a manner in which &lt;em&gt;some&lt;/em&gt; design is reflected, however it is in the struggle between writing code that reflects current needs as well as arranging that code so that it has space to allow change for the future.&lt;/p&gt;
+
+&lt;p&gt;Sometimes in anticipation of future needd, code is designed in a manner to reflect that anticipation. Metz says that this is overall a bad idea because practically, we never know what the future holds. Practical design does not anticipate change. Rather, it allows you room to change.&lt;/p&gt;
+
+&lt;p&gt;While design is important, there is a great risk in over applying design patterns in an indiscriminate way, which results in confusing and complicated code. More intemediate programmers will tend to over design principles in an attempt to apply newly learned design practices to &lt;em&gt;all of the things&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;It is up to each programmer to determine the safe zone between assessing for current needs as well as leaving space for future change. It is in this narrow space that arranging code for immediate need over practical design that our code tends to take on a technical debt, of which we will pay for in the future with each change after becoming increasingly costly.&lt;/p&gt;
+
+&lt;p&gt;Ignoring the reality and need for practical design will cost a programmer and an organization.&lt;/p&gt;
+
+&lt;h2 id=&quot;on-agile-vs-bfud&quot;&gt;On Agile vs. BFUD&lt;/h2&gt;
+
+&lt;p&gt;Agile is an attempt at resolving what we do not know in terms of goals and deadline. Agile determines from the beginning that elimination of that uncertainty is impossible.&lt;/p&gt;
+
+&lt;p&gt;Agile follows a practical design approach in that it immediately calls for a need for design since each iteration of Agile methodology guarantees change. Thus the code reflected must be malleable, flexible, and simple. (Metz)&lt;/p&gt;
+
+&lt;p&gt;Agile is a collaborative approach between programmers and customers. It believes that customers simply cannot define software if those customers cannot see the product. Agile allows us to build iteratively to gradually hit customer’s needs. The interesting thing about this approach is that eventually the final product is different from what customers had imagined due to that collaborative approach.&lt;/p&gt;
+
+&lt;p&gt;BFUD, or big upfront design, inherently causes an adversarial relationship with customers and developers since BFUD starts with specifications, of which may not actually be related to customer needs. Because of this, when a customer actually sees the product, dislikes it, requests change, the programmers resist this since likely the change is expensive and deadlines are being missed.&lt;/p&gt;
+
+&lt;p&gt;Agile attempts to avoid this confrontational approach by building small, iteratively, and collaboratively with customers.&lt;/p&gt;
+&lt;h2 id=&quot;on-measuring-good-design&quot;&gt;On Measuring Good Design&lt;/h2&gt;
+
+&lt;p&gt;Good design can be (sort of) measured. The best metric to great design, according to Metz is the &lt;em&gt;cost per feature over the time interval that matters&lt;/em&gt;. That is, measure the cost of each change that takes place in the future in the relevant areas.&lt;/p&gt;
+
+&lt;h2 id=&quot;was-this-helpful&quot;&gt;Was this helpful?&lt;/h2&gt;
+
+&lt;p&gt;I may have gotten some information incorrect or my grammar might be hard to read. Please let me know.&lt;/p&gt;
+
+&lt;p&gt;Contact me at &lt;a href=&quot;mailto:info.konham@gmail.com&quot;&gt;info.konham@gmail.com&lt;/a&gt; or &lt;a href=&quot;mailto:contact@konkham.com&quot;&gt;contact@konkham.com&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>The Religious View of College Degrees</title>
@@ -40,6 +131,11 @@
 &lt;p&gt;This in turn means you’ll probably show up to work, attend all the meetings, and you can be expected to turn in your work when given a deadline.&lt;/p&gt;
 
 &lt;p&gt;You can train animals to do this with Pavlovian conditioning and some of those animals will even forgo a salary in exchange for peanuts.&lt;/p&gt;
+
+&lt;h2 id=&quot;was-this-helpful&quot;&gt;Was this helpful?&lt;/h2&gt;
+&lt;p&gt;I may have gotten some information incorrect or my grammar might be hard to read. Please let me know.&lt;/p&gt;
+
+&lt;p&gt;Contact me at &lt;a href=&quot;mailto:info.konham@gmail.com&quot;&gt;info.konham@gmail.com&lt;/a&gt; or &lt;a href=&quot;mailto:contact@konkham.com&quot;&gt;contact@konkham.com&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2218,7 +2314,7 @@ BELIEVE IN THAT! the play – always, ALWAYS BE PREPARED FOR ANY CIRCUMSTANCE AN
 
 &lt;p&gt;Poole is the butler for &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, the static site generator. It’s designed and developed by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt; to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.&lt;/p&gt;
 
-&lt;p&gt;This demo site was last updated October 29, 2021.&lt;/p&gt;
+&lt;p&gt;This demo site was last updated November 11, 2021.&lt;/p&gt;
 
 &lt;p&gt;There are currently two themes built on Poole:&lt;/p&gt;
 
