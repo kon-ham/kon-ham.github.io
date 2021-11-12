@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summary of "Practical Object-Oriented Design in Ruby", Ch. 1
+title: Summary of "Practical Object-Oriented Design in Ruby", Ch. 2
 ---
 
 Please be advised: This is a summary of Metz's book "Practice Object-Oriented Design in Ruby", ch. 1. This means that credit goes to Sandi Metz and I am simply summarizing her ideas. Hope you enjoy!
@@ -38,6 +38,23 @@ So do not feel compelled to have to make a design choice prematurely, says Metz.
 
 Therefore good designers must live in between the choice of improving now or later and making informed tradeoffs for each decision.
 
+## Directly Referencing Complicated Structures
+
+Direct references into complicated structures are confusing. For example, consider an array that holds a collection of more arrays. You could directly reference an array like `array[0][1]` but this is confusing and it obscures the data from what it actually is. Is the `array[0]` referring to a collection of apples? Pies? Couldn't say! 
+
+Instead you could use something like a `Struct` method which is a shorthand way for creating a class. 
+
+Ruby documentation explains `Struct` as: `A Struct is a convenient way to bundle a number of attributes together, using accessor methods, without having to write an explicit class.`
+
+In this block you could create a class utilizing `Struct` that takes the collection and gives its indices names. This helps with readability and helps us to understand intent better. This also trades referencing indices of structure for sending messages to an object.
+
+Furthermore, the cost of creating a `Struct` method is small compared to the complexities involved in changing all the code that references the indices of the structured collection.
+
+This protects us from changes externally made to the data structure.
+
+Utilizing a `Struct` class within another class is not ideal but this structure allows us to postpone decisions until later.
+
+Regardless of whether or not we use `Struct`, we want to be sure that we hide away messy data or references to complicated structured collections.
 ## On Classes
 
 Ultimately our object oriented application is made up of objects and the messages that pass between them, but the most visibile organizational structure of is the class.
@@ -52,13 +69,43 @@ The structure of your class will send a message to future developers. It reveals
 
 ## On Methods
 
+Like classes, methods should have a single responsibility.
+
+Like classes, methods having single responsibility allows for your code to be easily reused and easily changed.
+
+When referring to instance variables, wrap your instance variables in methods so that you can reference a method instead of the instance variable. This allows you to be able to change the expectations of the method if change is needed rather than every occurance of the reference to the instance variable. 
+
+If your method actually has more than one behavior, split them into separate methods. It's OK to have two separate message sends. You can refactor later. What's more important that our method has a single responsibility so that it can be easily changed later.
+
+The other advantage to separating responsibilities in methods that have more than one behavior is that it can help you to determine if your class is highly cohesive and if that method actually belongs in its current class or if it needs to be moved to a new one.
+
+Continue to refactor and splitting methods that have multiple behaviors into separate methods. We continue to do this because our design is not clear. These changes will feel small at first but the impact is cumulative, says Metz.
+
+The advantages of methods having single responsibilities are as follows:
+
+- Expose previously hidden qualities. This helps a class to be much more obvious. Methods having single responsibility has a clarifying effect on the class.
+
+- Replace the need for comments. Consider how many comments are out of date? Out of date comments are decaying communication. If a section of your method needs commentary, separate it into another method. The new method name will serve as the commentary for the original method.
+
+- Encourage reuse. Small methods encourage exemplary behavior. Programmers will see that method and reuse the method instead of duplicating convoluted code. 
+
+- Easy to move to another class. Small methods are easy to move. Small methods lower barriers to improving design.
+
 ## On Single Responsibility
+
+The path to changeable and maintainable object oriented software begins with classes that have single responsibility. 
 
 If your class has more than one single responsibility it tends to get entangled in itself. This makes a class difficult to reuse.
 
 Since we cannot pick and choose the behavior we want from a class when we need to reuse it, we immediately begin with problems of entanglement because our class does not have single responsibility. You could duplicate the desired aspects of the behavior from your class but this increases bugs and additional maintenance, and ultimately, the problem remains in that you have a class that is overly complicated because it is not single responsibility. 
 
 Ultimately over reliance on such a class will cause problems later on down the road because other classes that depend on it will also likely break. 
+
+If you cannot describe your class in a single statement then it is not single responsibility. If you must use 'and/or' to describe your class it is not single responsibility.
+
+When everything in our class is related to its central purpose, the class is said to be highly cohesive.
+
+Single responsibility does not necessarily dictate that our class be narrow or that we be nitpicky. We simply require that the class be cohesive, says Metz.
 
 ## Was this helpful?
 
