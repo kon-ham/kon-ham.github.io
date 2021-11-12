@@ -15,7 +15,7 @@ Naturally the frustration builds up for both parties.
 
 Because of that level of frustration, sometimes my mom will attempt to troubleshoot her problems without asking me. Because of that, her technical achievement has grown and I've been freer from having to be a part-time help desk for my mom.
 
-I did not intend for my mom to venture out on her own. I always expected to have to baby her.
+I did not intend for my mom to venture out on her own. I always expected to have to baby her. My own expectations for my mother was too low. And yet, she achieved greatness because little by little, she was willing to venture out into the unknown
 
 But somehow she ended up going on her own and as a result, has achieved an impressive level of technical ability for someone that is functionally illiterate. 
 
