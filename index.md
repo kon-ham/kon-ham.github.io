@@ -27,6 +27,8 @@ Do you know of any junior-mid level openings? Here's my <a
 href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume.pdf">resume.</a>
 </p>
 
+---
+
 ### My Recent Posts: <a name="my-recent-posts-link"></a>
 <ul>
   {% for post in site.posts limit: 5 %}
@@ -37,6 +39,7 @@ href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume.pdf"
   </li>
   {% endfor %}
 </ul>
+
 ---
 
 ### My Current Coding Project(s): <a name="my-current-coding-projects-link"></a>
@@ -46,6 +49,8 @@ href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume.pdf"
     This project is a practice in building an application in which goals and final deadlines are unknown. The authors of this application build small, iteratively, and collaboratively. Deliberate practice in async communications for standups and check-ins. Project board utilized to track user stories as well as progress of tasks and features. 
 
     Check out the current status of this project [here](https://github.com/wdk3)!
+
+---
 
 ### My Past Coding Projects: <a name="my-past-coding-projects-link"></a>
 
