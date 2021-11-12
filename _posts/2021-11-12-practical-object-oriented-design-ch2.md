@@ -57,7 +57,7 @@ Utilizing a `Struct` class within another class is not ideal but this structure 
 Regardless of whether or not we use `Struct`, we want to be sure that we hide away messy data or references to complicated structured collections.
 ## On Classes
 
-Ultimately our object oriented application is made up of objects and the messages that pass between them, but the most visibile organizational structure of is the class.
+Our object oriented application is made up of objects and the messages that pass between them, but the most visibile organizational structure of is the class.
 
 A class should do the smallest possible useful thing: we call this having single responsibility.
 
@@ -97,9 +97,9 @@ The path to changeable and maintainable object oriented software begins with cla
 
 If your class has more than one single responsibility it tends to get entangled in itself. This makes a class difficult to reuse.
 
-Since we cannot pick and choose the behavior we want from a class when we need to reuse it, we immediately begin with problems of entanglement because our class does not have single responsibility. You could duplicate the desired aspects of the behavior from your class but this increases bugs and additional maintenance, and ultimately, the problem remains in that you have a class that is overly complicated because it is not single responsibility. 
+Since we cannot pick and choose the behavior we want from a class when we need to reuse it, we immediately begin with problems of entanglement because our class does not have single responsibility. You could duplicate the desired aspects of the behavior from your class but this increases bugs and additional maintenance, and unfortunately the problem remains in that you have a class that is overly complicated because it is not single responsibility. 
 
-Ultimately over reliance on such a class will cause problems later on down the road because other classes that depend on it will also likely break. 
+Over reliance on such a class will cause problems later on down the road because other classes that depend on it will also likely break. 
 
 If you cannot describe your class in a single statement then it is not single responsibility. If you must use 'and/or' to describe your class it is not single responsibility.
 
