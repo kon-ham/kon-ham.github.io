@@ -3,7 +3,7 @@ layout: post
 title: Summary of "Practical Object-Oriented Design in Ruby", Ch. 2
 ---
 
-Please be advised: This is a summary of Metz's book "Practice Object-Oriented Design in Ruby", ch. 1. This means that credit goes to Sandi Metz and I am simply summarizing her ideas. Hope you enjoy!
+Please be advised: This is a summary of Metz's book "Practice Object-Oriented Design in Ruby", ch. 2. This means that credit goes to Sandi Metz and I am simply summarizing her ideas. Hope you enjoy!
 
 ## On Design
 
