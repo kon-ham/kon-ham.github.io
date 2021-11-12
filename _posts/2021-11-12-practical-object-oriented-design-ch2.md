@@ -109,6 +109,6 @@ Single responsibility does not necessarily dictate that our class be narrow or t
 
 ## Was this helpful?
 
-Outdated information? Grammar or spelling errors? Do you just want to chat?
+Outdated information? Grammar or spelling errors? Just want to chat?
 
 Contact me at [info.konham@gmail.com](mailto:info.konham@gmail.com) or [contact@konkham.com](mailto:contact@konkham.com)
