@@ -70,6 +70,8 @@ href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume.pdf"
 
 	- Link to the Github repository: [here](https://github.com/kon-ham/sweater_weather).
 
+---
+
 ### Contact Me <a name="contact-me-link"></a>
 My email is: [contact@konkham.com](mailto:contact@konkham.com) or [info.konham@gmail.com](mailto:info.konham@gmail.com)    
 My Github is: [github.com/kon-ham](https://github.com/kon-ham)  
