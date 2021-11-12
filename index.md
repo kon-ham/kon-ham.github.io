@@ -45,7 +45,7 @@ href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume.pdf"
 
     This project is a practice in building an application in which goals and final deadlines are unknown. The authors of this application build small, iteratively, and collaboratively. Deliberate practice in async communications for standups and check-ins. Project board utilized to track user stories as well as progress of tasks and features. 
 
-    Check out the current status of this application [here](https://github.com/wdk3)!
+    Check out the current status of this project [here](https://github.com/wdk3)!
 
 ### My Past Coding Projects: <a name="my-past-coding-projects-link"></a>
 
