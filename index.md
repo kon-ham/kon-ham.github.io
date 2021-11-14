@@ -31,7 +31,7 @@ href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume.pdf"
 
 ### My Recent Posts: <a name="my-recent-posts-link"></a>
 <ul>
-  {% for post in site.posts limit: 5 %}
+  {% for post in site.posts limit: 10 %}
   <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
         <!-- <time  datetime="{{ post.date | date_to_xmlschema }}"  class="post-date">{{ post.date | date_to_string }}</time> -->
