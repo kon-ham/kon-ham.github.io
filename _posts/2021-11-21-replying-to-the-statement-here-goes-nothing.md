@@ -46,6 +46,16 @@ Your story is important. Your background is important. It is also something that
 
 In the history of the universe, there will never again be someone exactly like you. This little detail merits that you have a special purpose in the story of the universe in which you must be bold in telling your story.
 
+## And I write my own quick post to explore further
+
+I have decided today that I dislike the phrase "Here Goes Nothing".
+
+Starting any endeavor with a pessimistic attitude is always a no-go.
+
+We must believe that the work in which we are to engage in is worth the effort and that the fruit of our labor will result in something that which is good and worthy.
+
+Otherwise we may as well simply "eat, drink, and be merry for tomorrow we die."
+
 ## Was this helpful?
 
 Outdated information? Grammar or spelling errors? Just want to chat?
