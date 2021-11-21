@@ -30,7 +30,7 @@ A colleague on LinkedIn attempts to tell their story:
 > make my entire life change!      Please give me a message, give me a
 > chance and I promise you will not be disappointed.
 
-And my reply:
+## And my reply
 
 Hi Chris,
 
