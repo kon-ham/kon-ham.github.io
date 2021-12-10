@@ -54,19 +54,19 @@ href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume.pdf"
 
 ### My Past Coding Projects: <a name="my-past-coding-projects-link"></a>
 
- - **Pawty-Trainer** is a web-application to track your dog’s training. Manage a training schedule via calendar. Users can customize dogs through name, breed, age. CRUD functionality. Earn badges for completed your dog's training.  
+ - **Pawty-Trainer** is a web-application to track your dog’s training. Manage a training schedule via calendar. Users can customize dogs through name, breed, age. CRUD functionality. Earn badges for completed your dog's training. Experiment with utilizing a new technology: GraphQL
 
     - Link to the front-end Github repository: [here](https://github.com/Pawty-Trainer/pawty-trainer)
     - Link to the back-end Github repository: [here](https://github.com/Pawty-Trainer/pawty-trainer-api)
     - Link to the live site: [here](https://pawty-trainer.github.io/pawty-trainer)
 
- - **Find My City** is a city finding web application that allows users to search and sort cities by criteria they find most important. Get scores for major cities. Save your favorite cities.  
+ - **Find My City** is a city finding web application that allows users to search and sort cities by criteria they find most important. Get scores for major cities. Save your favorite cities. Deliberate exercise in learning to work with a front end and a back end team. Utilized consumption of third party APIs and regenerating necessary information into applications own unique JSON object utilizing serializers. 
 
 	 - Link to the front-end Github repository:  [here](https://github.com/NoahZinter/find_my_city_fe).  
      - Link to the back-end Github repository:  [here](https://github.com/NoahZinter/find_my_city_be).
      - Link to the live site:    [here](https://helpmefindmycity.herokuapp.com).  
      
- - **Sweater Weather** is an API-only application. Find weather data for the city you are traveling to. Know what the weather will be like whether you arrive three hours later or three days later.  
+ - **Sweater Weather** is an API-only application. Find weather data for the city you are traveling to. Know what the weather will be like whether you arrive three hours later or three days later. Deliver an API key for users to use. Consume third party APIs. Exclusively back-end only application. Utilize Postman to verify application returns appropriate responses through third party client. 
 
 	- Link to the Github repository: [here](https://github.com/kon-ham/sweater_weather).
 
