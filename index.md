@@ -22,9 +22,9 @@ Use the top right panel to navigate through my pages. Use the links below to nav
 <p class="message">
 <strong>I'm currently mentoring about 10 students learning Ruby on Rails.</strong><br>This not-for-profit organization focuses on teaching tech skills to people from diverse backgrounds (underrepresented, historically exluded, and/or folks from immigrant backgrounds) - all for free and powered by volunteers like me (and perhaps you)! It's a great mission that is very close to my heart.<br><br>Check out <a href="https://codethedream.org">Code the Dream!</a><br><br>
 
-<strong>I'm looking to join a great team.</strong><br>
-Do you know of any junior-mid level openings? Here's my <a
-href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume.pdf">resume.</a>
+<strong>I'm happily employed.</strong><br>
+Here's my <a
+href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume.pdf">resume just in case.</a>
 </p>
 
 ---
@@ -60,7 +60,7 @@ href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume.pdf"
     - Link to the back-end Github repository: [here](https://github.com/Pawty-Trainer/pawty-trainer-api)
     - Link to the live site: [here](https://pawty-trainer.github.io/pawty-trainer)
 
- - **Find My City** is a city finding web application that allows users to search and sort cities by criteria they find most important. Get scores for major cities. Save your favorite cities. Deliberate exercise in learning to work with a front end and a back end team. Utilized consumption of third party APIs and regenerating necessary information into applications own unique JSON object utilizing serializers. 
+ - **Find My City** is a city finding web application that allows users to search and sort cities by criteria they find most important. Get scores for major cities. Save your favorite cities. Deliberate exercise in learning to work with a front end and a back end team. Utilized consumption of third party APIs and regenerating necessary information into applications own unique JSON object utilizing JSON serializers. 
 
 	 - Link to the front-end Github repository:  [here](https://github.com/NoahZinter/find_my_city_fe).  
      - Link to the back-end Github repository:  [here](https://github.com/NoahZinter/find_my_city_be).
