@@ -47,6 +47,7 @@ href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume.pdf"
 ---
 
 ### My Current Coding Project(s): <a name="my-current-coding-projects-link"></a>
+
  - Learning Python. I'm learning Python for my next role. This section will be updated to reflect my progress on Python and any other interesting tidbits I learn in the process. (Link will be provided soon)
 
  - Learning Node. Since I am a mentor at Code the Dream, I have opportunities to review new potential class material. CTD is migrating their backend program from Rails to Node. This is a section to document that progress of learning Node as well as my observations of the class material. (Link will be provided soon)
