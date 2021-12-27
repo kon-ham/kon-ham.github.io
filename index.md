@@ -5,6 +5,10 @@ title: Home
 
 # Hi! Kon here.
 
+This website is my portfolio to demonstrate my writing and communication, software development skills, and how I generally look at things in life. 
+
+On top of that, I also blog post here to share more of my intimate thoughts and, sometimes I write poetry.
+
 Use the top right panel to navigate through my pages. Use the links below to navigate through the home page. Thanks for visiting!
 
 ### Table of Contents: 
