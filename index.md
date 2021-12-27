@@ -26,13 +26,13 @@ Use the top right panel to navigate through my pages. Use the links below to nav
 ### Announcements: <a name="announcements-link"></a>
 
 <p class="message">
-<strong>I'm currently mentoring about 10 students learning Ruby on Rails.</strong><br>This not-for-profit organization focuses on teaching tech skills to people from diverse backgrounds (underrepresented, historically exluded, and/or folks from immigrant backgrounds) - all for free and powered by volunteers like me (and perhaps you)! It's a great mission that is very close to my heart.<br><br>Check out <a href="https://codethedream.org">Code the Dream!</a><br><br>
-
-<strong>I'm happily employed.</strong><br>
-Here's my <a
-href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume.pdf">resume just in case.</a>
+<strong>I'm currently mentoring about 10 students learning Ruby on Rails.</strong><br>This not-for-profit organization focuses on teaching tech skills to people from diverse backgrounds (underrepresented, historically exluded, and/or folks from immigrant backgrounds) - all for free and powered by volunteers like me (and perhaps you)! It's a great mission that is very close to my heart.<br><br>Check out <a href="https://codethedream.org">Code the Dream!</a>
 </p>
 
+<p class="message">
+<strong>I'm happily employed.</strong><br>
+Here's my <a href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume.pdf">resume</a> just in case.
+</p>
 ---
 
 ### My Recent Posts: <a name="my-recent-posts-link"></a>
