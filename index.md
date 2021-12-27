@@ -7,7 +7,7 @@ title: Home
 
 This website is my portfolio to demonstrate my writing and communication, software development skills, and how I generally look at things in life. 
 
-On top of that, I also blog post here to share more of my intimate thoughts. 
+On top of that, I also blog post here to share more of my intimate thoughts.
 
 Sometimes I write poetry.
 
