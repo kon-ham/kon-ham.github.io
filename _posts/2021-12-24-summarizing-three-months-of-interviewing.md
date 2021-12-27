@@ -22,7 +22,11 @@ I lit a candle so that my room smelled nice and cozy. You might be surprised abo
 
 5 - 10 minutes before my interview I turned on Photo Booth and watched cute and funny animal videos. I used Photo Booth to watch myself smile and laugh at the silly animal videos to get in the practice of smiling and to remind myself that *smiling is beautiful*. Sometimes I'd listen to music to help me feel determined to do a good job regardless of my circumstance.
 
-When it's game time, be sure to smile, wave, present yourself as a positive and cheerful human being. Thank them for their time from the beginning. 
+When it's game time, be sure to smile, wave, present yourself as a positive and cheerful human being. Thank them for their time from the beginning.
+
+When they ask you a question - it is important to remember: *you don't have to answer immediately*.
+
+Thank them for asking the question. Ask for a moment to think about their question. Use that time to breath and relax. If it helps, tell them you're trying to relax a bit because you're a bit nervous about interviewing. This is a good test. If they're not receptive to how you're feeling, you probably don't want to be working there.
 
 After answering each question, ask your interviewer: "Was that the answer you were looking for?"
 
