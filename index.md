@@ -31,7 +31,7 @@ Use the top right panel to navigate through my pages. Use the links below to nav
 
 <p class="message">
 <strong>I'm happily employed.</strong><br>
-Here's my <a href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume11-15.docx">resume</a> just in case.
+Here's my <a href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ham-resume11-15.docx?raw=true">resume</a> just in case.
 </p>
 ---
 
