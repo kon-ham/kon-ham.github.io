@@ -32,7 +32,7 @@ When they ask you a question - it is important to remember: *you don't have to a
 
 Thank them for asking the question. Ask for a moment to think about their question. Use that time to breath and relax. If it helps, tell them you're trying to relax a bit because you're a bit nervous about interviewing. This is a good test. If they're not receptive to how you're feeling, you probably don't want to be working there.
 
-After answering each question, ask your interviewer: "Was that the answer you were looking for?"
+After answering each question, ask your interviewer: **"Was that the answer you were looking for?"**
 
 This question has saved me many times over. In your mind you may have answered adequately but sometimes the interviewer themselves are not really great at asking questions - you must be able to ask if your answer was sufficient in order to be sure you are giving them what they are looking for.
 
