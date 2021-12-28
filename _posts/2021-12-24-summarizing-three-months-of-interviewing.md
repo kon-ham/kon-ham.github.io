@@ -90,7 +90,7 @@ Always ask, even if you feel embarrassed about it. If you need to, tell them "I'
 
 I ultimately accepted a role with a company that I felt I could learn from - not only as a developer but as an entrepreneur. I probably could have found a company that offered more in terms of dollars but in terms of salaries, I consider the difference between where I am now and other possibilities as the cost of tuition to learn from a great team.
 
-## You may not know what you want
+## Interview more in order to find out what you really want
 
 You may not know what you want. It may be that it is because you have not interviewed enough with places. After a few interviews I began to get a gut instinct for companies. I began to have a gut feeling about where I would thrive and where I would be just another number.
 
