@@ -38,7 +38,7 @@ This question has saved me many times over. In your mind you may have answered a
 
 You must find out what they are looking for. Then you must give it to them.
 
-You want your interviewers saying "yes" as much as possible. So after every question ask a variation of *"was that the answer that you were looking for?"*. In doing so you also convey that you are open to feedback and reception. This indicates that you're probably an alright person to work with since nobody is perfect.
+You want your interviewers saying "yes" as much as possible. So after every question ask a variation of *"was that the answer that you were looking for?"*. In doing so you also convey that you are open to feedback and reception. This indicates that you're probably an alright person to work with since by asking this question you imply you are humble about not being perfect.
 
 Make an impact. This is vague, sorry. But make an impact. Connect with your interviewers. Share stories from your path that are relevant to your interview questions. Laugh. Smile. Try your best to make good use of an uncomfortable situation since interviewing sucks for both parties. Your interviewers will thank you for it. Might as well give everybody a good show!
 
