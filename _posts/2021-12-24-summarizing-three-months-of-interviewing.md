@@ -66,7 +66,9 @@ You need to be able to code on the fly. Get two or three people together and org
 
 ## Take home challenges
 
-Time box it. Ask your interviewer what the expectation of time boxing is for the project. Be OK with doing your best and moving on. You want a company to look at what you do, notice it is incomplete or could be better, and instead say "We can work with this person." As much as possible, don't work for free.
+Time box it. Ask your interviewer what the expectation of time boxing is for the project. Be OK with doing your best and moving on. You want a company to look at what you do, notice it is incomplete or could be better, and instead say "We can work with this person." 
+
+As much as possible, don't work for free.
 
 I had an experience where I spent an entire week on a take home challenge. Looking back it was foolish of me to do so because nothing came of the interview process and I wasted a week worried about a company that ended up ghosting me.
 
