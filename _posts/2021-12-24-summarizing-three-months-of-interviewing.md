@@ -44,7 +44,7 @@ Make an impact. This is vague, sorry. But make an impact. Connect with your inte
 
 When it comes to making an impact, shoot for personalized rejection letters. When you're making an impact with a team they will also impact you. This means that when they reject you they will probably break your heart. But that's life! Be open to heartbreak and hopefully you have a group of people to commiserate with.
 
-Be open to thinking critically: think about how you were perceived by others (do I need to work on my presentation skills?), how you communicate and follow up with communication (do you handle feedback well? Do you give good feedback?), how you connect emotionally with others, how well you convey gratitude and thanks to people you meet in your life.
+Be open to thinking critically: think about how you were perceived by others (do I need to work on my presentation skills?), how you communicate and follow up with communication (do you handle feedback well? Do you give good feedback?), how you connect emotionally with others, how well you convey gratitude and thanks to people you meet in your life, do I need to practice more LeetCode or coding on the fly exercises?
 
 After being open to thinking critically about these things, try to improve as best as you can. But importantly, be kind to yourself. You will improve over time as you keep interviewing.
 
