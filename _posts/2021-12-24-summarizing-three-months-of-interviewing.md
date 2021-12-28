@@ -24,6 +24,8 @@ I lit a candle so that my room smelled nice and cozy. You might be surprised abo
 
 When it's game time, be sure to smile, wave, present yourself as a positive and cheerful human being. Thank them for their time from the beginning.
 
+They will ask you to introduce yourself. They may even ask you to tell them about yourself. You should have your "about me" pitch down. You should be able to pitch your "about me" in your sleep. Modify your pitch depending on if they want a 30 second presentation or a 2 minute presentation. You must master your pitch. This is your headline. Bad headlines will cause people to skip over your content. Master your about me pitch. Again, master your about me pitch. 
+
 When they ask you a question - it is important to remember: *you don't have to answer immediately*.
 
 Thank them for asking the question. Ask for a moment to think about their question. Use that time to breath and relax. If it helps, tell them you're trying to relax a bit because you're a bit nervous about interviewing. This is a good test. If they're not receptive to how you're feeling, you probably don't want to be working there.
