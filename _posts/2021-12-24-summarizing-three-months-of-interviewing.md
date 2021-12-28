@@ -2,7 +2,7 @@
 layout: post
 title: Summarizing Three Months of Interviewing
 ---
-Having recently accepted a job offer, I thought I might share key takeaways from my three months of interviewing after graduating from Turing School of Software and Design. Below are my thoughts organized by category. I hope this helps anyone currently now in the job search.
+Having recently accepted a job offer, I thought I might share key takeaways from my three months of interviewing after graduating from Turing's School of Software and Design. Below are my thoughts organized by category. I hope this helps anyone currently now in the job search.
 
 ## On you and leverage
 
