@@ -12,7 +12,7 @@ title: The (Super Short) Difference Between P, Puts, Print, and Return
 * Use `print` if you need to output your value *with no new line*.
 
 ## Using `return`
-* Use `return` if you need to simply return a value without indicating a need for a visible output for your value.
+* Use `return` if you need to simply return a value without indicating a need for a visible output for your value. Be advised: If your return statement is true and you have multiple lines of code or conditionals, Ruby will execute the first `return` statement that is true. We can sometimes think of `return` statements as being useful for executing edge cases. 
 
 Here's an example of an output:
 
