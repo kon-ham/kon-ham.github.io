@@ -60,7 +60,7 @@ I promise you - each time you interview you will get stronger. Be willing to div
 
 Get used to having to speak technically. You must use the language. It should be a good mixture of utilizing technical terminology while being able to convey those terms to a technological luddite. If you need to, try practicing explaining RESTful to your grandma. You should be able to explain concepts at a high level while also introducing and utilizing the person listening to you to industry terminology.
 
-## LeetCode
+## Coding under pressure
 
 You need to be able to code on the fly. Get two or three people together and organize a Zoom meeting where each person solves a problem through Exercism or LeetCode while the rest of the people watch. The person solving the problem must not only solve the problem but also adequately communicate their thought process. Get used to the pressure.
 
