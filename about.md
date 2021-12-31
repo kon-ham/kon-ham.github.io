@@ -13,7 +13,9 @@ Sometimes I write poetry.
 ## My Background:
 I am a software developer, United States veteran, and a high-school dropout. (Ask me how I feel about the public school system!)
 
-Both my undergraduate and graduate degrees are in education: **B.A Early Childhood Education, M.Ed. Instructional Design**. I'm one semester into obtaining my MBA but I am holding off until I get a clearer idea of my current career trajectory.
+Both my undergraduate and graduate degrees are in education: **B.A Early Childhood Education, M.Ed. Instructional Design**.
+
+I'm one semester into obtaining my MBA but I am holding off completing it until I get a clearer idea of my current career trajectory. (I want to be sure I am counting my costs adequately)
 
 My current tech stack is: **Rails, PostgreSQL, JavaScript, HTML, CSS, CI, Heroku and Liquid**
 
