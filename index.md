@@ -54,7 +54,7 @@ Here's my <a href="https://github.com/kon-ham/kon-ham.github.io/blob/main/kon-ha
 
  - ~~**Learning Node**. Since I am a mentor at Code the Dream, I have opportunities to review new potential class material. CTD is migrating their backend program from Rails to Node. This is a section to document that progress of learning Node as well as my observations of the class material. (Link will be provided soon)~~
  
-  - **UPDATE** I backed out of reviewing the Node curriculum for Code the Dream due to time constraints. Ends up I overestimated the amount of time I would have had and underestimated the amount of effort it would take me to ramp back up with JavaScript. I'll instead be focusing on deepening my knowledge with Ruby/Rails and Python.
+      - **UPDATE** - I backed out of reviewing the Node curriculum for Code the Dream due to time constraints. Ends up I overestimated the amount of time I would have had and underestimated the amount of effort it would take me to ramp back up with JavaScript. I'll instead be focusing on deepening my knowledge with Ruby/Rails and Python.
 
  - **KnewHarvest** is a web-application that tracks a user's plant crops from seed to harvest. Authors of this application work closely in collaboration with end-user by implementing Agile methodology. MVP and sprint runs are utilized. End-user provides feedback with each sprint-run. Features are built incrementally. All authors work remotely and are located in three separate timezones. 
 
