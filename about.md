@@ -4,22 +4,24 @@ title: About
 ---
 
 ## My name is Kon Ham.
-This is where I dump everything I find interesting. You'll also find loads of personal thoughts on business, marketing, life, movies, books and general self-improvement. 
+This website is my portfolio to demonstrate my writing and communication, software development skills, analysis on business, advertising, sales and marketing, and generally how I like to think about things.
+
+On top of that, I also blog post here to share more of my intimate thoughts.
+
+Sometimes I write poetry.
 
 ## My Background:
-I am a software developer, United States veteran, and a proud high-school dropout. (Ask me how I feel about the public school system!)
+I am a software developer, United States veteran, and a high-school dropout. (Ask me how I feel about the public school system!)
 
-Both my undergraduate and graduate degrees are in education: **B.A Early Childhood Education, M.Ed. Instructional Design**. I'm one semester into obtaining my MBA but I may not finish.
+Both my undergraduate and graduate degrees are in education: **B.A Early Childhood Education, M.Ed. Instructional Design**. I'm one semester into obtaining my MBA but I am holding off until I get a clearer idea of my current career trajectory.
 
-The skills I'm currently utilizing are: **Rails, PostgreSQL, JavaScript, HTML, CSS, CI, Heroku and Liquid**
+My current tech stack is: **Rails, PostgreSQL, JavaScript, HTML, CSS, CI, Heroku and Liquid**
 
-I’ve also recently obtained national and state accreditation as an emergency medical technician basic (**NREMT EMT-B**) and am looking for opportunities to volunteer my time in my local community. 
+I'm currently learning: **Python/Django**
 
-Please let me know if you have any leads.
+I’ve also recently obtained national and state accreditation as an emergency medical technician basic (**NREMT EMT-B**) and am looking for opportunities to volunteer my time in my local community.
 
-Because my background and experience is varied, I have a wide range of experiences that might be useful to you.  
-
-My hope is that at least one post on this site contributes to adding value to your life so that your time here is not wasted.
+Please let me know if you have any leads for volunteer work.
 
 ## Contact Me
 My email is: [contact@konkham.com](mailto:contact@konkham.com) or [info.konham@gmail.com](mailto:info.konham@gmail.com)    
