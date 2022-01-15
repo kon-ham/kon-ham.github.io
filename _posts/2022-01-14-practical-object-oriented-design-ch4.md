@@ -73,8 +73,53 @@ Referring back to technical debt and costs, good public interfaces reduce cost o
 
 ## Avoiding pitfalls with greenfield applications
 
+Resist the tempation to begin coding immediately. 
 
+You may want to immediately begin thinking of your application in terms of classes. You may begin utilizing nouns to describe classes that have both behavior and data. Those classes will be the big and visible representations of real world objects.
 
+But be careful not to fixate on those objects. They are obvious but they are not the design center of the application. (Metz)
+
+Good design experts notice domain objects (the large, visible, and obvious objects that reflect important real-world objects) but they do not fixate on them. Instead they focus on the messages that pass between those objects.
+
+Focusing on the messages of those objects will help guide you to other objects that were not initially obvious to you. These are objects that you did not originally think of but are revealed through following the messages that pass between the objects.
+
+## Sequence diagrams
+
+Sequence diagrams through the use of "Unified Modeling Language" can help you to visualize your applications needs and to make modifications to the diagram as needed to reflect the application.
+
+This allows you to experiment with different object arrangements and the message passing schemes. (Metz) 
+
+These diagrams are a low-cost approach to bringing clarity and opportunities for collaboration and communication.
+
+Again, for emphasis, these diagrams are to reflect two things: objects and the messages that pass between them. 
+
+Sequence diagrams enable you to go from asking "I know I need this class - what should it do" to "I need to send this message, who should respond to it?"
+
+The reality is that we don't send messages because we have objects. But rather instead we have objects because we need to send messages. 
+
+Sequencing diagrams may help us to discover subtle differences in our understanding of our application. It may be that it is not the sender but rather the receiver of the message that needs clarification. 
+
+Since this is a low cost approach to diagraming design, our lack of attachment to a particular approach is a feature of sequence diagramming.
+
+Finally, Metz says that sequence diagrams "make otherwise impossibly convoluted conversations comprehensible". This goes for conversations with tech literate and illiterate alike.
+
+## Trust and Context
+
+Trust is the keystone of object oriented design. Objects trust other objects to get the job done without knowing the context of what an object does to get the job done.
+
+One object says to another "I know what I want and I trust you to do your part". 
+
+Because of this trust, it allows objects to collaborate without binding themselves to knowing all of the context of another object of how it gets a job done. 
+
+Objects that have simple context are easy to use and easy to test. They expect very few things from the their surroundings. Objects that have complicated context are hard to use and hard to test. They require a complicated setup before they can do anything useful. (Metz)
+
+## Changing focus from objects to messages
+
+Focusing your attention from objects to messages allows you to build applications that are build upon public interfaces.
+
+These interfaces, more than any of your tests or your code will define your application and determine its future. 
+
+These 
 
 ## Was this helpful?
 
