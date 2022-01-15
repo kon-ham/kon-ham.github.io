@@ -113,13 +113,65 @@ Because of this trust, it allows objects to collaborate without binding themselv
 
 Objects that have simple context are easy to use and easy to test. They expect very few things from the their surroundings. Objects that have complicated context are hard to use and hard to test. They require a complicated setup before they can do anything useful. (Metz)
 
-## Changing focus from objects to messages
+## Changing focus from objects to messages with the context of interfaces
 
 Focusing your attention from objects to messages allows you to build applications that are build upon public interfaces.
 
 These interfaces, more than any of your tests or your code will define your application and determine its future. 
 
-These 
+These public interface methods should be:
+  1) Explicitly defined as such
+  2) Be more about what than how
+  3) Have names that, as far as you can anticipate, will not change
+  4) Prefers keyword arguments (non positional arguments)
+
+Ruby provides three keywords for us to utilize in our interface design. The following will be a short and inadequate summary of the three:
+  1) Public
+    - Stable, visible everywhere
+  2) Protected
+    - Denotes unstable methods but with different visibility restrictions
+    - Can allow explicit receivers such as `self` through the same class or subclasses
+  3) Private
+    - Denotes the least stable kind of method and provides the most restricted kind of visibility
+    - Must be called with implicit receiver and may never be called with explicit receiver (cannot senf `self` on itself but can be called on instances of its call and subclasses)
+
+The main use of these keywords is to communicate two messages. The first is that you have solid information now than programmers will have in the future. The second is that you believe that future programmers must be informed about methods that are stable and unstable. 
+
+Whether you use those keywords or you utilize commenate - make sure you are doing so in order to fulfill future obligations. (Metz)
+
+On the flipside, try to honor the keyword obligations when going through another's code.
+
+If you are finding you need to utilize private methods, rethink your code. Dependency on such a private method will result in contribution of technical debt. If you cannot do so, isolate the reference as much as possible.
+
+Minimize context as much as possible. Utilize the concept of trust between objects to ensure an object knows only as much needed to send a message.
+
+If you find that a class does not contain a public interface, create one! This helps reduce a class's context, thus encouraging the likelihood of reuse and testing. (Metz)
+
+## The infamous Law of Demeter
+
+It's not really a law. It's more like "floss your teeth everyday". 
+
+Metz, with humor, says that like flossing, the universe does not collapse if you do not floss your teeth one day.
+
+But it is good practice. Like all design principles, it is not an end all be all but rather it is to be in service of your overall goals. Discern wisely. (Metz)
+
+If you notice a Law of Demeter violation, it could be that you are thinking of your interface in terms of objects rather than thinking in terms of messages.
+
+Chained thoughts binds itself to a specific implementation. The cost to change is now greater. It cannot be reused.
+
+Demeter violations are "clues that there are objects whose public interfaces are lacking". (Metz) Try changing your perspective to a message based view.
+
+Again for emphasis, object oriented applications are defined by objects and the messages that pass between them. 
+
+All of these messages are to take place in the public interface.
+
+That is, we want to create well designed interfaces that consist of stable methods. It should be clear to the programmer and expose the responbilities of those classes and provide "maximal benefit at minimal cost". (Metz)
+
+Focus on the messages to reveal objects that might be overlooked.
+
+We want our messages to trust it can send a message without knowing exactly how the receiver will implement the behavior. We instead trust that the receiver will do the job and give a response back. Metz continues, it "asks for what the sender wants rather than telling the receiver how to behave." (Metz)
+
+When we hold the perspective of _messages_, objects "naturally evolve public interfaces that are flexible and reusable in novel and unexpected ways." (Metz)
 
 ## Was this helpful?
 

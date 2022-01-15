@@ -5,11 +5,9 @@ title: Home
 
 # Hi! Kon here.
 
-This website is my portfolio to demonstrate my writing and communication, software development skills, analysis on business, advertising, sales and marketing, and generally how I like to think about things.
+This website is my portfolio to demonstrate my writing and communication, software development skills, analysis on business, advertising, sales and marketing, and generally how I tend to think about things.
 
-On top of that, I also blog post here to share more of my intimate thoughts.
-
-Sometimes I write poetry.
+On top of that, I also blog post here to share more of my intimate thoughts like my poetry.
 
 Use the top right panel to navigate through my pages. Use the links below to navigate through the home page. Thanks for visiting!
 

@@ -6,16 +6,14 @@ title: About
 ## My name is Kon Ham.
 This website is my portfolio to demonstrate my writing and communication, software development skills, analysis on business, advertising, sales and marketing, and generally how I like to think about things.
 
-On top of that, I also blog post here to share more of my intimate thoughts.
-
-Sometimes I write poetry.
+On top of that, I also blog post here to share more of my intimate thoughts like my poetry.
 
 ## My Background:
-I am a software developer, United States veteran, and a high-school dropout. (Ask me how I feel about the public school system!)
+I am a software engineer, United States veteran, high-school dropout and a former illegal immigrant. 
 
-Both my undergraduate and graduate degrees are in education: **B.A Early Childhood Education, M.Ed. Instructional Design**.
+Both my undergraduate and graduate degrees are in education (B.A Early Childhood Education, M.Ed. Instructional Design).
 
-I'm one semester into obtaining my MBA but I am holding off completing it until I get a clearer idea of my current career trajectory. (I want to be sure I am counting my costs adequately)
+I'm one semester into obtaining my MBA but I am holding off completing it until I get a clearer idea of my current career trajectory - I want to be sure I am counting the costs adequately. 
 
 My current tech stack is: **Rails, PostgreSQL, JavaScript, HTML, CSS, CI, Heroku and Liquid**
 
