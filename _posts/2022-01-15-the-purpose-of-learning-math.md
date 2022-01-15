@@ -3,7 +3,7 @@ layout: post
 title: The Purpose of Learning Math
 ---
 
-or students that ask you: "What is the purpose of learning math?"
+For students that ask you: "What is the purpose of learning math?"
 
 Your answer: "How else will you learn to count your blessings?"
 
