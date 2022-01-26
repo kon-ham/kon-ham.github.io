@@ -1,7 +1,7 @@
 # Setup
 title: Kon Ham
 tagline: Software Engineer, U.S. Veteran, Hobbyist EMT-B
-url: https://getpoole.com
+url: kon-ham.com
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Kon Ham
+  url: kon-ham.com
+  email: info.konham@gmail.com
 
 # Custom vars
 version: 3.0.0
