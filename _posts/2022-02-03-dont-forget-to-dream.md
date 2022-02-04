@@ -12,7 +12,7 @@ It is our dreams that propel us forward.
 
 If I may encourage you - dream big.
 
-Those dreams come from somewhere deeper and bigger than you.
+Those dreams come from somewhere deeper and bigger than yourself.
 
 They come from nature or nature's creator and they transcend our understanding of time and space.
 
