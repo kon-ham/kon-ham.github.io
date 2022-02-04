@@ -20,7 +20,9 @@ Not only that, your dreams are inherited from others. It is not only just your d
 
 Are you feeling down? Are you feeling without hope?
 
-Remember your dreams. This can only be done when you're no longer putting out fires but rather you have time and space to think strategically. Today, resolve to dream. The other fires in your life will sooner or later take care of themselves. This means that if you can, try not to worry. 
+Remember your dreams. This can only be done when you're no longer putting out fires but rather you have time and space to think strategically. 
+
+Today, resolve to dream. The other fires in your life will sooner or later take care of themselves. This means that if you can, try not to worry. 
 
 There is a time and place for putting your nose to the grindstone to put in the hard work needed to reap the well deserved fruit of your labor. 
 
