@@ -26,7 +26,7 @@ Today, resolve to dream. The other fires in your life will sooner or later take 
 
 There is a time and place for putting your nose to the grindstone to put in the hard work needed to reap the well deserved fruit of your labor. 
 
-But today, may I encourage you to remember to look up at the moon and the vast stars of the sky and remember: Our lives are finite but dreams are eternal.
+But today, may I encourage you to remember to look up at the moon and the vast stars of the sky and remember: Our lives are finite but our dreams are eternal.
 
 Today, remember to dream. Remember to live for a dream bigger than yourself.
 
