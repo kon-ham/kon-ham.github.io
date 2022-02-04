@@ -20,19 +20,19 @@ Not only that, your dreams are inherited from others. It is not only just your d
 
 Are you feeling down? Are you feeling without hope?
 
-Remember your dreams. This can only be done when you're no longer putting out fires but rather you have time and space to think strategically. 
+Remember your dreams. This can only be done when you're no longer putting out fires but rather when you have time and space to think strategically. 
 
 Today, resolve to dream. The other fires in your life will sooner or later take care of themselves. This means that if you can, try not to worry. 
 
 There is a time and place for putting your nose to the grindstone to put in the hard work needed to reap the well deserved fruit of your labor. 
 
-But today, may I encourage you to remember to look up at the moon and the vast stars of the sky and remember: Dreams are eternal.
+But today, may I encourage you to remember to look up at the moon and the vast stars of the sky and remember: Our lives are finite but dreams are eternal.
 
 Today, remember to dream. Remember to live for a dream bigger than yourself.
 
 Dream. And remember to dream big. 
 
-Let's together dream of a future better and bigger than ourselves and our current situation. 
+Let's together dream of a future bigger and better than ourselves and our current situation. 
 
 Dreamer, today may all of your dreams come true.
 
