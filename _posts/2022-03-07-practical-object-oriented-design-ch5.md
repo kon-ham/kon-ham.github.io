@@ -62,3 +62,9 @@ Ultimately, the decision to create a new duck type relies on judgement.
 
 ## Designing Sequence Diagrams
 Be wary of overly complex sequence diagrams. The whole point of a sequence diagram is that it is simple. In fact, according to Metz, sequence diagrams should always be simpler than the code they represent.
+
+## Was this helpful?
+
+Outdated information? Grammar or spelling errors? Just want to chat?
+
+Contact me at [info.konham@gmail.com](mailto:info.konham@gmail.com)
