@@ -5,8 +5,7 @@ title: Summary of "Practical Object-Oriented Design in Ruby", Ch. 5
 
 This is a summary of Metz’s “Practical Object-Oriented Design in Ruby". That means there is no idea here that is original to my own - I am summarizing the material for my learning and in case you might want a quick summary. All credit goes to Metz.
 
-####
-"Messages are the center of object-oriented applications, and they pass among objects along public interfaces" (Metz)
+#### "Messages are the center of object-oriented applications, and they pass among objects along public interfaces" (Metz)
 
 ## On Object Oriented Design
 The purpose of object oriented design is to reduce cost of change. The messages are at the design center of your application. When we combine rigorously designed public interfaces while being aware that the messages are the center of our application, we can create what is called duck typing.
