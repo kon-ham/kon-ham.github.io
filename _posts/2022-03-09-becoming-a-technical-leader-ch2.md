@@ -8,16 +8,16 @@ This is a summary of Weinberg's "Becoming a Technical Leader". That means there 
 ## The organic model of leadership
 The organic model of leadership is the process of creating an environment in which people are empowered (Weinberg)
 
-This being empowered means: 
-	- Free to see
-	- Free to hear
-	- Free to feel
-	- Free to comment
-	- Free to move about
-  - Free to act
-  - Free to ask for what they want
-  - Free to be creative
-  - Free to make choices
+This being empowered means:
+- Free to see
+- Free to hear
+- Free to feel
+- Free to comment
+- Free to move about
+- Free to act
+- Free to ask for what they want
+- Free to be creative
+- Free to make choices
 
 The organic model also says people are unique. So each person will demonstrate different leadership styles.
 
@@ -59,6 +59,6 @@ Weinberg closes this chapter with the following quote:
 
 > "My own faith says that there really is a better way, a way that can
 > be learned and practiced by one person without harm to others. I also
-> believe that all people ca learn the problem-solving leadership style,
+> believe that all people can learn the problem-solving leadership style,
 > even if they were discouraged as children or adults. That's the
 > problem I'm working on, and that's why I've written this book."
