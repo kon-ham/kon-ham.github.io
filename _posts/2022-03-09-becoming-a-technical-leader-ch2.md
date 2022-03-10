@@ -46,7 +46,7 @@ According to Weinberg, all of the most consistently successful technical leaders
 Specifically they concentrate on three major areas:
   - Understanding the problem
   - Managing the flow of ideas
-  - maintaining quality
+  - Maintaining quality
 
 Improving becoming a technical leader does not mean you amputate your current behavior. (Weinberg) 
 
