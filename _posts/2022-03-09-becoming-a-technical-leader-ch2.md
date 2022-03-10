@@ -9,7 +9,6 @@ This is a summary of Weinberg's "Becoming a Technical Leader". That means there 
 The organic model of leadership is the process of creating an environment in which people are empowered (Weinberg)
 
 This being empowered means: 
-
 	- Free to see
 	- Free to hear
 	- Free to feel
@@ -29,7 +28,7 @@ Weinberg introduces his model of leadership: MOI.
 - O(rganization):
 	- The existing struture that enables the ideas to be worked through into practice
 - I(deas or innovation):
-		- The seeds, the image of what will become
+	- The seeds, the image of what will become
 
 Leadership can also prevent change which can also be modeled with a similar MOI:
 - M(kill the motivation):
