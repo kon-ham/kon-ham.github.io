@@ -62,3 +62,9 @@ Weinberg closes this chapter with the following quote:
 > believe that all people can learn the problem-solving leadership style,
 > even if they were discouraged as children or adults. That's the
 > problem I'm working on, and that's why I've written this book."
+
+## Was this helpful?
+
+Outdated information? Grammar or spelling errors? Just want to chat?
+
+Contact me at [info.konham@gmail.com](mailto:info.konham@gmail.com)
