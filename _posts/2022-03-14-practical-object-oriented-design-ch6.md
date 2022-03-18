@@ -90,22 +90,23 @@ end
 is given so that all subclasses inherit a default-chain of "11-speed" but each subclass specifies its default tire size, which is different for `RoadBike` and `MountainBike`. A specific downside for this design is that so far we mandate that subclasses of `Bicycle` require specifying a bicycle size upon each instantiation of the object (ex. `bent = RecumbentBike.new(size:  "L")`)
 
 Consider this example:
-	  ```
-	  	  class RecumbentBike < Bicycle
-	  	      attr_reader :flag
-	  	  
-	  	  def intialize(**opts)
-	  	      @flag = opts[:flag]    # forgot to send `super`
-	  	  end
-	  	  
-	  	  
-	  	  bent = RecumbentBike.new(flag: 'tall and orange')
-	  	  puts bent.spares
-	  	  
-	  	  # => {:tire_size=>nil,      <- didn't get initialized
-	  	  # =>  :chain=>nil,
-	  	  # =>  : flag=>"tall and orange"}
-	  ```
+```
+class RecumbentBike < Bicycle
+    attr_reader :flag
+
+def intialize(**opts)
+    @flag = opts[:flag]    # forgot to send `super`
+end
+
+
+bent = RecumbentBike.new(flag: 'tall and orange')
+puts bent.spares
+
+# => {:tire_size=>nil,      <- didn't get initialized
+# =>  :chain=>nil,
+# =>  : flag=>"tall and orange"}
+```
+
 What's happening here is that on top of demanding that subclasses know what they do, we also demand that subclasses know how they are supposed to interact with their superclass, increasing dependency between the two, creating more tightly coupled classes - this is not what we want. Not only that, we're now duplicating code because all subclasses of `Bicycle` are now required to send super in all the same spaces.
 
 When a subclass sends `super`, it is declaring that it knows the algorithm of the inheritance relationship. Metz in fact says that now this subclass *depends* on this knowledge.
