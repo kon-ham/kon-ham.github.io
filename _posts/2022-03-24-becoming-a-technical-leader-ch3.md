@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summary of "Becoming a Technical Leader", Ch. 2
+title: Summary of "Becoming a Technical Leader", Ch. 3
 ---
 
 This is a summary of Weinberg's "Becoming a Technical Leader". That means there is no idea here that is original to my own - I am summarizing the material for my learning and in case you might want a quick summary. This means that much of this is either word for word or my attempt at summarizing an idea. All credit goes to Weinberg.
