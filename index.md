@@ -24,7 +24,9 @@ Use the top right panel to navigate through my pages. Use the links below to nav
 ### Announcements: <a name="announcements-link"></a>
 
 <p class="message">
-<strong>I'm currently mentoring about 10 students learning Ruby on Rails.</strong><br>This not-for-profit organization focuses on teaching tech skills to people from diverse backgrounds (underrepresented, historically exluded, and/or folks from immigrant backgrounds) - all for free and powered by volunteers like me (and perhaps you)! It's a great mission that is very close to my heart.<br><br>Check out <a href="https://codethedream.org">Code the Dream!</a>
+<strong>My LinkedIn is currently hibernating. If you need to reach out - feel free to [email me](mailto:info.konham@gmail.com).
+
+<strong>I'm currently mentoring about about 20 students learning either Ruby on Rails or JS/HTML/CSS.</strong><br>This not-for-profit organization focuses on teaching tech skills to people from diverse backgrounds (underrepresented, historically exluded, and/or folks from immigrant backgrounds) - all for free and powered by volunteers like me (and perhaps you)! It's a great mission that is very close to my heart.<br><br>Check out <a href="https://codethedream.org">Code the Dream!</a>
 </p>
 ---
 
@@ -78,5 +80,5 @@ Use the top right panel to navigate through my pages. Use the links below to nav
 ---
 
 ### Contact Me <a name="contact-me-link"></a>
-My email is: [contact@konkham.com](mailto:contact@konkham.com) or [info.konham@gmail.com](mailto:info.konham@gmail.com)    
+My email is: [info.konham@gmail.com](mailto:info.konham@gmail.com)    
 My Github is: [github.com/kon-ham](https://github.com/kon-ham)
