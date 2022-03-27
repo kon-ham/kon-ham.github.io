@@ -7,8 +7,6 @@ title: Home
 
 This is where I write about everything.
 
-You can also find my Github as well as getting a quick glimpse as to what I've been up to lately.
-
 Use the top right panel to navigate through my pages. Use the links below to navigate through the home page. Thanks for visiting!
 
 ### Table of Contents: 

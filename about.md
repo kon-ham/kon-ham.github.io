@@ -3,25 +3,18 @@ layout: page
 title: About
 ---
 
-## My name is Kon Ham.
-This website is my portfolio to demonstrate my writing and communication, software development skills, analysis on business, advertising, sales and marketing, and generally how I like to think about things.
-
-On top of that, I also blog post here to share more of my intimate thoughts like my poetry.
-
-## My Background:
-I am a software engineer, United States veteran, high-school dropout and a former illegal immigrant. 
+## Hi! Kon here - My Background:
+I am a software engineer, United States veteran (USCG), high-school dropout, former undocumented immigrant, and the son of a humble dry-cleaner. 
 
 Both my undergraduate and graduate degrees are in education (B.A Early Childhood Education, M.Ed. Instructional Design).
 
-I'm one semester into obtaining my MBA but I am holding off completing it until I get a clearer idea of my current career trajectory - I want to be sure I am counting the costs adequately. 
+I'm 1/4 done with my MBA but this is a project I may not return to finish.
 
 My current tech stack is: **Rails, PostgreSQL, JavaScript, HTML, CSS, CI, Heroku and Liquid**
 
-I'm currently learning: **Python/Django**
+I'm currently learning: **Python/Django** and **JavaScript**
 
-I’ve also recently obtained national and state accreditation as an emergency medical technician basic (**NREMT EMT-B**) and am looking for opportunities to volunteer my time in my local community.
-
-Please let me know if you have any leads for volunteer work.
+I’ve also recently obtained national and state accreditation as an emergency medical technician basic (**NREMT EMT-B**) and am looking for opportunities to volunteer my time in my local community. Let me know if you have any leads for volunteer work as an EMT!
 
 ## Contact Me
 My email is: [contact@konkham.com](mailto:contact@konkham.com) or [info.konham@gmail.com](mailto:info.konham@gmail.com)    
