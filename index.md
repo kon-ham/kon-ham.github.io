@@ -46,7 +46,8 @@ Use the top right panel to navigate through my pages. Use the links below to nav
 
 ### My Current Coding Project(s): <a name="my-current-coding-projects-link"></a>
 
- - **Learning Python**. I'm exploring Python via ['100 Days of Python'](https://www.udemy.com/course/100-days-of-code/).
+ - **Learning Python**. I'm exploring Python via ['100 Days of Python'](https://www.udemy.com/course/100-days-of-code/). 
+   Here's the Github [link](https://github.com/kon-ham/100_days_of_python).
 
  - **KnewHarvest** is a web-application that tracks a user's plant crops from seed to harvest. Authors of this application work closely in collaboration with end-user by implementing Agile methodology. MVP and sprint runs are utilized. End-user provides feedback with each sprint-run. Features are built incrementally. All authors work remotely and are located in three separate timezones. 
 
