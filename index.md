@@ -45,15 +45,13 @@ Use the top right panel to navigate through my pages. Use the links below to nav
 
 ### My Current Coding Project(s): <a name="my-current-coding-projects-link"></a>
 
- - **Learning Python**. I'm learning Python for my next role. This section will be updated to reflect my progress on Python and any other interesting tidbits I learn in the process. (Link will be provided soon)
-
- - ~~**Learning Node**. Since I am a mentor at Code the Dream, I have opportunities to review new potential class material. CTD is migrating their backend program from Rails to Node. This is a section to document that progress of learning Node as well as my observations of the class material. (Link will be provided soon)~~
- 
-    - **UPDATE** - I backed out of reviewing the Node curriculum for Code the Dream due to time constraints. Ends up I overestimated the amount of time I would have had and underestimated the amount of effort it would take me to ramp back up with JavaScript. I'll instead be focusing on deepening my knowledge with Ruby/Rails and Python.
+ - **Learning Python**. I'm exploring Python via ['100 Days of Python'](https://www.udemy.com/course/100-days-of-code/).
 
  - **KnewHarvest** is a web-application that tracks a user's plant crops from seed to harvest. Authors of this application work closely in collaboration with end-user by implementing Agile methodology. MVP and sprint runs are utilized. End-user provides feedback with each sprint-run. Features are built incrementally. All authors work remotely and are located in three separate timezones. 
 
     This project is a practice in building an application in which goals and final deadlines are unknown. The authors of this application build small, iteratively, and collaboratively. Deliberate practice in async communications for standups and check-ins. Project board utilized to track user stories as well as progress of tasks and features. 
+
+    We're currently using: Tailwind CSS and Rails.
 
     Check out the current status of this project [here](https://github.com/wdk3)!
 
