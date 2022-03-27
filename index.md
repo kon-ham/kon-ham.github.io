@@ -25,7 +25,7 @@ Use the top right panel to navigate through my pages. Use the links below to nav
 <strong>My LinkedIn is currently hibernating.</strong>
 <br>If you need to reach out - feel free to <a href="mailto:info.konham@gmail.com">email me</a>. (info.konham@gmail.com)
 <br><br>
-<strong>I'm currently mentoring about about 20 students learning either Ruby on Rails or JS/HTML/CSS.</strong><br>This not-for-profit organization focuses on teaching tech skills to people from diverse backgrounds (underrepresented, historically exluded, and/or folks from immigrant backgrounds) - all for free and powered by volunteers like me (and perhaps you)! It's a great mission that is very close to my heart.<br><br>Check out <a href="https://codethedream.org">Code the Dream!</a>
+<strong>I'm currently mentoring about about 20 students learning either Ruby on Rails or 'Intro to Programming'.</strong><br>This not-for-profit organization focuses on teaching tech skills to people from diverse backgrounds (underrepresented, historically exluded, and/or folks from immigrant backgrounds) - all for free and powered by volunteers like me (and perhaps you)! It's a great mission that is very close to my heart. Check out <a href="https://codethedream.org">Code the Dream!</a>
 </p>
 ---
 
