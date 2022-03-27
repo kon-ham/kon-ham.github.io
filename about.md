@@ -14,7 +14,7 @@ My current tech stack is: **Python, Django, Ruby, Rails, PostgreSQL**
 
 To see a complete list of my skills from familiar to proficient, check out my [Github](https://github.com/kon-ham).
 
-I’ve also recently obtained national and state accreditation as an emergency medical technician basic (**NREMT EMT-B**) and am looking for opportunities to volunteer my time in my local community. Let me know if you have any leads for volunteer work as an EMT!
+I'm an EMT-B (**NREMT EMT-B**) and am looking for opportunities to volunteer my time in my local community. These skills depreciate if not actively practiced. I need practice. This is a way I can give back to a community. Let me know if you have any leads for volunteer work as an EMT!
 
 ## Contact Me
 My email is: [contact@konkham.com](mailto:contact@konkham.com) or [info.konham@gmail.com](mailto:info.konham@gmail.com)    
