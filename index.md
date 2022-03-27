@@ -22,6 +22,8 @@ Use the top right panel to navigate through my pages. Use the links below to nav
 ### Announcements: <a name="announcements-link"></a>
 
 <p class="message">
+<strong>Recruiters:</strong><br>
+I'm happily employed but I'm always available for conversation.<br><br>
 <strong>My LinkedIn is currently hibernating.</strong>
 <br>If you need to reach out - feel free to <a href="mailto:info.konham@gmail.com">email me</a>. (info.konham@gmail.com)
 <br><br>
