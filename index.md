@@ -5,9 +5,9 @@ title: Home
 
 # Hi! Kon here.
 
-This website is my portfolio to demonstrate my writing and communication, software development skills, analysis on business, advertising, sales and marketing, and generally how I tend to think about things.
+This is where I write about everything.
 
-On top of that, I also blog post here to share more of my intimate thoughts like my poetry.
+You can also find my Github as well as getting a quick glimpse as to what I've been up to lately.
 
 Use the top right panel to navigate through my pages. Use the links below to navigate through the home page. Thanks for visiting!
 
