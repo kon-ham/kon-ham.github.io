@@ -19,6 +19,7 @@ Here it is:
 	- I identified and communicated with engineers assigned to that portion of the product to assist with brainstorming that error logging capability. I continued to collaborate with feedback and input as to what sort of messages would be useful for engineers on the team I am assigned to so that we can more effectively troubleshoot. 
 	- An added benefit to this feature is that it can stand as a predecessor to when the product becomes more user driven and those error messages can be swapped out with more user-friendly messages.
 - I organized a 30-minute weekly meeting where engineers from my team engaged in a 'show-and-tell' where we share wins or tricks we've learned to increase our productivity. This meeting went for up to 30 minutes but if team members had nothing to pass the meeting ended in 5 minutes, giving everyone back 25 minutes.
+- I created XYZ number of documents as I began my onboarding/ramping up process so that I can more effectively learn the product as well as designing the material so that they can act as future onboarding documents for the next engineer that comes after me. 
 
 
 ## Was this helpful?
