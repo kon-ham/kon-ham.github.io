@@ -3,7 +3,7 @@ layout: post
 title: Code the Dream's Mentor of the Month Post
 ---
 ## Mentor of the Month at Code the Dream
-Code the Dream was kind enough to recognize my volunteer work at Code the Dream and to select me for mentor of the month of February.
+Code the Dream was kind enough to recognize my volunteer work at Code the Dream and to select me as mentor of the month of February.
 
 They asked me to write a few sentences about myself and naturally I said more than a few sentences - but they posted it anyways on a blog post.
 
