@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Code the Dream's Mentor of the Month Post
+title: I was selected as mentor of the month at Code the Dream
 ---
 ## Mentor of the Month at Code the Dream
 Code the Dream was kind enough to recognize my volunteer work at Code the Dream and to select me as mentor of the month of February.
