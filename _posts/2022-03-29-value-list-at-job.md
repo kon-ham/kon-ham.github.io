@@ -20,6 +20,7 @@ Here it is:
 	- An added benefit to this feature is that it can stand as a predecessor to when the product becomes more user driven and those error messages can be swapped out with more user-friendly messages.
 - I organized a 30-minute weekly meeting where engineers from my team engaged in a 'show-and-tell' where we share wins or tricks we've learned to increase our productivity. This meeting went for up to 30 minutes but if team members had nothing to pass the meeting ended in 5 minutes, giving everyone back 25 minutes.
 - I created XYZ number of documents as I began my onboarding/ramping up process so that I can more effectively learn the product as well as designing the material so that they can act as future onboarding documents for the next engineer that comes after me. 
+- I was involved with the completion of 72 Jira issues so far. Granted, I understand completion of Jira tickets is not necessarily an indication of the _useful_ work that I've been doing - but it should help people to get an idea of the frequency of custom solutions I am building for clients on a given lifetime.
 
 
 ## Was this helpful?
