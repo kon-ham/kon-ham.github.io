@@ -33,7 +33,7 @@ Use the top right panel to navigate through my pages. Use the links below to nav
 
 ### My Recent Posts: <a name="my-recent-posts-link"></a>
 <ul>
-  {% for post in site.posts limit: 10 %}
+  {% for post in site.posts limit: 15 %}
   <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
         <!-- <time  datetime="{{ post.date | date_to_xmlschema }}"  class="post-date">{{ post.date | date_to_string }}</time> -->
