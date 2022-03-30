@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summary of "Clean Code", Ch. 1
+title: Summary of "Clean Code", Ch. 2
 ---
 This is a summary of Martin's "Clean Code". That means there is no idea here that is original to my own - I am summarizing the material for my learning and in case you might want a quick summary. In fact there are points here where I completely copy word for word what tue author has said. I take no credit. All credit goes to Martin.
 
