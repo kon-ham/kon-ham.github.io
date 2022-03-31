@@ -19,7 +19,6 @@ Number-naming series are the opposite of intentional meaning. (`a1, a2, a3, a4, 
 Vague naming for a `Product` class like `ProductInfo` or `ProductData`, in particular words like 'info' and 'data' are noise words. They are indistinct such as 'a', 'an', and 'the'. (Martin)
 
 As you think about naming conventions and similar words, classes, objects, variables, think about how naming one object provides *distinction* to the person reading your code.
--
   ```
   getActiveAccount();
   getActiveAccounts();
