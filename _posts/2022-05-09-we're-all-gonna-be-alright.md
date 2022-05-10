@@ -1,5 +1,5 @@
 ---
-title: We're all gonna be alright
+title: We're all gonna be alright (Poetry)
 layout: post
 ---
 
