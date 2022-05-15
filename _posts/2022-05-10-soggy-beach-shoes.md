@@ -11,7 +11,7 @@ But I don't remember the beach.
 Our coupled bodies now house warming gifts to ourselves - such sensory delight
 How a tear fell from your face onto my cheek
 Because when you asked me to take responsibility for our lives
-I didn't respond and and instead I turned my body
+I didn't respond and instead I turned my body
 And you knew I was planning to leave
 I don't remember the beach
 But I remember my soggy shoes
