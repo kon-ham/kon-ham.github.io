@@ -1,5 +1,5 @@
 ---
-title: Soggy shoes
+title: Soggy shoes (Poetry)
 layout: post
 ---
 
