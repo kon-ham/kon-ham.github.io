@@ -22,7 +22,7 @@ I want to know that sometimes I may say something inappropriate or silly and tha
 I think it is within this domain of trust that people grow intimately and deeply.
 
 ### Mistakes turn to opportunity with trust
-Life is about making mistakes - hopefully small or minor ones - but mistakes nonetheless. Then after making those mistakes one must overcome and learn from those mistakes. If we don't have a sphere, a home, cave, or nest from which we can spring from to conquer new challenges, it becomes very difficult to grow and to build.
+Life is about making mistakes - hopefully small or minor ones - but mistakes nonetheless. Then after making those mistakes one must overcome and learn from those mistakes. If we don't have a sphere, a home, cave, or nest from which we can spring from to conquer new challenges, it becomes very difficult to grow and to build a beautiful life. A worthy life. 
 
 From commerce to friendship, a relationship is built upon trust.
 
