@@ -49,4 +49,4 @@ Time was once a gift to humanity - we were giften with time so that we can cheri
 
 We must be productive. We must use the time we have to the best of our ability to be servants to others by producing good works. But no matter what, time will pass and we will need to sleep after a hard day of work.
 
-So accept the life that you've been given. Accept the reality of time. And make the best of your situation. 
+So accept the life that you've been given. Accept the reality of time. Make the best of your situation. But enjoy it also. Enjoy all of what life offers, it's pleasures and sufferings and contemplations. If you need to weep, go ahead and weep. If you feel compelled to rejoice, go ahead and rejoice. Regardless of what you do, time is relentless. 
