@@ -1,5 +1,5 @@
 ---
-title: Revising the smartphone question and the value of waiting
+title: Revisiting the smartphone question and the value of (productive) waiting
 layout: post
 ---
 
