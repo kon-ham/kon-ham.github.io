@@ -20,7 +20,7 @@ Sing is the main character. Sing is a loser. His aim is to con people out of mon
 
 Despite his enormous unlocked potential, we see that in the end, Sing has settled for life as a candy shop owner. There is no desire to 'change the world' with his unlocked potential. He is content to return to the real world as a layman after his kung-fu awakening.
 
-The biggest critique I have of Marvel/comic book movies is that it is all hero and no Joe Schmoe. Even the so called 'regular' people in the movie are scientists, doctors, engineers that all are a part of the Avenger's ecosystem. The only time Joe Schmoe is even remotely referenced is when he gets a PG-13 rated implied death because he happened to be on his way back home from work when the Avengers and The Bad Guys decided to duke it out on the interstate.
+The biggest critique I have of Marvel/comic book movies is that it is all hero and no Joe Schmoe. Even the so called 'regular' people in the Avengers movies are scientists, doctors, engineers that all are a part of the Avenger's ecosystem. The only time Joe Schmoe is even remotely referenced is when he gets a PG-13 rated implied death because he happened to be on his way back home from work when the Avengers and The Bad Guys decided to duke it out on the interstate.
 
 The Incredibles said it best. Syndrome says to Mr. Incredible as Syndrome unveils his villainous master plan, 'Everyone can be super. And when everyone's super, no one will be.'
 
@@ -31,7 +31,7 @@ Sing wants an easy life, so he makes a bargain with the Axe Gang so that he can 
 
 As Sing approaches the locked gate that holds 'The Beast', he envisions the hallway flooded with a river of blood. Plague creatures inhabit the hallway space. He knows there is a crossing of the Rubicon moment when he unlocks the gate.
 
-Sometimes we are our own worst enemies. Sometimes the worst mistakes in our lives are the ones we willingly make and in doing so, our decisions and actions give birth to a monstrosity. 
+Sometimes we are our own worst enemies. Sometimes the worst mistakes in our lives are the ones we willingly make and in doing so, our decisions and actions give birth to a monstrosity. Sometimes the worst enemies in our lives are the ones we unleash ourselves.
 
 ## Though The Beast is our greatest enemy, we must learn to make control it and to make it a servant to ourselves
 In the climax of the movie, Sing defeats 'The Beast' and though he could easily kill 'The Beast' but he chooses to spare his life. The Beat, seeing a glimpse of the Sun shining upon Sing, breaks down in tears and falls on his knees, calling Sing 'master'.
@@ -51,7 +51,7 @@ As the movie ends, we see a fruition of a coming together of time, as Sing is no
 Our past, our present, and our future have a connection. All of what happens in time happens for a reason and ultimately we are moving towards a conclusion of history where there will be a tying together of the loose ends of history. At the end, everything will be made right and people will find a deep and cathartic resolution to their lives as they see that all things in history led from the beginning to the end, all with purpose, and all with reason.
 
 ## The greatest achievement of the kungfu master was to lay down his life for another
-The greatest achievement of kung-fu master Sing was not when he defeated 'The Beast', but rather when he was a worthless and naive young boy, unable to fight back against a group of young bullies as he tried to save a young girl who was about to have her candy stolen from her.
+The greatest achievement of kung-fu master Sing was not when he defeated 'The Beast', but rather when he was a naive young boy, unable to fight back against a group of young bullies as he tried to save a young deaf girl.
 
 Sing's greatest achievement was being beaten to a pulp so that she wouldn't have to be. Sing's greatest glory was when he was pissed on by the young boys, who called him an idiot loser as they left feeling victorious. 
 
