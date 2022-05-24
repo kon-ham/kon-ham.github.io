@@ -5,7 +5,7 @@ title: If I had one wish (A country song)
 
 I know it ain't Christmas yet
 but if I had one wish
-It'd be for my mama and daddy to have their teeth fixed
+It'd be for my mom and dad to have their teeth fixed
 so that they can bite into a steak every now and then
 I know it ain't Christmas yet
 
